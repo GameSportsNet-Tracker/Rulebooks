@@ -13,24 +13,24 @@ Index
   
 
   
-2.  [Zusammensetzung Teams](#teams)  
+2.  [Zusammensetzung Teams](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#teams)  
     
-3.  [Coverage](#coverage)  
+3.  [Coverage](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#coverage)  
     
-4.  [Spieltag & Spielablauf](#spieltag)  
+4.  [Spieltag & Spielablauf](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#spieltag)  
     
-5.  [Vor dem Match](#vor)  
+5.  [Vor dem Match](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#vor)  
     
-6.  [Taktische und Technische Pausen](#pausen)  
+6.  [Taktische und Technische Pausen](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#pausen)  
     
-7.  [Finals und Preisgeld](#finals)  
+7.  [Finals und Preisgeld](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#finals)  
     
 
   
   
 
-Zusammensetzung Teams[(^)](#top)
---------------------------------
+Zusammensetzung Teams[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
+--------------------------------------------------------------------------------------------
 
   
   
@@ -95,8 +95,8 @@ Es können nach Abschluss des Spieltag 7 (Saison 16: 18. Oktober 2020 - 18:00 Uh
   
   
 
-Coverage[(^)](#top)
--------------------
+Coverage[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
+-------------------------------------------------------------------------------
 
   
   
@@ -166,8 +166,8 @@ Den Teams wird am Match-Tag im eingerichteten Discord-Chat mitgeteilt, welcher S
   
   
 
-Spielplan & Spielablauf[(^)](#top)
-----------------------------------
+Spielplan & Spielablauf[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
+----------------------------------------------------------------------------------------------
 
   
   
@@ -229,8 +229,8 @@ Das Anwenden der Pause und Stand-in Regeln, um den Start weiter hinaus zu zöger
   
   
 
-Vor dem Match[(^)](#top)
-------------------------
+Vor dem Match[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
+------------------------------------------------------------------------------------
 
   
   
@@ -348,8 +348,8 @@ Spiele der Division 1 werden ausschließlich von 99Damage Castern und/oder Partn
   
   
 
-Taktische und Technische Pausen[(^)](#top)
-------------------------------------------
+Taktische und Technische Pausen[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
+------------------------------------------------------------------------------------------------------
 
   
 
@@ -366,8 +366,8 @@ Sollte ein technisches Problem auftauchen, ist die Pause-Funktion des eBots zu n
   
   
 
-Finals & Preisgeld[(^)](#top)
------------------------------
+Finals & Preisgeld[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
+-----------------------------------------------------------------------------------------
 
   
   

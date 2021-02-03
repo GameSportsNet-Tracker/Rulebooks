@@ -13,22 +13,22 @@ Index
   
 
   
-2.  [Zusammensetzung Teams](#teams)  
+2.  [Zusammensetzung Teams](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#teams)  
     
-3.  [Spieltag & Spielablauf](#spieltag)  
+3.  [Spieltag & Spielablauf](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#spieltag)  
     
-4.  [Vor dem Match](#vor)  
+4.  [Vor dem Match](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#vor)  
     
-5.  [Taktische und Technische Pausen](#pausen)  
+5.  [Taktische und Technische Pausen](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#pausen)  
     
-6.  [Coverage](#coverage)  
+6.  [Coverage](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#coverage)  
     
 
   
   
 
-Zusammensetzung Teams[(^)](#top)
---------------------------------
+Zusammensetzung Teams[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#top)
+--------------------------------------------------------------------------------------------
 
   
   
@@ -138,8 +138,8 @@ Spieler können während einer laufenden Saison bis zum 05. Juli 2020 - 18:00 Uh
   
   
 
-Spielplan & Spielablauf[(^)](#top)
-----------------------------------
+Spielplan & Spielablauf[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#top)
+----------------------------------------------------------------------------------------------
 
   
   
@@ -285,8 +285,8 @@ Sollte ein technisches Problem auftauchen, ist die Pause-Funktion des eBots zu n
   
   
 
-Coverage[(^)](#top)
--------------------
+Coverage[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#top)
+-------------------------------------------------------------------------------
 
   
   

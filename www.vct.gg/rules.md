@@ -5,8 +5,8 @@ Additional Rules
 [Global Competition Policy](https://www.dropbox.com/sh/lblshtlz5vnsqda/AABIELy6jk2dDK3xPuD_FUeca?dl=0&preview=VALORANT+Champions+Tour+-+Global+Competition+Policy+v1.1.pdf)  
   
 
-Open Qualifier Rules
---------------------
+Qualifier Rules
+---------------
 
   
   
@@ -29,6 +29,9 @@ Open Qualifier Rules
 9.  [Schedule](https://www.vct.gg/en/statics/rules#6)
 
   
+  
+**For the whole tournament the VALORANT Tournament client is needed.**  
+**Download: [Tournament Client](https://www.dropbox.com/s/98cldpheztuh6xj/val-champions-tour.2.01.exe?dl=0)**  
   
   
 

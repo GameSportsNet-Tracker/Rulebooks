@@ -30,39 +30,39 @@ Index
   
 
   
-2.  [Allgemeines](#allgemeines)  
+2.  [Allgemeines](https://liga.99damage.de/de/statics/league_rules_99liga/#allgemeines)  
       
     
-3.  [Liga Struktur](#struktur)  
+3.  [Liga Struktur](https://liga.99damage.de/de/statics/league_rules_99liga/#struktur)  
       
     
-4.  [Gruppen und Format](#gruppen)  
+4.  [Gruppen und Format](https://liga.99damage.de/de/statics/league_rules_99liga/#gruppen)  
       
     
-5.  [Zusammensetzung Teams](#teams)  
+5.  [Zusammensetzung Teams](https://liga.99damage.de/de/statics/league_rules_99liga/#teams)  
       
     
-6.  [Proteste und Fragen](#protest)  
+6.  [Proteste und Fragen](https://liga.99damage.de/de/statics/league_rules_99liga/#protest)  
       
     
-7.  [Spieltag und Spielablauf](#spieltag)  
+7.  [Spieltag und Spielablauf](https://liga.99damage.de/de/statics/league_rules_99liga/#spieltag)  
       
     
-8.  [Vor dem Match](#vor)  
+8.  [Vor dem Match](https://liga.99damage.de/de/statics/league_rules_99liga/#vor)  
       
     
-9.  [Während des Matches](#match)  
+9.  [Während des Matches](https://liga.99damage.de/de/statics/league_rules_99liga/#match)  
       
     
-10.  [Cheating](#cheating)  
+10.  [Cheating](https://liga.99damage.de/de/statics/league_rules_99liga/#cheating)  
     
 
   
   
   
 
-Allgemeines [(^)](#top)
------------------------
+Allgemeines [(^)](https://liga.99damage.de/de/statics/league_rules_99liga/#top)
+-------------------------------------------------------------------------------
 
   
   
