@@ -1,5 +1,5 @@
 Das folgende Regelwerk gilt ausschließlich für die Division 1 sowie die Playoffs zwischen Division 1 und Division 2.  
-Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](#top_changelog) dargestellt.  
+Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/de/statics/rules_div1_changelog) dargestellt.  
   
 [Regelwerk für die Pro Division](https://cdn1-v3.gamesports.net/img/themes/primeleague/rules_pro.pdf?2020-12-17)  
   
@@ -13,23 +13,23 @@ Index
   
 
   
-2.  [Allgemeines](#top#allgemeines)  
+2.  [Allgemeines](https://www.primeleague.gg/de/statics/rules_div1#allgemeines)  
     
-3.  [Ligastruktur & Format](#top#format)  
+3.  [Ligastruktur & Format](https://www.primeleague.gg/de/statics/rules_div1#format)  
     
-4.  [Zusammensetzung der Teams](#top#teams)  
+4.  [Zusammensetzung der Teams](https://www.primeleague.gg/de/statics/rules_div1#teams)  
     
-5.  [Proteste & Fragen](#top#protest)  
+5.  [Proteste & Fragen](https://www.primeleague.gg/de/statics/rules_div1#protest)  
     
-6.  [Spielplan & Spielablauf](#top#spielplan)  
+6.  [Spielplan & Spielablauf](https://www.primeleague.gg/de/statics/rules_div1#spielplan)  
     
-7.  [Vor dem Match](#top#vorbereitungen)  
+7.  [Vor dem Match](https://www.primeleague.gg/de/statics/rules_div1#vorbereitungen)  
     
-8.  [Während des Matches](#top#match)  
+8.  [Während des Matches](https://www.primeleague.gg/de/statics/rules_div1#match)  
     
-9.  [Betrugsversuche](#top#cheating)  
+9.  [Betrugsversuche](https://www.primeleague.gg/de/statics/rules_div1#cheating)  
     
-10.  [Strafen bei Regelbruch](#top#violation)
+10.  [Strafen bei Regelbruch](https://www.primeleague.gg/de/statics/rules_div1#violation)
 
   
   
@@ -886,6 +886,6 @@ Strafen bei Regelbruch
   
 Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bestrafung des ganzen Teams führen. Das Maß der Bestrafung wird individuell von der Administration entschieden.  
   
-[Zum Anfang](#top#top)  
+[Zum Anfang](https://www.primeleague.gg/de/statics/rules_div1#top)  
   
 Letztes Update: 21.01.2021

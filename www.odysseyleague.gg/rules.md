@@ -18,21 +18,21 @@ Quick rules
   
 
   
-2.  [General](#top#1)  
+2.  [General](https://www.odysseyleague.gg/en/statics/rules#1)  
     
-3.  [Tournament format](#top#2)  
+3.  [Tournament format](https://www.odysseyleague.gg/en/statics/rules#2)  
     
-4.  [Registration](#top#3)  
+4.  [Registration](https://www.odysseyleague.gg/en/statics/rules#3)  
     
-5.  [Before the match](#top#4)  
+5.  [Before the match](https://www.odysseyleague.gg/en/statics/rules#4)  
     
-6.  [During the match](#top#5)  
+6.  [During the match](https://www.odysseyleague.gg/en/statics/rules#5)  
     
-7.  [Protests](#top#6)  
+7.  [Protests](https://www.odysseyleague.gg/en/statics/rules#6)  
     
-8.  [Rule violations](#top#7)  
+8.  [Rule violations](https://www.odysseyleague.gg/en/statics/rules#7)  
     
-9.  [Prizes](#top#8)  
+9.  [Prizes](https://www.odysseyleague.gg/en/statics/rules#8)  
     
 
   

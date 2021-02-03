@@ -224,8 +224,8 @@ Teams, die aufgrund von Inaktivität aus der laufenden Saison ausgetragen wurden
   
   
 
-Liga Struktur [(^)](#top)
--------------------------
+Liga Struktur [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
+----------------------------------------------------------------------------
 
   
   
@@ -265,8 +265,8 @@ Jede Division ist in eine Vielzahl von Gruppen aufgeteilt. Eine Gruppe besteht a
   
   
 
-Gruppen und Format [(^)](#top)
-------------------------------
+Gruppen und Format [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
+---------------------------------------------------------------------------------
 
   
   
@@ -327,8 +327,8 @@ Abhängig von der Platzierung nach Ende einer Saison steigen Teams auf, ab oder 
   
   
 
-Zusammensetzung der Teams [(^)](#top)
--------------------------------------
+Zusammensetzung der Teams [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
+----------------------------------------------------------------------------------------
 
   
   
@@ -511,8 +511,8 @@ Sollte der Verkauf gegen Geld, Dienstleistungen oder Sachleistungen bekannt werd
   
   
 
-Proteste & Fragen [(^)](#top)
------------------------------
+Proteste & Fragen [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
+--------------------------------------------------------------------------------
 
   
   
@@ -636,8 +636,8 @@ Werden diese Vorgaben nicht erfüllt, wird der Protest auf Grund von Unvollstän
   
   
 
-Spieltag & Spielablauf [(^)](#top)
-----------------------------------
+Spieltag & Spielablauf [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
+-------------------------------------------------------------------------------------
 
   
   
@@ -730,8 +730,8 @@ Jedes Team hat vollständig zum ausgemachten Zeitpunkt spielbereit zu sein. Spie
   
   
 
-Vor dem Match [(^)](#top)
--------------------------
+Vor dem Match [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
+----------------------------------------------------------------------------
 
   
   
@@ -857,8 +857,8 @@ Der Mappool besteht aus folgenden sieben Maps:
   
   
 
-Während des Matches[(^)](#top)
-------------------------------
+Während des Matches[(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
+---------------------------------------------------------------------------------
 
   
   
@@ -1024,8 +1024,8 @@ Ein Team, das vollzählig vor Ende einer Map den Server absichtlich verlässt, v
   
   
 
-Cheating[(^)](#top)
--------------------
+Cheating[(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
+----------------------------------------------------------------------
 
   
   

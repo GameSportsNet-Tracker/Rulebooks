@@ -12,23 +12,23 @@ Overview
   
 
   
-2.  [General Rules](#top#general)  
+2.  [General Rules](https://www.joindota.com/en/statics/league_brawl_rules#general)  
     
-3.  [Structure and Format](#top#structure)  
+3.  [Structure and Format](https://www.joindota.com/en/statics/league_brawl_rules#structure)  
     
-4.  [Teams and Players](#top#teams)  
+4.  [Teams and Players](https://www.joindota.com/en/statics/league_brawl_rules#teams)  
     
-5.  [Hosting and Punctuality](#top#hosting)  
+5.  [Hosting and Punctuality](https://www.joindota.com/en/statics/league_brawl_rules#hosting)  
     
-6.  [Sides and Drafting Order](#top#drafting)  
+6.  [Sides and Drafting Order](https://www.joindota.com/en/statics/league_brawl_rules#drafting)  
     
-7.  [During a game](#top#during)  
+7.  [During a game](https://www.joindota.com/en/statics/league_brawl_rules#during)  
     
-8.  [After a game](#top#after)  
+8.  [After a game](https://www.joindota.com/en/statics/league_brawl_rules#after)  
     
-9.  [Rule Violation and Punishment](#top#violation)  
+9.  [Rule Violation and Punishment](https://www.joindota.com/en/statics/league_brawl_rules#violation)  
     
-10.  [Legal Process](#top#legal)
+10.  [Legal Process](https://www.joindota.com/en/statics/league_brawl_rules#legal)
 
   
   

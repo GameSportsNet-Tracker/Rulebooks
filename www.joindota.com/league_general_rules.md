@@ -23,31 +23,31 @@ Overview
   
 
   
-2.  [General Rules](#top#general)  
+2.  [General Rules](https://www.joindota.com/en/statics/league_general_rules#general)  
     
-3.  [Activity](#top#activity)  
+3.  [Activity](https://www.joindota.com/en/statics/league_general_rules#activity)  
     
-4.  [League Structure](#top#league)  
+4.  [League Structure](https://www.joindota.com/en/statics/league_general_rules#league)  
     
-5.  [Calibration Phase](#top#calibration)  
+5.  [Calibration Phase](https://www.joindota.com/en/statics/league_general_rules#calibration)  
     
-6.  [Group Format](#top#group)  
+6.  [Group Format](https://www.joindota.com/en/statics/league_general_rules#group)  
     
-7.  [Teams and Players](#top#teams)  
+7.  [Teams and Players](https://www.joindota.com/en/statics/league_general_rules#teams)  
     
-8.  [Schedule](#top#schedule)  
+8.  [Schedule](https://www.joindota.com/en/statics/league_general_rules#schedule)  
     
-9.  [Hosting and Punctuality](#top#hosting)  
+9.  [Hosting and Punctuality](https://www.joindota.com/en/statics/league_general_rules#hosting)  
     
-10.  [Sides and Drafting Order](#top#drafting)  
+10.  [Sides and Drafting Order](https://www.joindota.com/en/statics/league_general_rules#drafting)  
     
-11.  [During a game](#top#during)  
+11.  [During a game](https://www.joindota.com/en/statics/league_general_rules#during)  
     
-12.  [Rule Violation and Punishment](#top#violation)  
+12.  [Rule Violation and Punishment](https://www.joindota.com/en/statics/league_general_rules#violation)  
     
-13.  [Prizes](#top#prizes)  
+13.  [Prizes](https://www.joindota.com/en/statics/league_general_rules#prizes)  
     
-14.  [Legal Process](#top#legal)
+14.  [Legal Process](https://www.joindota.com/en/statics/league_general_rules#legal)
 
   
   
@@ -185,7 +185,7 @@ Each season has four (4) different periods during which the team performance det
   
 
   
-*   Phase 0 or Calibration Phase (Further explained in [Rule 4](#top#calibration))  
+*   Phase 0 or Calibration Phase (Further explained in [Rule 4](https://www.joindota.com/en/statics/league_general_rules#calibration))  
     
 *   Phase 1  
     

@@ -12,25 +12,25 @@ Overview
   
 
   
-2.  [General Rules](#top#general)  
+2.  [General Rules](https://www.joindota.com/en/statics/league_premier_rules#general)  
     
-3.  [Teams and Players](#top#teams)  
+3.  [Teams and Players](https://www.joindota.com/en/statics/league_premier_rules#teams)  
     
-4.  [Schedule and Punctuality](#top#schedule)  
+4.  [Schedule and Punctuality](https://www.joindota.com/en/statics/league_premier_rules#schedule)  
     
-5.  [Hosting and Settings](#top#hosting)  
+5.  [Hosting and Settings](https://www.joindota.com/en/statics/league_premier_rules#hosting)  
     
-6.  [During a game](#top#during)  
+6.  [During a game](https://www.joindota.com/en/statics/league_premier_rules#during)  
     
-7.  [Finals](#top#finals)  
+7.  [Finals](https://www.joindota.com/en/statics/league_premier_rules#finals)  
     
-8.  [Betting and Gambling](#top#betting)  
+8.  [Betting and Gambling](https://www.joindota.com/en/statics/league_premier_rules#betting)  
     
-9.  [Rule Violation and Punishment](#top#violation)  
+9.  [Rule Violation and Punishment](https://www.joindota.com/en/statics/league_premier_rules#violation)  
     
-10.  [Prizes](#top#prizes)  
+10.  [Prizes](https://www.joindota.com/en/statics/league_premier_rules#prizes)  
     
-11.  [Legal Process](#top#legal)
+11.  [Legal Process](https://www.joindota.com/en/statics/league_premier_rules#legal)
 
   
   

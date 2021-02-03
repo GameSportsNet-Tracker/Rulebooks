@@ -1,5 +1,5 @@
 Das folgende Regelwerk gilt ausschließlich für die Divisionen 2-6, die Starter Division sowie die Playoffs zwischen Division 2 und Division 6.  
-Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](#top_changelog) dargestellt.  
+Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/de/statics/rules_general_changelog) dargestellt.  
   
 [Regelwerk für die Pro Division](https://cdn1-v3.gamesports.net/img/themes/primeleague/rules_pro.pdf?2020-12-17)  
   
@@ -13,23 +13,23 @@ Index
   
 
   
-2.  [Allgemeines](#top#allgemeines)  
+2.  [Allgemeines](https://www.primeleague.gg/de/statics/rules_general#allgemeines)  
     
-3.  [Ligastruktur & Format](#top#format)  
+3.  [Ligastruktur & Format](https://www.primeleague.gg/de/statics/rules_general#format)  
     
-4.  [Zusammensetzung der Teams](#top#teams)  
+4.  [Zusammensetzung der Teams](https://www.primeleague.gg/de/statics/rules_general#teams)  
     
-5.  [Proteste & Fragen](#top#protest)  
+5.  [Proteste & Fragen](https://www.primeleague.gg/de/statics/rules_general#protest)  
     
-6.  [Spielplan & Spielablauf](#top#spielplan)  
+6.  [Spielplan & Spielablauf](https://www.primeleague.gg/de/statics/rules_general#spielplan)  
     
-7.  [Vor dem Match](#top#vorbereitungen)  
+7.  [Vor dem Match](https://www.primeleague.gg/de/statics/rules_general#vorbereitungen)  
     
-8.  [Während des Matches](#top#match)  
+8.  [Während des Matches](https://www.primeleague.gg/de/statics/rules_general#match)  
     
-9.  [Betrugsversuche](#top#cheating)  
+9.  [Betrugsversuche](https://www.primeleague.gg/de/statics/rules_general#cheating)  
     
-10.  [Strafen bei Regelbruch](#top#violation)
+10.  [Strafen bei Regelbruch](https://www.primeleague.gg/de/statics/rules_general#violation)
 
   
   
@@ -913,6 +913,6 @@ Strafen bei Regelbruch
   
 Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bestrafung des ganzen Teams führen. Das Maß der Bestrafung wird individuell von der Administration entschieden.  
   
-[Zum Anfang](#top#top)  
+[Zum Anfang](https://www.primeleague.gg/de/statics/rules_general#top)  
   
 Letztes Update: 06.01.2021
