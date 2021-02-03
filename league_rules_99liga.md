@@ -30,39 +30,39 @@ Index
   
 
   
-2.  [Allgemeines](https://liga.99damage.de/de/statics/league_rules_99liga/#allgemeines)  
+2.  [Allgemeines](#allgemeines)  
       
     
-3.  [Liga Struktur](https://liga.99damage.de/de/statics/league_rules_99liga/#struktur)  
+3.  [Liga Struktur](#struktur)  
       
     
-4.  [Gruppen und Format](https://liga.99damage.de/de/statics/league_rules_99liga/#gruppen)  
+4.  [Gruppen und Format](#gruppen)  
       
     
-5.  [Zusammensetzung Teams](https://liga.99damage.de/de/statics/league_rules_99liga/#teams)  
+5.  [Zusammensetzung Teams](#teams)  
       
     
-6.  [Proteste und Fragen](https://liga.99damage.de/de/statics/league_rules_99liga/#protest)  
+6.  [Proteste und Fragen](#protest)  
       
     
-7.  [Spieltag und Spielablauf](https://liga.99damage.de/de/statics/league_rules_99liga/#spieltag)  
+7.  [Spieltag und Spielablauf](#spieltag)  
       
     
-8.  [Vor dem Match](https://liga.99damage.de/de/statics/league_rules_99liga/#vor)  
+8.  [Vor dem Match](#vor)  
       
     
-9.  [Während des Matches](https://liga.99damage.de/de/statics/league_rules_99liga/#match)  
+9.  [Während des Matches](#match)  
       
     
-10.  [Cheating](https://liga.99damage.de/de/statics/league_rules_99liga/#cheating)  
+10.  [Cheating](#cheating)  
     
 
   
   
   
 
-Allgemeines [(^)](https://liga.99damage.de/de/statics/league_rules_99liga/#top)
--------------------------------------------------------------------------------
+Allgemeines [(^)](#top)
+-----------------------
 
   
   
@@ -224,8 +224,8 @@ Teams, die aufgrund von Inaktivität aus der laufenden Saison ausgetragen wurden
   
   
 
-Liga Struktur [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
-----------------------------------------------------------------------------
+Liga Struktur [(^)](#op)
+------------------------
 
   
   
@@ -265,8 +265,8 @@ Jede Division ist in eine Vielzahl von Gruppen aufgeteilt. Eine Gruppe besteht a
   
   
 
-Gruppen und Format [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
----------------------------------------------------------------------------------
+Gruppen und Format [(^)](#op)
+-----------------------------
 
   
   
@@ -327,8 +327,8 @@ Abhängig von der Platzierung nach Ende einer Saison steigen Teams auf, ab oder 
   
   
 
-Zusammensetzung der Teams [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
-----------------------------------------------------------------------------------------
+Zusammensetzung der Teams [(^)](#op)
+------------------------------------
 
   
   
@@ -511,8 +511,8 @@ Sollte der Verkauf gegen Geld, Dienstleistungen oder Sachleistungen bekannt werd
   
   
 
-Proteste & Fragen [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
---------------------------------------------------------------------------------
+Proteste & Fragen [(^)](#op)
+----------------------------
 
   
   
@@ -636,8 +636,8 @@ Werden diese Vorgaben nicht erfüllt, wird der Protest auf Grund von Unvollstän
   
   
 
-Spieltag & Spielablauf [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
--------------------------------------------------------------------------------------
+Spieltag & Spielablauf [(^)](#op)
+---------------------------------
 
   
   
@@ -730,8 +730,8 @@ Jedes Team hat vollständig zum ausgemachten Zeitpunkt spielbereit zu sein. Spie
   
   
 
-Vor dem Match [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
-----------------------------------------------------------------------------
+Vor dem Match [(^)](#op)
+------------------------
 
   
   
@@ -857,8 +857,8 @@ Der Mappool besteht aus folgenden sieben Maps:
   
   
 
-Während des Matches[(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
----------------------------------------------------------------------------------
+Während des Matches[(^)](#op)
+-----------------------------
 
   
   
@@ -1024,8 +1024,8 @@ Ein Team, das vollzählig vor Ende einer Map den Server absichtlich verlässt, v
   
   
 
-Cheating[(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
-----------------------------------------------------------------------
+Cheating[(^)](#op)
+------------------
 
   
   
