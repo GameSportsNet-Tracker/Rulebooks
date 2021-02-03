@@ -224,8 +224,8 @@ Teams, die aufgrund von Inaktivität aus der laufenden Saison ausgetragen wurden
   
   
 
-Liga Struktur [(^)](#op)
-------------------------
+Liga Struktur [(^)](#top)
+-------------------------
 
   
   
@@ -265,8 +265,8 @@ Jede Division ist in eine Vielzahl von Gruppen aufgeteilt. Eine Gruppe besteht a
   
   
 
-Gruppen und Format [(^)](#op)
------------------------------
+Gruppen und Format [(^)](#top)
+------------------------------
 
   
   
@@ -327,8 +327,8 @@ Abhängig von der Platzierung nach Ende einer Saison steigen Teams auf, ab oder 
   
   
 
-Zusammensetzung der Teams [(^)](#op)
-------------------------------------
+Zusammensetzung der Teams [(^)](#top)
+-------------------------------------
 
   
   
@@ -511,8 +511,8 @@ Sollte der Verkauf gegen Geld, Dienstleistungen oder Sachleistungen bekannt werd
   
   
 
-Proteste & Fragen [(^)](#op)
-----------------------------
+Proteste & Fragen [(^)](#top)
+-----------------------------
 
   
   
@@ -636,8 +636,8 @@ Werden diese Vorgaben nicht erfüllt, wird der Protest auf Grund von Unvollstän
   
   
 
-Spieltag & Spielablauf [(^)](#op)
----------------------------------
+Spieltag & Spielablauf [(^)](#top)
+----------------------------------
 
   
   
@@ -730,8 +730,8 @@ Jedes Team hat vollständig zum ausgemachten Zeitpunkt spielbereit zu sein. Spie
   
   
 
-Vor dem Match [(^)](#op)
-------------------------
+Vor dem Match [(^)](#top)
+-------------------------
 
   
   
@@ -857,8 +857,8 @@ Der Mappool besteht aus folgenden sieben Maps:
   
   
 
-Während des Matches[(^)](#op)
------------------------------
+Während des Matches[(^)](#top)
+------------------------------
 
   
   
@@ -1024,8 +1024,8 @@ Ein Team, das vollzählig vor Ende einer Map den Server absichtlich verlässt, v
   
   
 
-Cheating[(^)](#op)
-------------------
+Cheating[(^)](#top)
+-------------------
 
   
   
