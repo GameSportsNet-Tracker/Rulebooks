@@ -415,9 +415,15 @@ Lobby Settings
     TR: Istanbul  
     RU: Warsaw  
     
-*   Tournament mode has to be set  
+*   Allow Cheats: Off  
     
-*   Overtime: Win by Two has to be on
+*   Tournament Mode: On  
+    
+*   Play Out All Rounds: Off  
+    
+*   Overtime: Win by Two: On  
+    
+*   Hide Match History: Off
 
   
   
