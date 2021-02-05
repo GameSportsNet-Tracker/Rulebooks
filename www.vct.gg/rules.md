@@ -26,9 +26,11 @@ Qualifier Rules
     
 8.  [Co-Streaming Regulations](https://www.vct.gg/en/statics/rules#7)  
     
-9.  [Schedule](https://www.vct.gg/en/statics/rules#6)
+9.  [Schedule](https://www.vct.gg/en/statics/rules#6)  
+    
+10.  [Prize Money](https://www.vct.gg/en/statics/rules#prizemoney)  
+    
 
-  
   
 
   
@@ -571,3 +573,148 @@ Day 5 - BO3 Phase
 *   Round 13 (1st round of the day) - Sunday - 17:00  
     
 *   Round 14 - Sunday - 17:00
+
+  
+  
+
+Prize Money
+-----------
+
+  
+
+### Challengers 1 prize pool
+
+  
+
+Placement
+
+EU
+
+TR
+
+CIS
+
+1st-4th
+
+€4,375
+
+€2,500
+
+€2,500
+
+  
+  
+
+### Challengers 2 & 3 prize pool
+
+  
+
+Placement
+
+EU
+
+TR
+
+CIS
+
+1st-4th
+
+€8,750
+
+€4,375
+
+€4,375
+
+  
+  
+
+### Stage 1 - Masters
+
+  
+
+Placement
+
+EU
+
+TR
+
+CIS
+
+1st
+
+$60,000
+
+$30,000
+
+$30,000
+
+2nd
+
+$30,000
+
+$15,000
+
+$15,000
+
+3rd/4th
+
+$15,000
+
+$7,500
+
+$7,500
+
+5th/6th
+
+$10,000
+
+$5,000
+
+$5,000
+
+7th/8th
+
+$5,000
+
+$2,500
+
+$2,500
+
+  
+  
+
+### EMEA Challengers Finals
+
+  
+
+Placement
+
+Prize
+
+1st
+
+€35,000
+
+2nd
+
+€20,000
+
+3rd
+
+€12,500
+
+4th
+
+€7,500
+
+5th/6th
+
+€5,000
+
+7th/8th
+
+€2,500
+
+9th-16th
+
+€1,250
