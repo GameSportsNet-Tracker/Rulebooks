@@ -12,23 +12,23 @@ Qualifier Rules
   
 
   
-2.  [Definition of Terms](https://www.vct.gg/en/statics/rules#12)  
+2.  [Definition of Terms](https://www.vct.gg/statics/rules#12)  
     
-3.  [General](https://www.vct.gg/en/statics/rules#1)  
+3.  [General](https://www.vct.gg/statics/rules#1)  
     
-4.  [Tournament Format](https://www.vct.gg/en/statics/rules#2)  
+4.  [Tournament Format](https://www.vct.gg/statics/rules#2)  
     
-5.  [Registration](https://www.vct.gg/en/statics/rules#3)  
+5.  [Registration](https://www.vct.gg/statics/rules#3)  
     
-6.  [Team](https://www.vct.gg/en/statics/rules#4)  
+6.  [Team](https://www.vct.gg/statics/rules#4)  
     
-7.  [Match Procedure](https://www.vct.gg/en/statics/rules#5)  
+7.  [Match Procedure](https://www.vct.gg/statics/rules#5)  
     
-8.  [Co-Streaming Regulations](https://www.vct.gg/en/statics/rules#7)  
+8.  [Co-Streaming Regulations](https://www.vct.gg/statics/rules#7)  
     
-9.  [Schedule](https://www.vct.gg/en/statics/rules#6)  
+9.  [Schedule](https://www.vct.gg/statics/rules#6)  
     
-10.  [Prize Money](https://www.vct.gg/en/statics/rules#prizemoney)  
+10.  [Prize Money](https://www.vct.gg/statics/rules#prizemoney)  
     
 
   
@@ -36,9 +36,9 @@ Qualifier Rules
   
 **For the whole tournament the VALORANT Tournament client is needed.**  
 **Download: [Tournament Client](https://www.dropbox.com/s/98cldpheztuh6xj/val-champions-tour.2.01.exe?dl=0)**  
-[Guide on how to install the Tournament Client](https://www.vct.gg/en/statics/tournament_client_guide)  
+[Guide on how to install the Tournament Client](https://www.vct.gg/statics/tournament_client_guide)  
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   
   
@@ -147,7 +147,7 @@ Every person participating in the 2021 VALORANT Challengers hereby agrees to the
 
   
 
-Every participant is required to link their Riot account with their GameSports account. Participants are only eligible to play if the registered account is used. If a participant wants to change their Game Account, they have to contact the administration via a [Support Ticket](https://www.vct.gg/en/users/support).
+Every participant is required to link their Riot account with their GameSports account. Participants are only eligible to play if the registered account is used. If a participant wants to change their Game Account, they have to contact the administration via a [Support Ticket](https://www.vct.gg/users/support).
 
   
 
@@ -176,7 +176,7 @@ The primary communication platform for 2021 VALORANT Challengers is www.vct.gg.
 
   
 
-The administration can only be contacted via [support tickets](https://www.vct.gg/en/users/support). Any other form of communication may be ignored.
+The administration can only be contacted via [support tickets](https://www.vct.gg/users/support). Any other form of communication may be ignored.
 
   
 
@@ -335,7 +335,7 @@ Later rounds of each day
     
 *   At the moment both teams are available at the match page the map veto has to be started using the comment section of the match page within 15 minutes  
     
-*   If one team doesn´t start the map veto or doesn't respond to the veto start a [Support Ticket](https://www.vct.gg/en/users/support) has to be created
+*   If one team doesn´t start the map veto or doesn't respond to the veto start a [Support Ticket](https://www.vct.gg/users/support) has to be created
 
   
   
@@ -440,7 +440,7 @@ Every team has once to option to pause a map for up to 10 minutes. The player ha
 
   
 
-Once a full match is over both teams must enter the correct match result on their match page. If one team enters no result or a wrong result, their opponent must open a [support ticket](https://www.vct.gg/en/users/support) as soon as possible.
+Once a full match is over both teams must enter the correct match result on their match page. If one team enters no result or a wrong result, their opponent must open a [support ticket](https://www.vct.gg/users/support) as soon as possible.
 
   
   
@@ -449,7 +449,7 @@ Once a full match is over both teams must enter the correct match result on thei
 
   
 
-Using a bug or exploit to gain an unfair advantage is strictly forbidden. If you are not sure if a mechanic is intentional or bugged, please contact the administration via [support ticket](https://www.vct.gg/en/users/support) to clarify before using.
+Using a bug or exploit to gain an unfair advantage is strictly forbidden. If you are not sure if a mechanic is intentional or bugged, please contact the administration via [support ticket](https://www.vct.gg/users/support) to clarify before using.
 
   
   
@@ -473,7 +473,7 @@ Schedule
 ### Registration
 
   
-The schedule for each qualifier can be found on each Qualifier page. An overview of all qualifiers can be found [here](https://www.vct.gg/en/leagues). The signups close three days before the beginning of the qualifier. In the time between signup end and the start of the qualifier, additional anti-cheat checks are done. This is to ensure that every participant is eligible for the event.  
+The schedule for each qualifier can be found on each Qualifier page. An overview of all qualifiers can be found [here](https://www.vct.gg/leagues). The signups close three days before the beginning of the qualifier. In the time between signup end and the start of the qualifier, additional anti-cheat checks are done. This is to ensure that every participant is eligible for the event.  
   
 
 ### Schedule Qualifier 1
