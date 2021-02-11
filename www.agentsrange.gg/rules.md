@@ -27,7 +27,7 @@ Jede natürliche Person, die im Besitz eines legalen VALORANT Account und eines 
 
   
 
-Die Anmeldung zum Agent´s Range Cup ist für einen bestimmten Zeitraum geöffnet. Siehe hierzu den Countdown. Die Check-In-Phase beginnt jeweils 30 Minuten vor Cup-Start-Termin. Im Falle von weiteren Cups müssen sich Ausnahmslos alle Teams für einen neuen Cup anmelden und die Teilnehmer ihre Teilnahme bestätigen. Dies gilt auch für Teams und Teilnehmer, die an vorherigen Cups teilgenommen haben.
+Die Anmeldung zum Agent´s Range Cup ist für einen bestimmten Zeitraum geöffnet. Siehe hierzu den Countdown. Die Check-In-Phase beginnt jeweils 30 Minuten vor Cup-Start-Termin. Im Falle von weiteren Cups müssen sich ausnahmslos alle Teams für einen neuen Cup anmelden und die Teilnehmer ihre Teilnahme bestätigen. Dies gilt auch für Teams und Teilnehmer, die an vorherigen Cups teilgenommen haben.
 
   
   
@@ -53,7 +53,7 @@ Jeder Teilnehmer erkennt das Recht der Freaks 4U Gaming GmbH an, das Regelwerk z
 
   
 
-Jeder Teilnehmer hat anderen Teilnehmern und der Cup Administration den gebührenden Respekt entgegen zu bringen. Beleidigungen, unfaires- und/oder respektloses Verhalten wird nicht toleriert und kann mit dem sofortigen Ausschluss aus den Cups geahndet werden.
+Jeder Teilnehmer hat anderen Teilnehmern und der Cup Administration den gebührenden Respekt entgegen zu bringen. Beleidigungen, unfaires und/oder respektloses Verhalten wird nicht toleriert und kann mit dem sofortigen Ausschluss aus den Cups geahndet werden.
 
   
 
@@ -78,7 +78,7 @@ Als journalistisches Medium diskutiert und berichtet Agent´s Range, die Freaks 
 
   
 
-Jeder Spieler, der an einem Spiel in einem Agent´s Range Cup teilnimmt, erklärt sich damit einverstanden, dass Spieler- sowie Teamnamen, Teamlogos sowie Ton- und Bildaufnahmen in denen der Spieler wiedergegeben werden für Veröffentlichungen auf Webseiten der Freaks 4U Gaming GmbH deren, Social-Media-Kanälen und im Rahmen der Presse unentgeltlich genutzt werden können. Die Freaks 4U Gaming GmbH ist damit zu einer zeitlich und örtlich uneingeschränkten und unbegrenzten Nutzung, Speicherung und Verwendung des Materials berechtigt.
+Jeder Spieler, der an einem Spiel in einem Agent´s Range Cup teilnimmt, erklärt sich damit einverstanden, dass Spieler- sowie Teamnamen, Teamlogos sowie Ton- und Bildaufnahmen in denen der Spieler wiedergegeben wird für Veröffentlichungen auf Webseiten der Freaks 4U Gaming GmbH deren, Social-Media-Kanälen und im Rahmen der Presse unentgeltlich genutzt werden können. Die Freaks 4U Gaming GmbH ist damit zu einer zeitlich und örtlich uneingeschränkten und unbegrenzten Nutzung, Speicherung und Verwendung des Materials berechtigt.
 
   
 
@@ -161,13 +161,12 @@ Die generell maximale Teilnehmerbegrenzung liegt bei 32 teilnehmdenen Teams
 
   
 
-Melden entsprechend mehr Teams an und führen ebenfalls den Check-In für einen Cup durch, ist eine Aufstockung auf 64 Teams möglich.
+Melden sich entsprechend mehr Teams an und führen ebenfalls den Check-In für einen Cup durch, ist eine Aufstockung auf 64 Teams möglich.
 
   
 
 Dies entscheidet die Cup-Administration nach Ende der Check-In-Phase, wenn ersichtlich ist, wie viele Teams auf der Warteliste stehen.
 
-  
   
   
 
@@ -227,7 +226,7 @@ Ausschließlich Teilnehmer, welcher dem Team-Account beigetreten ist und seine T
 
   
 
-Ein Beitritt bei laufenden Cup ist nicht möglich.
+Ein Beitritt bei laufendem Cup ist nicht möglich.
 
   
   
@@ -250,11 +249,11 @@ Das Lineup ist für jedes Match des Brackets auf der Match-Seite vor dem Match-T
 
   
 
-*   Erstgenanntes Team auf der Match-Seite (links- Team A\] bannt 1 Map  
+*   Erstgenanntes Team auf der Match-Seite (links - Team A\] bannt 1 Map  
     
 *   Zweitgenanntes Team auf der Match-Seite (rechts - Team B\] bannt 1 Map  
     
-*   Erstgenanntes Team auf der Match-Seite (links- Team A\] bannt 1 Map  
+*   Erstgenanntes Team auf der Match-Seite (links - Team A\] bannt 1 Map  
     
 *   Zweitgenanntes Team auf der Match-Seite (rechts - Team B\] bannt 1 Map  
     
@@ -326,7 +325,7 @@ Jeder InEye Stream, muss #Agent´s Range im Stream-Titel eingetragen haben.
 
   
 
-Nur Spieler und von der Adminstration autorisierten Caster dürfen einer Lobby joinen und diese Spiele übertragen.
+Nur Spieler und von der Adminstration autorisierte Caster dürfen einer Lobby joinen und diese Spiele übertragen.
 
   
 
