@@ -657,7 +657,7 @@ Ein vom Standard-Termin abweichender Termin muss bis zum Beginn der Voting-Phase
   
   
 
-Ein Wunschtermin, der innerhalb der aktuellen Spielwoche 48 Stunden lang nicht von dem anderen Team abgelehnt wird, gilt als stillschweigend akzeptiert, sofern der Termin zum Zeitpunkt des Vorschlags mindestens 48 Stunden in der Zukunft und der Zeitpunkt des Terminvorschlags mindestens 48 Stunden vor dem Standard-Termin liegt. Die jeweilige Spielwoche beginnt hier jeweils montags 00:00 Uhr und endet sonntags um 23.59 Uhr.
+Ein Wunschtermin, der innerhalb der aktuellen Spielwoche 24 Stunden lang nicht von dem anderen Team abgelehnt wird, gilt als stillschweigend akzeptiert, sofern der Termin zum Zeitpunkt des Vorschlags mindestens 24 Stunden in der Zukunft und der Zeitpunkt des Terminvorschlags mindestens 24 Stunden vor dem Standard-Termin liegt. Die jeweilige Spielwoche beginnt hier jeweils montags 00:00 Uhr (bzw. nach Erstellung der Matches der Kalibrierungs-Division) und endet sonntags um 23.59 Uhr.
 
   
   
