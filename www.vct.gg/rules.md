@@ -2,7 +2,7 @@ Additional Rules
 ----------------
 
   
-[Global Competition Policy](https://www.dropbox.com/sh/lblshtlz5vnsqda/AABIELy6jk2dDK3xPuD_FUeca?dl=0&preview=VALORANT+Champions+Tour+-+Global+Competition+Policy+v1.1.pdf)  
+[Global Competition Policy](https://www.dropbox.com/sh/lblshtlz5vnsqda/AABIELy6jk2dDK3xPuD_FUeca?preview=VALORANT+Champions+Tour+-+Global+Competition+Policy+v1.2.pdf)  
   
 
 Qualifier Rules
