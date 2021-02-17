@@ -122,6 +122,11 @@ Ein Vertreter jedes Teams muss an jedem Spieltag von 30 Minuten vor dem offiziel
   
   
 
+Keine Teammitglied darf sich an legalen oder illegalen Glücksspielaktivitäten, die sich auf irgendeine Weise auf Riot Games verbundene Esports-Turniere oder -ereignisse beziehen, beteiligen oder versuchen sich daran zu beteiligen. Diese Regel gilt für alle Glücksspielaktivitäten im vorher benannten Bereich, einschließlich, und ohne Einschränkung, derjenigen, die in einem physischen Ladengeschäft oder über das Internet durchgeführt werden. Glücksspielaktivitäten sind definiert als das Setzen von Wertgegenständen, einschließlich echter Währung, virtueller Währung oder anderer digitaler Vermögenswerte, in Verbindung mit einer Wette oder einem Einsatz. Darüber hinaus darf kein Teammitglied, Liga-Admin oder Mitarbeiter von Riot Games andere Personen anweisen, erlauben, veranlassen oder befähigen, sich an legalen und illegalen Glücksspielaktivitäten im vorher benannten Bereich zu beteiligen oder zu versuchen, sich an solchen zu beteiligen.
+
+  
+  
+
 ### Datenschutzrechtliche Bestimmungen
 
   
@@ -888,4 +893,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/de/statics/rules_div1#top)  
   
-Letztes Update: 21.01.2021
+Letztes Update: 17.02.2021
