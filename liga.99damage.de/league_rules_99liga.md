@@ -345,7 +345,7 @@ Die Berechnung der Platzierung erfolgt über den Buchholz-Score.
   
   
 
-[Hier](https://liga.99damage.de/de/https://liga.99damage.de/de/statics/league_guides_swiss) geht es zum Swiss-Format-Guide, in dem wir mehr zum Ranking und Buchholz-Score erklären.
+[Hier](/statics/league_guides_swiss) geht es zum Swiss-Format-Guide, in dem wir mehr zum Ranking und Buchholz-Score erklären.
 
   
   
@@ -693,7 +693,7 @@ Ein Ligaspiel muss nicht zum angegeben Tag bzw. Uhrzeit gespielt werden. Teams k
   
   
 
-Jedes Match besitzt einen sogenannten Default-Termin. Dieser ist nur dann der offizielle Matchtermin, wenn sich keines der beiden Teams via "Scheduling-Tool" gemäß Regeln 6.1.3 und 6.1.4 um einen alternativen Matchtermin bemüht oder wenn bei nicht erreichter Einigung eines alternativen Matchtermins diese nicht bis spätestens 48 Stunden vor dem Standardtermin über ein [Support-Ticket](https://liga.99damage.de/de/https://liga.99damage.de/de/users/support) gemeldet wird.
+Jedes Match besitzt einen sogenannten Default-Termin. Dieser ist nur dann der offizielle Matchtermin, wenn sich keines der beiden Teams via "Scheduling-Tool" gemäß Regeln 6.1.3 und 6.1.4 um einen alternativen Matchtermin bemüht oder wenn bei nicht erreichter Einigung eines alternativen Matchtermins diese nicht bis spätestens 48 Stunden vor dem Standardtermin über ein [Support-Ticket](/users/support) gemeldet wird.
 
   
   
