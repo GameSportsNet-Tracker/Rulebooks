@@ -216,18 +216,18 @@ There are three (3) tournament phases per Stage:
 
   
 
-*   Maximum of 512 participating teams per qualifier  
+*   Maximum of 232 participating teams per qualifier  
     
 *   Single Elimination Bracket  
     
 *   BO1 or BO3 (depending on the round - see schedule below)  
     
 *   Patch Version  
-    *   EU v2.01  
+    *   EU v2.02  
         
-    *   TR v2.02  
+    *   TR v2.03  
         
-    *   RU v2.02  
+    *   RU v2.03  
         
 
   
