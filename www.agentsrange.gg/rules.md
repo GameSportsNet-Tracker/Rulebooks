@@ -116,7 +116,7 @@ Die primäre Kommunikationsplattform für die Agent´s Range ist die VALORANT Co
 
   
 
-Jegliche Fragen und Beschwerden zum Cup müssen über das [Supportsystem](https://www.agentsrange.gg/de/users/support) eingereicht werden. Die Cup Administration ist auf anderem Wege, wie zum Beispiel PM oder Forum, nicht zu erreichen und wird darüber keine Fragen beantworten.
+Jegliche Fragen und Beschwerden zum Cup müssen über das [Supportsystem](https://www.agentsrange.gg/users/support) eingereicht werden. Die Cup Administration ist auf anderem Wege, wie zum Beispiel PM oder Forum, nicht zu erreichen und wird darüber keine Fragen beantworten.
 
   
 
@@ -338,7 +338,7 @@ Jeder Streamer muss die Spieleinstellung so anpassen, dass kein Blut zu sehen is
 
   
 
-Sollte die Verbindung aller Spieler zu einem Server abbrechen und das erneute Beitreten auf einen Server nicht möglich sein, ist die Cup Administration via [Support Ticket](https://www.agentsrange.gg/de/users/support) unverzüglich zu informieren.
+Sollte die Verbindung aller Spieler zu einem Server abbrechen und das erneute Beitreten auf einen Server nicht möglich sein, ist die Cup Administration via [Support Ticket](https://www.agentsrange.gg/users/support) unverzüglich zu informieren.
 
   
   
@@ -351,7 +351,7 @@ Die Map ist in allen Fällen zu Ende zu spielen und der Server nicht frühzeitig
 
   
 
-Ein Team, das vollzählig vor Ende einer Map den Server absichtlich verlässt, verliert diese. Wenn der Server frühzeitig verlassen wird, ist dies der Cup Administration via [Support Ticket](https://www.agentsrange.gg/de/users/support) mitzuteilen.
+Ein Team, das vollzählig vor Ende einer Map den Server absichtlich verlässt, verliert diese. Wenn der Server frühzeitig verlassen wird, ist dies der Cup Administration via [Support Ticket](https://www.agentsrange.gg/users/support) mitzuteilen.
 
   
   
@@ -368,7 +368,7 @@ Das Team welches das Match verloren hat, hat das gemeldete Ergebnis auf der Matc
 
   
 
-Erfolgt diese Bestätigung nicht, ist dies der Cup Administration via [Support Ticket](https://www.agentsrange.gg/de/users/support) mitzuteilen. Hier ist ein Ergebnis-Screenshot mit anzuhängen.
+Erfolgt diese Bestätigung nicht, ist dies der Cup Administration via [Support Ticket](https://www.agentsrange.gg/users/support) mitzuteilen. Hier ist ein Ergebnis-Screenshot mit anzuhängen.
 
   
   
