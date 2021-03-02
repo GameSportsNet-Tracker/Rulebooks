@@ -90,7 +90,7 @@ Muss ein Spieler für mehr als ein Match von Beginn an spielen, gilt dies als We
   
   
 
-Es können nach Abschluss des Spieltag 7 (Saison 16: 18. Oktober 2020 - 18:00 Uhr) keine Spieler mehr dem Lineup hinzugefügt werden. Die Spieltag 8,9, Relegation und Finals müssen mit den Spielern bestritten werden, welche sich zum o.g. Zeitpunkt im Team-Account befinden.
+Es können nach Abschluss des Spieltag 7 (Saison 17: 26.04.2021 - 00:00 Uhr) keine Spieler mehr dem Lineup hinzugefügt werden. Die Spieltag 8,9, Relegation und Finals müssen mit den Spielern bestritten werden, welche sich zum o.g. Zeitpunkt im Team-Account befinden.
 
   
   
@@ -126,7 +126,7 @@ Wird das Lineup nicht fristgerecht auf der jeweiligen Match-Seite eingestellt, w
   
   
 
-Zu jedem Spieltag sind Match- und Gegner bezogene Statements zu verfassen. Diese sind in den Match-Kommentaren des jeweiligen Match bis spätestens 48 Stunden vor dem Match-Termin zu posten.
+Zu jedem Spieltag sind Match- und Gegner bezogene Video-Statements zu verfassen. Diese sind auf dem Team-FTP bis spätestens 48 Stunden vor dem Match-Termin zu hochzuladen.
 
   
   
@@ -179,9 +179,9 @@ Spielplan & Spielablauf[(^)](https://liga.99damage.de/de/statics/league_rules_99
 
 Die Matches werden an den folgenden Tagen ausgetragen:  
   
-\- Montag 19:00 und 21:30 Uhr jeweils ein (1) Match  
-\- Freitag 19:00 Uhr zwei (2) Matches parallel  
-\- Freitag 21:30 Uhr ein (1) Match
+\- Dienstag 19:00 und 21:30 Uhr jeweils ein (1) Match  
+\- Mittwoch 19:00 Uhr zwei (2) Matches parallel  
+\- Mittwoch 21:30 Uhr ein (1) Match
 
   
   
@@ -337,6 +337,17 @@ Der Coach muss dem Team-Account gejoint sein.
 
 Ausschließlich ein (1) Coach pro Team darf dem Server joinen.
 
+  
+  
+\[p counter=3\]
+
+*   Ein Jeder Coach muss das Spiel als auch Ton vom TS per OBS aufnehmen  
+    
+*   Im Anschluss zum Match muss dies per FTP auf einen unserer FTP-Server hochgeladen werden und wird hier mindestens 2 Wochen aufbewahrt  
+    
+*   Ein jedes Team erhält hier einen eigenen FTP-Zugang, zu dem auch nur das Team Zugang hat
+
+  
   
   
 
