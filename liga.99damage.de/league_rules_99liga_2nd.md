@@ -258,6 +258,18 @@ Ausschließlich ein (1) Coach pro Team darf dem Server joinen.
 
   
   
+\[p counter=3\]
+
+*   Ein Jeder Coach muss das Spiel als auch Ton vom TS per OBS aufnehmen  
+    
+*   Im Anschluss zum Match muss dies per FTP auf einen unserer FTP-Server hochgeladen werden und wird hier mindestens 2 Wochen aufbewahrt  
+    
+*   Ein jedes Team erhält hier einen eigenen FTP-Zugang, zu dem auch nur das Team Zugang hat  
+    
+*   Die Aufnahme ist binnen 48 Stunden auf dem FTP-Account hochgeladen werden.
+
+  
+  
 
 ### GOTV/Zuschauen/Streaming
 
@@ -275,7 +287,7 @@ Taktische und Technische Pausen[(^)](https://liga.99damage.de/de/statics/league_
 ### Taktische Pausen
 
   
-Jedem Team stehen pro Map vier (4) taktische Pausen à 45 Sekunden zur Verfügung. Die Pausen sind ebenfalls über die Pause-Funktion des 99Bots zu nutzen und die Pause durch den Befehl „!pause“ zu setzen. Nach Ablauf der 45 Sekunden startet automatisch die Freezetime der nächsten Runde. Ein vorzeitiges Beenden der Pause ist nicht möglich.  
+Jedem Team stehen pro Map vier (4) taktische Pausen à 45 Sekunden zur Verfügung. Die Pausen sind über die Ingame-Voting-Funktion zu setzen. Nach Ablauf der 45 Sekunden startet automatisch die Freezetime der nächsten Runde. Ein vorzeitiges Beenden der Pause ist nicht möglich.  
   
 
 ### Technische Pause
@@ -310,29 +322,6 @@ Stellt ein Team des Matches das Lineup nicht fristgerecht ein, wird das Match au
 
   
   
-
-### Match-Statements
-
-  
-  
-
-Zu jedem Spieltag sind Match- und Gegnerbezogene Statements zu verfassen. Diese sind in den Match-Kommentaren des jeweiligen Match bis spätestens 48 Stunden vor dem Match-Termin zu posten.
-
-  
-  
-
-Das Statement muss von einem Spieler des Teams verfasst werden. Alternativ stellt der Team-Manager es im Namen eines Spielers ein.
-
-  
-  
-
-Stellt eines der matchbeteiligten Teams das Statement nicht oder verspätet ein, erhält der Gegner das Recht, beide auszuspielenden Maps zu bestimmen.
-
-  
-  
-
-Stellen beide matchbeteiligten Teams das Statement nicht oder verspätet ein, werden die Maps per Zufall ausgelost und den Teams entsprechend zum Match-Termin mitgeteilt.
-
   
   
 

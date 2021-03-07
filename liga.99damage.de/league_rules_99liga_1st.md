@@ -131,12 +131,12 @@ Zu jedem Spieltag sind Match- und Gegner bezogene Video-Statements zu verfassen.
   
   
 
-Das Statement muss von einem Spieler des Teams verfasst werden. Alternativ stellt der Team-Manager es im Namen eines Spielers ein.
+Das Statement muss von einem Spieler des Teams verfasst werden.
 
   
   
 
-Wird das Statement nicht fristgerecht auf der jeweiligen Match-Seite eingestellt, werden dem entsprechenden Team 50,00 EUR des Saison-Bonus abgezogen und am Ende der Saison unter allen anderen Teams verteilt.
+Wird das Statement nicht fristgerecht auf dem jeweiligen FTP-Account des Teams eingestellt, werden dem entsprechenden Team 50,00 EUR des Saison-Bonus abgezogen und am Ende der Saison unter allen anderen Teams verteilt.
 
   
   
@@ -345,7 +345,9 @@ Ausschließlich ein (1) Coach pro Team darf dem Server joinen.
     
 *   Im Anschluss zum Match muss dies per FTP auf einen unserer FTP-Server hochgeladen werden und wird hier mindestens 2 Wochen aufbewahrt  
     
-*   Ein jedes Team erhält hier einen eigenen FTP-Zugang, zu dem auch nur das Team Zugang hat
+*   Ein jedes Team erhält hier einen eigenen FTP-Zugang, zu dem auch nur das Team Zugang hat  
+    
+*   Die Aufnahme ist binnen 48 Stunden auf dem FTP-Account hochgeladen werden.
 
   
   
@@ -367,7 +369,7 @@ Taktische und Technische Pausen[(^)](https://liga.99damage.de/de/statics/league_
 ### Taktische Pausen
 
   
-Jedem Team stehen pro Map vier (4) taktische Pausen à 45 Sekunden zur Verfügung. Die Pausen sind ebenfalls über die Pause-Funktion des 99Bots zu nutzen und die Pause durch den Befehl „!pause“ zu setzen. Nach Ablauf der 45 Sekunden startet automatisch die Freezetime der nächsten Runde. Ein vorzeitiges Beenden der Pause ist nicht möglich.  
+Jedem Team stehen pro Map vier (4) taktische Pausen à 45 Sekunden zur Verfügung. Die Pausen sind über die Timeout-Vote-Funktion Ingame zu setzen. Nach Ablauf der 45 Sekunden startet automatisch die Freezetime der nächsten Runde. Ein vorzeitiges Beenden der Pause ist nicht möglich.  
   
 
 ### Technische Pause

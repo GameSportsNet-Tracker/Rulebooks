@@ -459,7 +459,7 @@ Die Wechselslot-Regelung tritt für Saison 17 am 28.02.2021 um 18:00 Uhr (mit En
   
   
 
-Der Roster-Lock tritt für Saison 17 am 26.04.2021 - 00:00 Uhr in Kraft.
+Der Roster-Lock tritt für Saison 17 am 03.05.2021 - 00:00 Uhr in Kraft.
 
   
   
@@ -894,12 +894,17 @@ Ein Spiel bzw. eine jede Map kann nur dann beginnen, wenn beide Teams vollzähli
   
   
 
+Der !ready Befehl ist erst auszuführen, wenn beide Teams vollzählig auf dem Server sind. Setzt sich ein Team vor dem vollständigen Joinen des gegnerischen Teams auf ready und das Match beginnt, ist die Map auszuspielen. Fehlende Spieler dürfen im Laufe der Map nachjoinen und am Match teilnehmen.
+
+  
+  
+
 Sollte ein Spieler im Laufe des Spiels nicht wieder zurück ins Spiel kommen, kann mit vier Spielern weitergespielt werden.
 
   
   
 
-Jedes Team hat vollständig zum ausgemachten Zeitpunkt spielbereit zu sein. Spieler müssen sich innerhalb von 15 Minuten nach offizieller Matchzeit auf dem Server eingefunden und auf "Ready" gesetzt haben.
+Jedes Team hat vollständig zum ausgemachten Zeitpunkt spielbereit zu sein. Teams müssen sich innerhalb von 15 Minuten nach offizieller Matchzeit auf dem Server eingefunden und auf "Ready" gesetzt haben. Der !ready Befehl ist ausschließlich von einem Spieler vom Team auszuführen.
 
   
   
