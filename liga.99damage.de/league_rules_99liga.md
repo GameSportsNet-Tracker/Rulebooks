@@ -849,7 +849,7 @@ Für den jeweiligen Ban und Pick haben die Teams 90 Sekunden Zeit. Ist nach Abla
   
   
 
-Nach Abschluss des Voting-Prozesses werden die Maps automatisch in den dafür vorgesehenen Drop-Down-Menüs eingestellt, sodass lediglich der Server zur jeweiligen Map angefordert werden muss.
+Nach Abschluss des Voting-Prozesses werden die Maps automatisch in den dafür vorgesehenen Drop-Down-Menüs eingestellt, sodass lediglich der Server angefordert werden muss.
 
   
   
