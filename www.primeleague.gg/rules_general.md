@@ -675,7 +675,7 @@ Alle Matches sind zwingend am entsprechenden Spieltag gemäß Regel 5.1.1 auszut
   
   
 
-Sollte eines der Teams einen bereits ausgemachten Termin verschieben wollen, so muss das andere Team diesem neuen Termin erst zustimmen, bevor er wirksam wird. Das Ignorieren eines solchen Antrags kommt einer Ablehnung gleich. Zeigt sich das gegnerische Team gesprächsbereit, wenn es um die neue Terminfindung, gilt dies nicht automatisch als Annahme der Terminverschiebung. Bis zum Zeitpunkt, an dem beide Teams dem neuen Termin zustimmen, gilt der vorab vereinbarte Matchtermin.
+Sollte eines der Teams einen bereits ausgemachten Termin verschieben wollen, so muss das andere Team diesem neuen Termin erst zustimmen, bevor er wirksam wird. Das Ignorieren eines solchen Antrags kommt einer Ablehnung gleich. Zeigt sich das gegnerische Team gesprächsbereit, wenn es um die neue Terminfindung geht, gilt dies nicht automatisch als Annahme der Terminverschiebung. Bis zum Zeitpunkt, an dem beide Teams dem neuen Termin zustimmen, gilt der vorab vereinbarte Matchtermin.
 
   
   
@@ -915,4 +915,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/de/statics/rules_general#top)  
   
-Letztes Update: 06.01.2021
+Letztes Update: 15.03.2021
