@@ -181,12 +181,12 @@ Terminfindungen sind in den Liga-Match-Kommentaren abzuhalten, damit die Liga-Ad
   
   
 
-Alle Wildcard-Spiele müssen zwingend vor Start der Matches des Spieltag 7 abgeschlossen sein.
+Alle Wildcard-Spiele müssen zwingend vor Start der Matches des Spieltag 9 abgeschlossen sein.
 
   
   
 
-Matches des Spieltag 7 sind von der Verschiebung ausgeschlossen und müssen am entsprechenden Match-Termin ausgespielt werden.
+Matches des Spieltag 9 sind von der Verschiebung ausgeschlossen und müssen am entsprechenden Match-Termin ausgespielt werden.
 
   
   
