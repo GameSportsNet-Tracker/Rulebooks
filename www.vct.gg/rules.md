@@ -197,9 +197,11 @@ Tournament Format
   
 There are three (3) tournament phases per Stage:  
 
-*   Open Qualifiers  
+*   Challengers Open Qualifiers  
     
-*   Challenger  
+*   Challengers Main Event  
+    
+*   Challengers Playoffs  
     
 *   Masters
 
@@ -210,47 +212,55 @@ There are three (3) tournament phases per Stage:
 
   
 
-*   Maximum of 232 participating teams per qualifier  
+*   Maximum of 512 participating teams per qualifier  
     
 *   Single Elimination Bracket  
     
-*   BO1 or BO3 (depending on the round - see schedule below)  
-    
-*   Patch Version  
-    *   EU v2.02  
-        
-    *   TR v2.03  
-        
-    *   RU v2.03  
-        
+*   BO1 or BO3 (depending on the round - see schedule in each qualifier)
 
   
   
 
-### Qualifications
+### Open Qualifiers (EU)
 
   
 
   
-*   Qualifier 1: Top 4 are invited to Round of eight (RO8) of the Qualifier 2  
+*   Qualifier 1: Top 8 to play in the Main Event on stream  
     
-*   Qualifier 2: Top 4 play against Top 4 from Qualifier 1. Seeding is defined randomly.  
-    
-      
-    *   Top 4 advance to Masters  
-        
-    *   Bottom 4 are invited for RO8 in Qualifier 3  
-        
-    
-      
-    
-*   Qualifier 3: Top 4 play against Top 4 from Qualifier 2  
-    
-    *   Top 4 advance to Masters
-    
-      
-    
+*   Qualifier 2: Top 8 to play in the Main Event on stream
 
+  
+  
+
+### Main Event (EU)
+
+  
+
+  
+*   Single Elimination (Bo3, Bo5 Finals)  
+    
+*   Main Event 1: Top 2 qualify to Challengers Playoffs  
+    
+*   Main Event 2: Top 2 qualify to Challengers Playoffs
+
+  
+  
+
+### Challengers Playoffs (EMEA)
+
+  
+
+  
+*   Teams: 4x EU, 3x TR, 1x CIS  
+    
+*   Format: 2x GSL Group Stage into Single Elimination  
+    
+*   Main Event 1: Top 2 qualify to Challengers Playoffs  
+    
+*   Main Event 2: Top 2 qualify to Challengers Playoffs
+
+  
   
   
 
@@ -467,162 +477,51 @@ Schedule
 ### Registration
 
   
-The schedule for each qualifier can be found on each Qualifier page. An overview of all qualifiers can be found [here](https://www.vct.gg/leagues). The signups close three days before the beginning of the qualifier. In the time between signup end and the start of the qualifier, additional anti-cheat checks are done. This is to ensure that every participant is eligible for the event.  
+The schedule for each qualifier can be found on each Qualifier page. An overview of all qualifiers can be found [here](https://www.vct.gg/leagues). The signups close before the beginning of the qualifier. In the time between signup end and the start of the qualifier, additional anti-cheat checks are done. This is to ensure that every participant is eligible for the event.  
   
 
-### Schedule Qualifier 1
+### Qualifier 1 schedule
 
   
 
-Day 1 - BO1 Phase until the top 32 teams are left  
-
-*   Round 1 Thursday - 18:00  
+*   Signup: 22.-28. March  
     
-*   Round 2 Thursday - 19:00  
+*   Open Qualifier: 30. March - 01. April  
     
-*   Round 3 Thursday - 20:00 (only if more than 128 teams)  
+*   Main Event: 06.-09. April
+
+  
+  
+
+### Qualifier 2 schedule
+
+  
+
+*   Signup: 02.-08. April  
     
-*   Round 4 Thursday - 21:00 (only if more than 256 teams)
-
-  
-  
-
-Day 2 - BO3 Phase  
-
-*   Round 5 - Friday (first match of the day) - 18:00  
+*   Open Qualifier: 10.-12. April  
     
-*   Round 6 - Friday - 21:00
+*   Main Event: 15.-18. April
 
   
   
 
-Day 3 - BO3 Phase  
-
-*   Round 7 - Saturday (first match of the day) - 17:00  
-    
-*   Round 8 - Saturday - 21:00
-
-  
-  
-
-Day 4 - BO3 Phase  
-
-*   Round 9 - Sunday (first match of the day) - 17:00  
-    
-*   Round 10 - Sunday - 17:00
-
-  
-  
-
-### Qualifier schedule Qualifier 2-3
+### Playoffs schedule
 
   
 
-Day 1 - BO1 Phase until the top 8 teams are left  
-
-*   Round 1 Wednesday - 18:00  
-    
-*   Round 2 Wednesday - 19:00  
-    
-*   Round 3 Wednesday - 20:00 (only if more than 32 teams)  
-    
-*   Round 4 Wednesday - 21:00 (only if more than 64 teams)  
-    
-*   Round 5 Wednesday - 22:00 (only if more than 128 teams)  
-    
-*   Round 6 Wednesday - 23:00 (only if more than 256 teams)
+*   25\. April - 02. May
 
   
   
-
-Day 2 - BO3 Phase  
-
-*   Round 7 (1st round of the day) - Thursday - 18:00  
-    
-*   Round 8 - Thursday - 21:00
-
-  
   
 
-Day 3 - BO3 Phase  
-
-*   Round 9 (1st round of the day) - Friday - 18:00  
-    
-*   Round 10 - Friday - 21:00
-
-  
-  
-
-Day 4 - BO3 Phase  
-
-*   Round 11 (1st round of the day) - Saturday - 14:00  
-    
-*   Round 12 - Saturday - 17:00
-
-  
-  
-
-Day 5 - BO3 Phase  
-
-*   Round 13 (1st round of the day) - Sunday - 17:00  
-    
-*   Round 14 - Sunday - 17:00
-
-  
-  
-
-Prize Money
------------
+Prize Money - Stage 2
+---------------------
 
   
 
-### Challengers 1 prize pool
-
-  
-
-Placement
-
-EU
-
-TR
-
-CIS
-
-1st-4th
-
-€4,375
-
-€2,500
-
-€2,500
-
-  
-  
-
-### Challengers 2 & 3 prize pool
-
-  
-
-Placement
-
-EU
-
-TR
-
-CIS
-
-1st-4th
-
-€8,750
-
-€4,375
-
-€4,375
-
-  
-  
-
-### Stage 1 - Masters
+### Challengers Main Event 1 & 2
 
   
 
@@ -636,79 +535,59 @@ CIS
 
 1st
 
-$60,000
+€15,000
 
-$30,000
+€8,000
 
-$30,000
-
-2nd
-
-$30,000
-
-$15,000
-
-$15,000
-
-3rd-4th
-
-$15,000
-
-$7,500
-
-$7,500
-
-5th-6th
-
-$10,000
-
-$5,000
-
-$5,000
-
-7th-8th
-
-$5,000
-
-$2,500
-
-$2,500
-
-  
-  
-
-### EMEA Challengers Finals
-
-  
-
-Placement
-
-Prize
-
-1st
-
-€35,000
+€8,000
 
 2nd
 
-€20,000
-
-3rd
-
-€12,500
-
-4th
-
-€7,500
-
-5th-6th
+€10,000
 
 €5,000
 
-7th-8th
+€5,000
+
+3rd-4th
+
+€5,000
 
 €2,500
 
-9th-16th
+€2,500
 
-€1,250
+  
+  
+
+### Challengers Playoffs
+
+  
+
+Placement
+
+EMEA
+
+1st
+
+€32,500
+
+2nd
+
+€15,000
+
+3rd
+
+€10,000
+
+4th
+
+€8,000
+
+5th-6th
+
+$6,000
+
+7th-8th
+
+$4,000
