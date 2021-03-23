@@ -712,8 +712,6 @@ Falls der Wunschtermin nicht unter die vorige Regel fällt und nicht vom anderen
 
   
   
-  
-  
 
 Die Annahme eines vom Standard-Termin abweichenden Match-Termins muss spätestens eine (1) Stunde vor dem vorgeschlagenen Match-Termin erfolgen. Erfolgt die Annahme zu einem späteren Zeitpunkt, bedarf es der Zustimmung des Teams, welches den Match-Termin vorgeschlagen hat.
 
