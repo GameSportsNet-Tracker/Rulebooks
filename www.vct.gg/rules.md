@@ -12,11 +12,11 @@ Qualifier Rules
   
 
   
-2.  [Definition of Terms](https://www.vct.gg/statics/rules#12)  
+2.  [Defini](https://www.vct.gg/statics/rules#12)[tion of Terms](https://www.vct.gg/www.de)  
     
 3.  [General](https://www.vct.gg/statics/rules#1)  
     
-4.  [Tournament Format](https://www.vct.gg/statics/rules#2)  
+4.  [**Tournament** Format](https://www.vct.gg/statics/rules#2)  
     
 5.  [Registration](https://www.vct.gg/statics/rules#3)  
     
