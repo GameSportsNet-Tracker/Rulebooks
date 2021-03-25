@@ -1003,10 +1003,6 @@ Der Upload von GOTV Demos zur Veröffentlichung auf externen Seiten ist ausschli
 
   
   
-
-Das Überdecken oder Ausblenden der Werbepartner (Ingame-Grafiken) ist sowohl beim Casten vom GOTV Server als auch beim POV Stream verboten.
-
-  
   
 
 Das Joinen des Gameservers ist ausschließlich den am Match beteiligten Spielern gestattet. Weder Coaches noch Zuschauer dürfen direkt dem Gameserver joinen.
