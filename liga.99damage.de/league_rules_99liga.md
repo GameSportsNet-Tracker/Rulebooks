@@ -1003,7 +1003,6 @@ Der Upload von GOTV Demos zur Veröffentlichung auf externen Seiten ist ausschli
 
   
   
-  
 
 Das Joinen des Gameservers ist ausschließlich den am Match beteiligten Spielern gestattet. Weder Coaches noch Zuschauer dürfen direkt dem Gameserver joinen.
 
