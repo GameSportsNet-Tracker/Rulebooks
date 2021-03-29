@@ -59,6 +59,8 @@ Jeder Teilnehmer hat anderen Teilnehmern und der Cup Administration den gebühre
 
 Jeder Teilnehmer muss die aktuellste Version von VALORANT installiert haben und hat dafür Sorge zu tragen, sich frühzeitig über neue Updates zu informieren und diese auf sein System aufzuspielen. Patchen ist unter normalen Umständen keine gültige Begründung um eine Partie zu verzögern.
 
+Mit der Teilnahme an Agent´s Range Cups bestätigt der Spieler das in seinem Land vorschriftliche Alter zum Spielen von VALORANT erreicht zu haben.
+
   
 
 Ein Team ist spielberechtigt, wenn jegliche Kommunikation, sei es auf der Match-Seite, auf dem Game-Server oder im Support-Ticket, in der deutschen Sprache, sowie ein akzeptabler Ping auf dem Game-Server gewährleistet werden kann.
