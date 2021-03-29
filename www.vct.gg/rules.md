@@ -12,7 +12,7 @@ Qualifier Rules
   
 
   
-2.  [Defini](https://www.vct.gg/statics/rules#12)[tion of Terms](https://www.vct.gg/www.de)  
+2.  [Definition of Terms](https://www.vct.gg/statics/rules#12)  
     
 3.  [General](https://www.vct.gg/statics/rules#1)  
     
@@ -41,6 +41,19 @@ The Patchline is announced once the signup is over.
 Definition of Terms
 -------------------
 
+  
+
+### Home Region
+
+  
+The EMEA Home Region is defined as the competitive region encompassing Europe, Turkey, Russia & CIS and MENA. Countries, territories and locales included in this region are:  
+AFGHANISTAN, ALBANIA, ALGERIA, ANDORRA, ARMENIA, AUSTRIA, AZERBAIJAN, BAHRAIN, BANGLADESH, BELARUS, BELGIUM, BOSNIA AND HERZEGOVINA, BULGARIA, CROATIA, CYPRUS, CZECH REPUBLIC, DENMARK, DJIBOUTI, EGYPT, ESTONIA, FINLAND, FRANCE, GEORGIA, GERMANY, GREECE, HUNGARY, ICELAND, INDIA, IRAQ, IRELAND, ISRAEL, ITALY, JORDAN, KAZAKHSTAN, KOSOVO, KUWAIT, KYRGYZSTAN, LATVIA, LEBANON, LIBYA, LIECHTENSTEIN, LITHUANIA, LUXEMBOURG, MACEDONIA, MALTA, MAURITANIA, MOLDOVA, MONACO, MONTENEGRO, MOROCCO, NEPAL AND MALDIVES, NETHERLANDS, NORWAY, OMAN, PAKISTAN, PALESTINE(UN OBSERVER STATE), POLAND, PORTUGAL, QATAR, ROMANIA, RUSSIA, SANMARINO, SAUDI ARABIA, SERBIA, SLOVAKIA, SLOVENIA, SOMALIA, SPAIN, SRI LANKA, SUDAN, SWEDEN, SWITZERLAND, SYRIA, TAJIKISTAN, TUNISIA, TURKEY, TURKMENISTAN ,UKRAINE ,UNITED ARAB EMIRATES, UNITED KINGDOM (UK), UZBEKISTAN, VATICAN CITY (HOLYSEE), WESTERN SAHARA (SAHRAWI ARAB DEMOCRATIC REPUBLIC), YEMEN  
+  
+
+### Team’s Home Region
+
+  
+A Team’s home Region is identified upon registration to an Official Competition and may not be changed at any time during an Official Competition without the prior written approval of a Tournament Official.  
   
 
 ### Administration
@@ -82,6 +95,27 @@ A Match means a set of Maps that are played until one Team wins a majority of th
 General
 -------
 
+  
+
+### Tournament Participation Restrictions
+
+  
+
+EMEA Teams are permitted to participate in Tournaments operated in any of the countries, territories or locales listed above.
+
+  
+
+Upon participation in a tournament in one of the Europe, Turkey or Russia & CIS territories, Teams will be required to participate in that territory for the remainder of that VCT stage.
+
+  
+
+Teams that HAVE NOT earned any VCT points are eligible to change territory at the start of a new VCT stage.
+
+  
+
+Teams that HAVE earned VCT points will be considered locked to the territory where they were earned for the remainder of the VCT.
+
+  
   
 
 ### Participants and Commitment
