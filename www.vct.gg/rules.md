@@ -468,6 +468,20 @@ Lobby Settings
   
   
 
+### Observers & Coaches
+
+  
+
+Only the 10 players who are actively playing and the tournament officials are allowed to be observers on a map. Other players, coaches or managers of a team may not join a lobby.
+
+  
+
+Coaches are only allowed to talk to players and others during the Agent and Map selection process for each Match, timeouts, half-times and in between Maps (if applicable). Coaches are only permitted to be in the Match Area during Agent and Map selection, Timeouts, Half-Times, and in between Maps. For the purposes of online competition, any room in which the player competes will be considered part of the Match Area.
+
+  
+  
+  
+
 ### Technical Pauses
 
   
