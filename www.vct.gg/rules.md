@@ -479,6 +479,9 @@ Only the 10 players who are actively playing and the tournament officials are al
 Coaches are only allowed to talk to players and others during the Agent and Map selection process for each Match, timeouts, half-times and in between Maps (if applicable). Coaches are only permitted to be in the Match Area during Agent and Map selection, Timeouts, Half-Times, and in between Maps. For the purposes of online competition, any room in which the player competes will be considered part of the Match Area.
 
   
+
+Players are permitted to share their live gameplay footage with their coach in real-time.
+
   
   
 
