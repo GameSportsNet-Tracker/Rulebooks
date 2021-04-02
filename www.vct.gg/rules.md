@@ -381,6 +381,24 @@ Later rounds of each day
   
   
 
+Seeding Matches & Main Event seeding
+
+  
+The last round of each Open Qualifier between the top 8 teams are seeding matches which help determine the matchups in the Main Event of each Qualifier.  
+Of the 8 qualified teams, the 2 teams that placed highest in Regional Masters 1 are seeded in different parts of the bracket (e.g. Match #1 and #4). For Stage 3 the seeding is based on the results of the Challenger Playoffs.  
+  
+The list of the remaining 6 teams is randomized and then seeded one after another into the Matches #1-4 with 2 conditions in mind:  
+
+*   A team that won the last match in the Open Qualifier (seeding matches) can only be matched against a team that lost their seeding match  
+    
+*   A matchup cannot be the same as one of the seeding matches.
+
+  
+  
+A team that won their seeding match can choose if they want to start as team A or team B in the veto process in the first round of the Main Event  
+  
+  
+
 Mappool  
 
   
