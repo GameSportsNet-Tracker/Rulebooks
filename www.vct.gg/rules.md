@@ -20,7 +20,7 @@ Qualifier Rules
     
 5.  [Registration](https://www.vct.gg/statics/rules#3)  
     
-6.  [Team](https://www.vct.gg/statics/rules#4)  
+6.  [Teams](https://www.vct.gg/statics/rules#4)  
     
 7.  [Match Procedure](https://www.vct.gg/statics/rules#5)  
     
@@ -317,30 +317,33 @@ Teams
 
   
 
-### Teams
+### State of residence
 
   
+Teams must maintain, at all times during any Official Competition, at least three players on its Starting Roster that are Residents (as defined below) of the Team’s home Region. In addition, at least four of the Team’s players participating in any Official Competition game must be Residents of the Team’s home Region.  
   
 
-State of residence  
-Teams must maintain, at all times during any Official Competition, at least three players on its Starting Roster that are Residents (as defined below) of the Team’s home Region. In addition, at least four of the Team’s players participating in any Official Competition game must be Residents of the Team’s home Region.
+### Roster and Standins
 
   
 
-Roster and Standins  
+A participating team must have at least five (5) and a maximum of seven (7) players in their roster. All confirmed players in the roster are allowed to play.
 
-*   A participating team must have at least five (5) and a maximum of seven (7) players in their roster. All confirmed players in the roster are allowed to play.  
-    
-*   Only players, who are confirmed in the roster are allowed to play. External players are not allowed to join the game lobby.  
-    
-*   The rosters are locked  
-    
-    *   After a sing up end of a qualifier  
-        
-    *   A participating team finished a qualifier as a Top 4 team and qualified for the Challengers.
-    
-      
-    
+  
+
+Only players, who are confirmed in the roster are allowed to play. External players are not allowed to join the game lobby.
+
+  
+
+Teams participating in Challengers may not add or drop players from their roster at any point between Qualifiers and the end of the Team's competition in the Qualifiers and the associated Main Event (if qualified), unless approved in writing by a Tournament official.
+
+  
+
+Teams qualifying to the Challengers Playoffs from a Main Event must maintain at least 3 Players from the Main Event from which they qualified.
+
+  
+
+Between April 19th, 2021 and May 2nd, 2021 teams participating in Challenger Playoffs may not add to their roster any player who played for another team in any Stage 2 Challengers Main Event
 
   
   
