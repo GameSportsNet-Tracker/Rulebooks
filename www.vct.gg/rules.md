@@ -16,7 +16,7 @@ Qualifier Rules
     
 3.  [General](https://www.vct.gg/statics/rules#1)  
     
-4.  [**Tournament** Format](https://www.vct.gg/statics/rules#2)  
+4.  [Tournament Format](https://www.vct.gg/statics/rules#2)  
     
 5.  [Registration](https://www.vct.gg/statics/rules#3)  
     
@@ -229,7 +229,7 @@ Tournament Format
 -----------------
 
   
-There are three (3) tournament phases per Stage:  
+There are several tournament phases per Stage:  
 
 *   Challengers Open Qualifiers  
     
