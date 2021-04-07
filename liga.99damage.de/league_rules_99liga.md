@@ -35,6 +35,8 @@ Index
     
 3.  [Liga Struktur](https://liga.99damage.de/de/statics/league_rules_99liga/#struktur)  
       
+      
+      
     
 4.  [Gruppen und Format](https://liga.99damage.de/de/statics/league_rules_99liga/#gruppen)  
       
@@ -263,6 +265,7 @@ Von der Bewerbung ausgeschlossen sind Teams, welche in der Vorsaison bereits in 
   
 Die Division 3 ist in eine Vielzahl von Gruppen aufgeteilt. Eine Gruppe besteht aus maximal zehn Teams. Diese spielen nur gegen Teams aus ihrer jeweiligen Gruppe (Playoffs & Relegation sind davon ausgeschlossen) und nicht übergreifend. Die Anzahl und Größe der Gruppen können sich zwischen zwei Saisons ändern.  
 Die Kalibirierungs-Division besteht aus einer Gruppe mit allen Teams und wird im Swiss-Format ausgespielt.  
+  
   
   
 
