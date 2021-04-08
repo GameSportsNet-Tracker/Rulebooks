@@ -24,7 +24,7 @@ Qualifier Rules
     
 7.  [Match Procedure](https://www.vct.gg/statics/rules#5)  
     
-8.  [Co-Streaming Regulations](https://www.vct.gg/statics/rules#7)  
+8.  [Co-Streaming Regulations](https://www.vct.gg/statics/rules#costreaming)  
     
 9.  [Schedule](https://www.vct.gg/statics/rules#6)  
     
@@ -529,6 +529,7 @@ Using a bug or exploit to gain an unfair advantage is strictly forbidden. If you
 
   
   
+  
 
 Co-Streaming Regulations
 ------------------------
@@ -538,6 +539,7 @@ Co-Streaming Regulations
 For the VCT Europe, Turkey and CIS, active participants (competing players) may only co-stream their own matches on days that there are no official broadcast as determined by Tournament Officials. These co-streams must be player point of view only and it is compulsory that all streams have a 3 minute delay. This is to ensure tournament integrity.  
 For any day that there is an official broadcast, no co-streaming will be allowed.
 
+  
   
   
 
