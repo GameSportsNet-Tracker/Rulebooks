@@ -35,28 +35,29 @@ Index
     
 3.  [Liga Struktur](https://liga.99damage.de/de/statics/league_rules_99liga/#struktur)  
       
-      
+    
+4.  [Anti Cheat](https://liga.99damage.de/de/statics/league_rules_99liga/#anticheat)  
       
     
-4.  [Gruppen und Format](https://liga.99damage.de/de/statics/league_rules_99liga/#gruppen)  
+5.  [Gruppen und Format](https://liga.99damage.de/de/statics/league_rules_99liga/#gruppen)  
       
     
-5.  [Zusammensetzung Teams](https://liga.99damage.de/de/statics/league_rules_99liga/#teams)  
+6.  [Zusammensetzung Teams](https://liga.99damage.de/de/statics/league_rules_99liga/#teams)  
       
     
-6.  [Proteste und Fragen](https://liga.99damage.de/de/statics/league_rules_99liga/#protest)  
+7.  [Proteste und Fragen](https://liga.99damage.de/de/statics/league_rules_99liga/#protest)  
       
     
-7.  [Spieltag und Spielablauf](https://liga.99damage.de/de/statics/league_rules_99liga/#spieltag)  
+8.  [Spieltag und Spielablauf](https://liga.99damage.de/de/statics/league_rules_99liga/#spieltag)  
       
     
-8.  [Vor dem Match](https://liga.99damage.de/de/statics/league_rules_99liga/#vor)  
+9.  [Vor dem Match](https://liga.99damage.de/de/statics/league_rules_99liga/#vor)  
       
     
-9.  [Während des Matches](https://liga.99damage.de/de/statics/league_rules_99liga/#match)  
+10.  [Während des Matches](https://liga.99damage.de/de/statics/league_rules_99liga/#match)  
       
     
-10.  [Cheating](https://liga.99damage.de/de/statics/league_rules_99liga/#cheating)  
+11.  [Cheating](https://liga.99damage.de/de/statics/league_rules_99liga/#cheating)  
     
 
   
@@ -266,6 +267,70 @@ Von der Bewerbung ausgeschlossen sind Teams, welche in der Vorsaison bereits in 
 Die Division 3 ist in eine Vielzahl von Gruppen aufgeteilt. Eine Gruppe besteht aus maximal zehn Teams. Diese spielen nur gegen Teams aus ihrer jeweiligen Gruppe (Playoffs & Relegation sind davon ausgeschlossen) und nicht übergreifend. Die Anzahl und Größe der Gruppen können sich zwischen zwei Saisons ändern.  
 Die Kalibirierungs-Division besteht aus einer Gruppe mit allen Teams und wird im Swiss-Format ausgespielt.  
   
+  
+  
+
+Anti Cheat [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
+-------------------------------------------------------------------------
+
+  
+In der 99Damage Liga kommen 2 unterschiedliche Anti-Cheat-Systeme zum Einsatz. Ein "serverseitiges" und ein Anti-Cheat-Tool welches auf dem PC zu installieren ist.  
+
+### Serverseitiges Anti-Cheat
+
+  
+
+Nach Abschluss eines jeden Matches werden die GOTV-Demos, welche in 64 Tick aufgezeichnet werden, an den Anti-Cheat-Partner übermittelt.
+
+  
+
+Die GOTV-Demos werden maschinell auf Unstimmigkeiten überprüft.
+
+  
+
+Werden Unstimmigkeiten festgestellt, so wird entsprechend ein Report an die Liga-Administration weitergeleitet.
+
+  
+
+Je nach Art des Reports werden entweder entsprechende Strafen vergeben oder die Demos an das Anti Cheat Team zur weiteren Überprüfung weitergeleitet und entsprechende Sperren erst nach einem einstimmigen Ergebnis der bearbeitenden Anti-Cheat-Admins ausgesprochen.
+
+  
+  
+
+### anybrain Anti-Cheat
+
+  
+
+Ein jeder Spieler muss das anybrain Anti-Cheat-Tool herunterladen und auf seinem PC installieren. Zum Download
+
+  
+
+Hinweise zur Installation und Handhabung findest Du im [Anti-Cheat-Guide](//statics/league_guides_anybrain)
+
+  
+
+Vor jedem Match muss das anybrain Anti-Cheat-Tool gestartet werden und es ist über den gesamten Zeitraum des Matches aktiviert zu lassen.
+
+  
+
+Wird das Tool nicht gestartet oder während des laufenden Matches deaktiviert, so erfolgt der automatische Kick vom Server.
+
+  
+
+Spieler, die auf Grund eines nicht aktivierten Anti-Cheat-Tools vom Server gekickt wurden, dürfen nach Aktivierung des Tools wieder dem Server joinen.
+
+  
+
+Das Anti-Cheat-Tool überwacht Maus- und Tastatur-Aktivitäten während des Matches und überprüft hier Unstimmigkeiten.
+
+  
+
+Werden Unstimmigkeiten festgestellt, wird entsprechend ein Report an die Liga-Administration weitergeleitet.
+
+  
+
+Je nach Art des Report werden entweder entsprechende Strafen vergeben oder die Demos an das Anti-Cheat-Team zur weiteren Überprüfung weitergeleitet und entsprechende Sperren erst nach einem einstimmigen Ergebnis der bearbeitenden Anti-Cheat-Admins ausgesprochen.
+
   
   
 
@@ -1061,6 +1126,27 @@ Cheating[(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
   
   
 Nur Spieler, die über eine eingetragene Steam ID ohne VAC Ban verfügen, sind in der 99Damage Liga spielberechtigt. Ist ein VAC gebannter Game-Account eingetragen, oder erhält der eingetragene Game-Account einen VAC Ban, ist der Spieler nicht mehr spielberechtigt. Es ist unerheblich, in welchem Spiel der Ban vergeben wurde oder wie lange dieser bereits besteht.  
+  
+
+### Fremdligen-Bans
+
+  
+
+Spieler welche einen Cheating-Ban in einer Fremd-Liga wie z.B. ESL, ESEA, FACEIT, Esportal haben und der Liga-Administration durch Protest gemeldet werden, werden für die Dauer von 2 Jahren (730 Tage) vom Spielbetrieb der 99Damage Liga ausgeschlossen, unabhängig davon wie lange der Cheating-Ban in der Fremd-Liga bereits besteht.
+
+  
+
+Ausschließlich Cheating-Sperren führen zu einem Entzug der Spielberechtigung in der 99Damage Liga.
+
+  
+
+Fremdligen-Bans für z.B. Ban-Umgehung können nur dann berücksichtigt werden, wenn eine zweifelsfreie Verbindung mit einem wegen Cheating gebannten Account hergestellt werden kann. Hier liegt es in der Verantwortung des Protestführenden die entsprechende Beweise beizubringen.
+
+  
+
+Die Regel tritt mit 07. April 2021 inkraft. Bereits verhängte Ausschlüsse auf Grund des Hausrechts bleiben davon unberührt und bleiben bestehen.
+
+  
   
 
 ### Cheating Bans
