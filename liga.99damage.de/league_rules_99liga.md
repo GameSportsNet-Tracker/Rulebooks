@@ -305,7 +305,7 @@ Ein jeder Spieler muss das anybrain Anti-Cheat-Tool herunterladen und auf seinem
 
   
 
-Hinweise zur Installation und Handhabung findest Du im [Anti-Cheat-Guide](//statics/league_guides_anybrain)
+Hinweise zur Installation und Handhabung findest Du im [Anti-Cheat-Guide](/statics/league_guides_anybrain)
 
   
 
