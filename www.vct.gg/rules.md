@@ -396,8 +396,6 @@ The list of the remaining 6 teams is randomized and then seeded one after anothe
   
   
 A team that won their seeding match can choose if they want to start as team A or team B in the veto process in the first round of the Main Event  
-  
-  
 
 Mappool  
 
@@ -529,18 +527,77 @@ Using a bug or exploit to gain an unfair advantage is strictly forbidden. If you
 
   
   
-  
 
 Co-Streaming Regulations
 ------------------------
 
   
 
-For the VCT Europe, Turkey and CIS, active participants (competing players) may only co-stream their own matches on days that there are no official broadcast as determined by Tournament Officials. These co-streams must be player point of view only and it is compulsory that all streams have a 3 minute delay. This is to ensure tournament integrity.  
-For any day that there is an official broadcast, no co-streaming will be allowed.
+### General guidelines
+
+  
+
+Co-streaming and POV-streaming is permitted for certain matches, as defined in 7.2 and 7.3. of this ruleset.
+
+  
+
+Notwithstanding, registration and approval is required for co-streaming. Click here to apply.
+
+  
+
+VCT sponsors, sponsored segments, or stitched commercials may not be altered or covered in any way. Do not disparage VCT sponsors. Additional co-streamer sponsor integration is not permitted.
+
+  
+
+Co-streams may be in any language.
+
+  
+
+All co-streamers and their guests must meet the legal age requirement of 18+. Streaming platform TOS apply.
+
+  
+
+Co-streamers are responsible for ensuring that any accompanied chat is adequately moderated to prevent vulgar, abusive, or an otherwise mean spirited environment.
+
+  
+
+If you choose to include guests in your co-stream, all guests must also follow the guidelines of the co-streaming program at all times.
+
+  
+
+Co-streaming is only permitted at this time on the following live platforms: Twitch, YouTube. We reserve the right to make platform exceptions at any time.
+
+  
+
+We reserve the right to remove access to the co-stream program at any time.
+
+  
+
+Teams are permitted and encouraged to create transformative content out of their co-streams and the official broadcast. Riot Legal Jibber Jabber applies for all usage of Riot IP.
 
   
   
+
+### Qualifiers
+
+  
+
+POV-streaming
+
+  
+Competing players are permitted to publicly stream their own matches during the Qualifiers. These POV-streams must be player point of view only and exclude team communications. A 3-minute delay is required to maintain tournament integrity. Sponsor integration is not permitted.  
+  
+
+Co-streaming
+
+  
+The tournament organizer will aim to provide an official broadcast, including commentary and full production for certain matches on the final day of the Qualifiers. Co-streaming of the official broadcast is not permitted. Further, a basic broadcast feed will be offered for certain additional matches, as determined by the tournament organizer. These additional broadcast feeds will not count as an ‘official broadcast’ and teams are permitted to use this feed to co-stream their own matches on their official team channels. Participation of analysts, casters, and content creators in such streams is permitted. Existing tournament sponsors may not be concealed and further sponsor integration is not permitted.  
+  
+
+Main Event and Challenger Playoffs
+
+  
+Every match in the main event and Challenger Playoffs will feature an official broadcast. Co-streaming or POV-streaming of these matches is not permitted.  
   
 
 Schedule
