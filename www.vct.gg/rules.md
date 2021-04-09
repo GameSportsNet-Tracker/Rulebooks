@@ -541,7 +541,7 @@ Co-streaming and POV-streaming is permitted for certain matches, as defined in 7
 
   
 
-Notwithstanding, registration and approval is required for co-streaming. Click here to apply.
+Notwithstanding, registration and approval is required for co-streaming. [Click here to apply.](https://docs.google.com/forms/d/e/1FAIpQLSdFv5gujzXG40ANoB9wg8N5ZSU0MxZn4ijHblnk-BzV3oVk-A/viewform)
 
   
 
@@ -573,7 +573,7 @@ We reserve the right to remove access to the co-stream program at any time.
 
   
 
-Teams are permitted and encouraged to create transformative content out of their co-streams and the official broadcast. Riot Legal Jibber Jabber applies for all usage of Riot IP.
+Teams are permitted and encouraged to create transformative content out of their co-streams and the official broadcast. [Riot Legal Jibber Jabber](https://www.riotgames.com/en/legal) applies for all usage of Riot IP.
 
   
   
@@ -594,7 +594,7 @@ Co-streaming
 The tournament organizer will aim to provide an official broadcast, including commentary and full production for certain matches on the final day of the Qualifiers. Co-streaming of the official broadcast is not permitted. Further, a basic broadcast feed will be offered for certain additional matches, as determined by the tournament organizer. These additional broadcast feeds will not count as an ‘official broadcast’ and teams are permitted to use this feed to co-stream their own matches on their official team channels. Participation of analysts, casters, and content creators in such streams is permitted. Existing tournament sponsors may not be concealed and further sponsor integration is not permitted.  
   
 
-Main Event and Challenger Playoffs
+### Main Event and Challenger Playoffs
 
   
 Every match in the main event and Challenger Playoffs will feature an official broadcast. Co-streaming or POV-streaming of these matches is not permitted.  
