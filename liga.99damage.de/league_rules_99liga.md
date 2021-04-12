@@ -274,7 +274,7 @@ Anti Cheat [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
 -------------------------------------------------------------------------
 
   
-In der 99Damage Liga kommen 2 unterschiedliche Anti-Cheat-Systeme zum Einsatz. Ein "serverseitiges" und ein Anti-Cheat-Tool welches auf dem PC zu installieren ist.  
+  
 
 ### Serverseitiges Anti-Cheat
 
@@ -295,42 +295,6 @@ Werden Unstimmigkeiten festgestellt, so wird entsprechend ein Report an die Liga
 Je nach Art des Reports werden entweder entsprechende Strafen vergeben oder die Demos an das Anti Cheat Team zur weiteren Überprüfung weitergeleitet und entsprechende Sperren erst nach einem einstimmigen Ergebnis der bearbeitenden Anti-Cheat-Admins ausgesprochen.
 
   
-  
-
-### anybrain Anti-Cheat
-
-  
-
-Ein jeder Spieler muss das anybrain Anti-Cheat-Tool herunterladen und auf seinem PC installieren. Zum Download
-
-  
-
-Hinweise zur Installation und Handhabung findest Du im [Anti-Cheat-Guide](/statics/league_guides_anybrain)
-
-  
-
-Vor jedem Match muss das anybrain Anti-Cheat-Tool gestartet werden und es ist über den gesamten Zeitraum des Matches aktiviert zu lassen.
-
-  
-
-Wird das Tool nicht gestartet oder während des laufenden Matches deaktiviert, so erfolgt der automatische Kick vom Server.
-
-  
-
-Spieler, die auf Grund eines nicht aktivierten Anti-Cheat-Tools vom Server gekickt wurden, dürfen nach Aktivierung des Tools wieder dem Server joinen.
-
-  
-
-Das Anti-Cheat-Tool überwacht Maus- und Tastatur-Aktivitäten während des Matches und überprüft hier Unstimmigkeiten.
-
-  
-
-Werden Unstimmigkeiten festgestellt, wird entsprechend ein Report an die Liga-Administration weitergeleitet.
-
-  
-
-Je nach Art des Report werden entweder entsprechende Strafen vergeben oder die Demos an das Anti-Cheat-Team zur weiteren Überprüfung weitergeleitet und entsprechende Sperren erst nach einem einstimmigen Ergebnis der bearbeitenden Anti-Cheat-Admins ausgesprochen.
-
   
   
 
