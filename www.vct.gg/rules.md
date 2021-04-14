@@ -641,7 +641,7 @@ The schedule for each qualifier can be found on each Qualifier page. An overview
 
   
 
-*   25\. April - 02. May
+*   23\. April - 02. May
 
   
   
