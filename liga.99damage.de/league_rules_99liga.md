@@ -600,7 +600,7 @@ Jegliche Fragen und Beschwerden zur Liga müssen über ein [Support-Ticket](http
   
   
 
-Beschwerden müssen innerhalb von einer (1) Stunde nach Ende des Matches über ein Support-Ticket eingereicht werden. Ausgenommen von dieser Frist sind Proteste die Time-Tables beinhalten. (siehe Regel 5.4.2)
+Beschwerden müssen innerhalb von einer (1) Stunde nach Ende des Matches über ein Support-Ticket eingereicht werden. Ausgenommen von dieser Frist sind Proteste die Time-Tables beinhalten. (siehe Regel 6.4.2)
 
   
   
@@ -725,7 +725,7 @@ Ein Ligaspiel muss nicht zum angegeben Tag bzw. Uhrzeit gespielt werden. Teams k
   
   
 
-Jedes Match besitzt einen sogenannten Default-Termin. Dieser ist nur dann der offizielle Matchtermin, wenn sich keines der beiden Teams via "Scheduling-Tool" gemäß Regeln 6.1.3 und 6.1.4 um einen alternativen Matchtermin bemüht oder wenn bei nicht erreichter Einigung eines alternativen Matchtermins diese nicht bis spätestens 48 Stunden vor dem Standardtermin über ein [Support-Ticket](/users/support) gemeldet wird.
+Jedes Match besitzt einen sogenannten Default-Termin. Dieser ist nur dann der offizielle Matchtermin, wenn sich keines der beiden Teams via "Scheduling-Tool" gemäß Regeln 7.1.3 und 7.1.4 um einen alternativen Matchtermin bemüht oder wenn bei nicht erreichter Einigung eines alternativen Matchtermins diese nicht bis spätestens 48 Stunden vor dem Standardtermin über ein [Support-Ticket](/users/support) gemeldet wird.
 
   
   
@@ -775,7 +775,7 @@ Sollte eines der Teams einen bereits ausgemachten Termin verschieben wollen, so 
   
   
 
-Der Termin für eine Verschiebung gemäß Regel 6.2.4 muss über die Kommentare unter dem Match vereinbart und dort von beiden Parteien mit Datum und Uhrzeit bestätigt werden, als auch über ein [Support-Ticket](https://liga.99damage.de/de/users/support) der Liga-Administration mitgeteilt werden.
+Der Termin für eine Verschiebung gemäß Regel 7.2.3 muss über die Kommentare unter dem Match vereinbart und dort von beiden Parteien mit Datum und Uhrzeit bestätigt werden, als auch über ein [Support-Ticket](https://liga.99damage.de/de/users/support) der Liga-Administration mitgeteilt werden.
 
   
   
