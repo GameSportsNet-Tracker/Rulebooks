@@ -1063,11 +1063,6 @@ Sollte die Verbindung aller Spieler zu einem Server oder dem 99Bot abbrechen und
   
   
 
-Nach Ende der ersten Map wird der Server automatisch nach ein paar Minuten heruntergefahren. Für die zweite Map muss auf der Match-Seite ein neuer Server angefordert werden.
-
-  
-  
-
 Die Map ist in allen Fällen zu Ende zu spielen und der Server nicht frühzeitig zu verlassen. Wird eine Map frühzeitig oder komplett aufgegeben, wird das gesamte Match als Default-Win für das gegnerische Team gewertet, unabhängig vom ursprünglichen Ergebnis.
 
   
