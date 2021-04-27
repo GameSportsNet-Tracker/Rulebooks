@@ -787,7 +787,7 @@ Proteste bezüglich des Lineups oder der Pick&Ban-Phase werden nach Spielstart n
   
   
 
-Sollte es zu technischen Problemen mit einem Tournamentcode kommen, kann das Spiel als 'Custom Game' ausgetragen werden, sofern beide Teams zustimmen. Das Ergebnis des Spiels muss der Administration via Support-Ticket unter Angabe von Nachweisen mitgeteilt werden.
+Sollte es zu technischen Problemen mit einem Tournamentcode kommen, kann das Spiel als 'Custom Game' (Turnierauswahl, Zuschauer nur in Lobby) ausgetragen werden, sofern beide Teams zustimmen. Das Ergebnis des Spiels muss der Administration via Support-Ticket unter Angabe von Nachweisen mitgeteilt werden.
 
   
   
