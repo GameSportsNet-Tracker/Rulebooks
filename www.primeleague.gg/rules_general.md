@@ -58,7 +58,7 @@ Jede natürliche Person, die einen legalen League of Legends-Account auf EU West
 Ein Team ist dann spielberechtigt, wenn mindestens drei (3) von fünf (5) Spielern, die in einem Spiel eingesetzt werden, sogenannte “Locally Trained Representatives” (LTR) sind. Ein Spieler gilt als LTR, wenn zumindest eine der folgenden Bedingungen erfüllt sind:  
 
   
-*   Der Spieler hat innerhalb von 36 aus den letzten 60 Monaten unmittelbar vor seiner Teilnahme am ersten Match in der Prime League seinen primären Wohnsitz in der DACH-Region.  
+*   Der Spieler hat innerhalb von 36 aus den letzten 60 Monaten unmittelbar vor seiner Teilnahme am ersten Match in der aktuellen Saison der Prime League seinen primären Wohnsitz in der DACH-Region.  
     
 *   Der Spieler hat in zwei (2) der letzten drei (3) "European Regional League"-Saisons (ERL) unmittelbar vor seiner Teilnahme am ersten Match in der Prime League gespielt. Zusätzlich zählt für einen Spieler eine Saison zur LTR-Voraussetzung, wenn der Spieler Teil eines ERL- oder LEC-Teams für die Mehrheit der Spiele der Saison war - auch wenn der Spieler nicht aktiv in der entsprechenden ERL teilgenommen hat - solange er nicht an einer anderen ERL teilgenommen hat.  
     
@@ -97,7 +97,7 @@ Jeder Spieler erkennt das Recht von Riot Games und der Freaks 4U Gaming GmbH an,
   
   
 
-Jeder Spieler hat anderen Spielern sowie der Administration den gebührenden Respekt entgegenzubringen. Beleidigungen, unfaires und/oder respektloses Verhalten werden nicht toleriert und können mit dem sofortigen Ausschluss aus der Liga geahndet werden.
+Jeder Spieler hat anderen Spielern sowie der Administration den gebührenden Respekt entgegenzubringen. Beleidigungen, unfaires und/oder respektloses Verhalten werden nicht toleriert und können mit dem sofortigen Ausschluss aus der Liga geahndet werden. Hierbei werden die jeweiligen Matchseiten, Lobby-Chat sowie Ingame-Chat berücksichtigt. Die Administration behält sich das Recht vor, Vorfälle, die außerhalb dieser Räume stattfinden, mit einzubeziehen, sofern ein unmittelbarer Zusammenhang zum Ligabetrieb festgestellt wird.
 
   
   
@@ -112,7 +112,7 @@ Mit der Teilnahme an der Prime League bestätigt der Spieler das in seinem/ihrem
   
   
 
-Team- sowie Spielerprofile, die gegen Community-Standards verstoßen, sind nicht zugelassen. Darunter fallen unter anderem rassistische, antisemitische, sexistische, homophobe, transphobe oder anderweitig beleidigende Namen, Bilder oder Profilbeschreibungen. Die Administration hat das Recht anstößige oder beleidigende Bilder, Namen oder Profilbeschreibungen ohne Vorwarnung zu ändern oder zu löschen.
+Die Administration behält sich das Recht vor, anstößige oder beleidigende Bilder, Namen oder Profilbeschreibungen von Teams sowie Spielern ohne Vorwarnung zu ändern oder zu löschen. Darunter fallen unter anderem rassistische, antisemitische, sexistische, homophobe, transphobe oder anderweitig diskrimierende Namen, Bilder oder Profilbeschreibungen.
 
   
   
@@ -126,12 +126,12 @@ Jede Person, die an einem Spiel der Prime League teilnimmt, erklärt sich hiermi
   
   
 
-Jeder Spieler ist dazu verpflichtet seinen League of Legends-Account auf seinem GameSports Account zu verifizieren. Ein Spieler ist erst 24 Stunden nach erfolgreicher Verifizierung spielberechtigt. Eine Änderung des League of Legends-Accounts muss via [Support-Ticket](https://www.primeleague.gg/de/users/support) beantragt und genehmigt werden. Der Spieler ist nur dann spielberechtigt, wenn der im Profil angegebene Beschwörername mit dem in der Lobby befindlichen Account übereinstimmt. Bei einer Namensänderung kann im [Nutzerzentrum](https://www.primeleague.gg/de/users/center) über "DEIN PROFIL" der Beschwörername selbstständig aktualisiert werden.
+Jeder Spieler ist dazu verpflichtet seinen League of Legends-Account mit seinem GameSports Account zu verifizieren. Ein Spieler ist erst 24 Stunden nach erfolgreicher Verifizierung als bestätigtes Mitglied eines Teams spielberechtigt. Eine Änderung des League of Legends-Accounts während einer laufenden Saison muss via [Support-Ticket](https://www.primeleague.gg/de/users/support) beantragt und genehmigt werden. Grundvoraussetzung für die Genehmigung der Änderung ist, dass der aktuell verifizierte League of Legends-Account nicht gesperrt ist. Der Spieler ist nur dann spielberechtigt, wenn der im Profil angegebene Beschwörername mit dem in der Lobby befindlichen Account übereinstimmt. Bei einer Namensänderung kann im [Nutzerzentrum](https://www.primeleague.gg/de/users/center) über "DEIN PROFIL" der Beschwörername selbstständig aktualisiert werden.
 
   
   
 
-Die Registrierung von mehreren GameSports Accounts ist untersagt.
+Die Benutzung von mehreren GameSports Accounts ist untersagt. Weiterhin ist sowohl die Weitergabe von GameSports Accounts sowie den dazugehörigen verifizierten League of Legends Accounts und die Nutzung solcher weitergegebenen Accounts untersagt.
 
   
   
@@ -179,7 +179,7 @@ Sollte ein Team nicht länger an der Liga teilnehmen können oder wollen, ist de
   
   
 
-Jedes Team, welches an zwei (2) aufeinanderfolgenden Spielen innerhalb der Gruppenphase nicht zum offiziellen Match-Termin erscheint, kann von der Administration aus der laufenden Saison der Prime League ausgeschlossen werden. Sollte ein Team in der Kalibrierungsphase zu einem Match nicht antreten, kann das Team innerhalb der Kalibrierungsphase disqualifiziert werden. Die erreichten Siege in der Kalibrierungsphase haben dann keinen Einfluss auf die Einstufung für die Gruppenphase. Die Teilnahme an der Saison ist danach jedoch weiterhin möglich.
+Jedes Team, welches an zwei (2) aufeinanderfolgenden oder insgesamt drei (3) Spielen innerhalb der Gruppenphase nicht zum offiziellen Match-Termin erscheint, kann von der Administration aus der laufenden Saison der Prime League ausgeschlossen werden. Sollte ein Team in der Kalibrierungsphase zu einem Match nicht antreten, kann das Team innerhalb der Kalibrierungsphase disqualifiziert werden. Die erreichten Siege in der Kalibrierungsphase haben dann keinen Einfluss auf die Einstufung für die Gruppenphase. Die Teilnahme an der Saison ist danach jedoch weiterhin möglich.
 
   
   
@@ -300,7 +300,7 @@ Aus der Division 6 kann kein Abstieg erfolgen. Die genaue Verteilung wird zum St
   
   
 
-Die Gruppenphase der Starter Division wird in nur einer Gruppe im Swiss-Format mit sieben (7) Runden ausgespielt. Hierbei spielt jedes Team pro Runde ein Match im "Two Games"-Format. Abhängig von der Anzahl der erreichten Siege, werden die Teams für die Folgesaison in verschiedene Divisionen, maximal Division 4, oder in die Playoffs der laufenden Saison, maximal Division 3-4 Playoffs, eingestuft.
+Die Gruppenphase der Starter Division wird in nur einer Gruppe im Swiss-Format mit acht (8) Runden ausgespielt. Hierbei spielt jedes Team pro Runde ein Match im "Two Games"-Format. Abhängig von der Anzahl der erreichten Siege, werden die Teams für die Folgesaison in verschiedene Divisionen, maximal Division 4, oder in die Playoffs der laufenden Saison, maximal Division 3-4 Playoffs, eingestuft.
 
   
   
@@ -329,11 +329,6 @@ In der regulären Gruppenphase besteht ein Match aus zwei (2) Spielen. In den Pl
   
 
 Jeder Sieg eines Spiels in der regulären Gruppenphase entspricht einem (1) Punkt im Ranking.
-
-  
-  
-
-Matches, zu denen keines der beiden Teams angetreten ist, werden mit 0:0 geschlossen.
 
   
   
@@ -467,7 +462,7 @@ In der Kalibrierungsphase sowie in den Playoffs sind keine Stand-Ins zugelassen.
 ### Wechselslots
 
   
-Teams können nach Ende der Signup-Phase bis Ende der Gruppenphase insgesamt zwei (2) Spieler zum Lineup hinzufügen. Das Hinzufügen eines Spielers verbraucht einen Wechselslot.  
+Teams können nach Ende der Signup-Phase bis Ende der Gruppenphase insgesamt drei (3) Spieler zum Lineup hinzufügen. Das Hinzufügen eines Spielers verbraucht einen Wechselslot.  
   
 
 ### Spielertransfer
@@ -626,17 +621,17 @@ Spielplan & Spielablauf
   
   
 
-Jedes Match besitzt einen sogenannten Standardtermin. Dieser ist nur dann der offizielle Matchtermin, wenn sich keines der beiden Teams via "Scheduling-Tool" gemäß Regeln 5.1.6 und 5.1.7 um einen alternativen Matchtermin bemüht oder wenn bei nicht erreichter Einigung eines alternativen Matchtermins diese nicht bis spätestens 48 Stunden vor dem Standardtermin via [Support-Ticket](https://www.primeleague.gg/de/users/support) gemäß Regel 5.1.9 gemeldet wird.
+Jedes Match besitzt einen sogenannten Ausweichtermin. Dieser ist nur dann der offizielle Matchtermin, wenn sich keines der beiden Teams via "Scheduling-Tool" gemäß Regeln 5.1.6 und 5.1.7 um einen alternativen Matchtermin bemüht oder wenn bei nicht erreichter Einigung eines alternativen Matchtermins diese nicht bis spätestens 48 Stunden vor dem Ausweichtermin via [Support-Ticket](https://www.primeleague.gg/de/users/support) gemäß Regel 5.1.9 gemeldet wird.
 
   
   
 
-Der Standardtermin innerhalb der Gruppenphase ist für die Divisionen 5 und 6 sowie Starter Division immer Sonntag um 15 Uhr und für die Divisionen 2-4 immer Sonntag um 17 Uhr in der jeweiligen Spielwoche und wird auf den Matchseiten entsprechend als offizieller Matchtermin angezeigt.
+Der Ausweichtermin innerhalb der Gruppenphase ist für die Divisionen 5 und 6 sowie Starter Division immer Sonntag um 15 Uhr und für die Divisionen 2-4 immer Sonntag um 17 Uhr in der jeweiligen Spielwoche und wird auf den Matchseiten entsprechend als offizieller Matchtermin angezeigt.
 
   
   
 
-Teams sollen gemeinsam entscheiden, wann am jeweiligen Spieltag gespielt wird. Ein vom Standardtermin abweichender Termin muss bis zum Beginn des jeweiligen Standardtermins zwischen den Teams vereinbart worden sein. Die Absprache, einen abweichenden Termin zu finden, gilt nicht als zulässige Terminverschiebung.
+Teams sollen gemeinsam entscheiden, wann am jeweiligen Spieltag gespielt wird. Ein vom Ausweichtermin abweichender Termin muss bis zum Beginn des jeweiligen Ausweichtermins zwischen den Teams vereinbart worden sein. Die Absprache, einen abweichenden Termin zu finden, gilt nicht als zulässige Terminverschiebung.
 
   
   
@@ -646,7 +641,7 @@ Ein Terminvorschlag muss auf der jeweiligen Matchseite mithilfe des „Schedulin
   
   
 
-Ein Wunschtermin, der innerhalb der aktuellen Spielwoche 48 Stunden lang nicht von dem anderen Team abgelehnt wird, gilt als stillschweigend akzeptiert, sofern der Termin zum Zeitpunkt des Vorschlags mindestens 48 Stunden in der Zukunft und der Zeitpunkt des Terminvorschlags mindestens 48 Stunden vor dem Standardtermin liegt.
+Ein Wunschtermin, der innerhalb der aktuellen Spielwoche 48 Stunden lang nicht von dem anderen Team abgelehnt wird, gilt als stillschweigend akzeptiert, sofern der Termin zum Zeitpunkt des Vorschlags mindestens 48 Stunden in der Zukunft und der Zeitpunkt des Terminvorschlags mindestens 48 Stunden vor dem Ausweichtermin liegt.
 
   
   
@@ -661,7 +656,7 @@ Ein Terminvorschlag muss mindestens zwei (2) Stunden vor Matchbeginn, sei es dur
   
   
 
-Sollten sich beide Teams auf keinen Matchtermin einigen können, ist dies der Administration spätestens 48 Stunden vor dem Standardtermin per [Support-Ticket](https://www.primeleague.gg/de/users/support) mitzuteilen. In diesem Fall entscheidet die Administration basierend auf den von beiden Teams genannten Terminvorschlägen das weitere Vorgehen. Wenn die Frist nicht eingehalten wird, bleibt der Standardtermin bestehen.
+Sollten sich beide Teams auf keinen Matchtermin einigen können, ist dies der Administration spätestens 48 Stunden vor dem Ausweichtermin per [Support-Ticket](https://www.primeleague.gg/de/users/support) mitzuteilen. In diesem Fall entscheidet die Administration basierend auf den von beiden Teams genannten Terminvorschlägen das weitere Vorgehen. Wenn die Frist nicht eingehalten wird, bleibt der Ausweichtermin bestehen.
 
   
   
@@ -680,7 +675,7 @@ Sollte eines der Teams einen bereits ausgemachten Termin verschieben wollen, so 
   
   
 
-Um einen bestätigten Termin zu verschieben, müssen beide Teams den neuen Termin in den Matchkommentaren bestätigen und die Administration via [Support-Ticket](https://www.primeleague.gg/de/users/support) kontaktieren.
+Um einen bestätigten Termin zu verschieben, müssen beide Teams den neuen Termin bestätigen und die Administration via Support-Ticket kontaktieren.
 
   
   
@@ -727,7 +722,7 @@ Sollte keines der Teams rechtzeitig ein spielberechtigtes Lineup nominieren und 
 
   
 
-Jedes Team hat vollständig zum offiziellen Matchtermin spielbereit zu sein.
+Jedes Team muss vollständig zum offiziellen Matchtermin spielbereit zu sein.
 
   
   
@@ -743,6 +738,10 @@ Bei Verspätung zu einem Spiel gelten die folgenden Regelungen:
 *   15 Minuten Verspätung: Aufgabe des Spiels  
     
 *   30 Minuten Verspätung: Aufgabe des gesamten Matches
+
+  
+  
+Die Verspätung muss durch das protestierende Team nachgewiesen werden.
 
   
   
@@ -788,16 +787,30 @@ Proteste bezüglich des Lineups oder der Pick&Ban-Phase werden nach Spielstart n
   
   
 
+Sollte es zu technischen Problemen mit einem Tournamentcode kommen, kann das Spiel als 'Custom Game' ausgetragen werden, sofern beide Teams zustimmen. Das Ergebnis des Spiels muss der Administration via Support-Ticket unter Angabe von Nachweisen mitgeteilt werden.
+
+  
+  
+
 ### Champion Selection
 
   
 
-Platzhalter sind während der Champion Selection nicht erlaubt. Die Picks und Bans, die innerhalb der Lobby gewählt wurden, dürfen nicht geändert werden. Dies schließt die zufällige Auswahl aufgrund von technischen Fehlern ein. Sollte die Champion Selection abgebrochen werden, müssen alle Bans und Picks in identischer Reihenfolge wiederholt werden. Die ausgewählten Champions können innerhalb des Teams beliebig getauscht werden, sofern das Spiel dies zulässt.
+Platzhalter sind während der Champion Selection nicht erlaubt. Die Picks und Bans, die innerhalb der Lobby gewählt wurden, dürfen nicht geändert werden. Dies schließt die zufällige Auswahl aufgrund von technischen Fehlern ein. Sollte die Champion Selection abgebrochen werden, müssen alle Bans und Picks in identischer Reihenfolge wiederholt werden. Die ausgewählten Champions können innerhalb des Teams beliebig getauscht werden.
 
   
   
 
 Neu veröffentlichte Champions sind erst ab dem auf die Veröffentlichung folgenden Patch spielbar. Darüberhinaus behält sich die Administration das Recht vor, einzelne Champions, etwa aufgrund von Bugs, temporär oder kurzfristig zu sperren.
+
+  
+  
+
+Aktuell gesperrte Champions
+
+  
+Momentan ist kein Champion gesperrt.  
+  
 
   
   
@@ -817,13 +830,13 @@ Während des Matches
 ### Auswechslungen
 
   
-Auswechslungen während oder zwischen Spielen müssen unverzüglich in den Matchkommentaren angegeben werden. Hierbei ist das www.primeleague.gg-Nutzerprofil, der Beschwörername des Einwechselspielers sowie der Beschwörername des ausgewechselten Spielers kenntlich zu machen. Weiterhin müssen alle Regeln bezüglich spielberechtigter Lineups eingehalten werden.  
+Auswechslungen während eines Matches müssen unverzüglich in den Matchkommentaren angegeben werden. Hierbei ist das www.primeleague.gg-Nutzerprofil, der Beschwörername des Einwechselspielers sowie der Beschwörername des ausgewechselten Spielers kenntlich zu machen. Weiterhin müssen alle Regeln bezüglich spielberechtigter Lineups eingehalten werden.  
   
 
-### Matchende
+### Spielende
 
   
-Ein Match ist beendet, wenn einer der folgenden Punkte erfüllt ist:  
+Ein Spiel ist beendet, wenn einer der folgenden Punkte erfüllt ist:  
 
   
 *   Ein Nexus wurde zerstört.  
@@ -839,7 +852,7 @@ Ein Match ist beendet, wenn einer der folgenden Punkte erfüllt ist:
 
   
 
-Im Falle eines Disconnects ist die Pausefunktion zu betätigen. Pausen können innerhalb des Spiels mit /pause initiiert werden. Diese Funktion ist außerdem für weitere Notfälle, wie z.B. Lags oder andere technische Probleme, vorgesehen. Jedem Team stehen dann 10 Minuten Pause pro Spiel zu. Sollte diese Zeit überschritten werden, kann das gegnerische Team auf einer Fortsetzung des Spiels bestehen. Sollte sich ein Team weigern das Spiel nach der ihm zu Verfügung stehenden Pausezeit fortzusetzen, muss die Administration via [Support-Ticket](https://www.primeleague.gg/de/users/support) mit aussagekräftigen Nachweisen schnellstmöglich informiert werden.
+Im Falle eines Disconnects ist die Pausefunktion zu betätigen. Pausen können innerhalb des Spiels mit /pause initiiert werden. Diese Funktion ist außerdem für weitere Notfälle, wie z.B. Lags oder andere technische Probleme, vorgesehen. Jedem Team stehen dann 10 Minuten Pause pro Spiel zu. Sollte diese Zeit überschritten werden, kann das gegnerische Team auf einer Fortsetzung des Spiels bestehen. Sollte sich ein Team weigern das Spiel nach der ihm zu Verfügung stehenden Pausezeit fortzusetzen, muss die Administration via [Support-Ticket](https://www.primeleague.gg/de/users/support) mit aussagekräftigen Nachweisen schnellstmöglich informiert werden. Sollte es innerhalb von zehn (10) Minuten keine Anweisung der Administration geben und das gegnerische die Wiederaufnahme weiter verweigern, ist das Match bis auf weiteres unterbrochen. Die Administration kann nach eigenem Ermessen das Spiel neu ansetzen.
 
   
   
@@ -903,7 +916,7 @@ Das bewusste Ausnutzen von Bugs ist untersagt.
 ### Spielmanipulation
 
   
-Alle Spieler müssen versuchen jedes Match in jeder Phase der Liga zu gewinnen. Jegliche Absprachen, die unter anderem die Pick&Ban-Phase sowie das Spielgeschehen beeinflussen, sind untersagt. Das absichtliche Verlieren eines Matches ist untersagt.  
+Alle Spieler müssen versuchen jedes Match in jeder Phase der Liga zu gewinnen. Jegliche Absprachen, die unter anderem die Pick&Ban-Phase oder das Spielgeschehen beeinflussen, sind untersagt. Das absichtliche Verlieren eines Matches ist untersagt.  
   
 
 Strafen bei Regelbruch
@@ -915,4 +928,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/de/statics/rules_general#top)  
   
-Letztes Update: 15.03.2021
+Letztes Update: 27.04.2021
