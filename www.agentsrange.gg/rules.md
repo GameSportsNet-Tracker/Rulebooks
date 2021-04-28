@@ -268,7 +268,7 @@ Das Lineup ist für jedes Match des Brackets auf der Match-Seite vor dem Match-T
 
   
 
-Der Mappool besteht aus folgenden vier (5) Maps:  
+Der Mappool besteht aus folgenden fünf (5) Maps:  
 
 *   Haven  
     
