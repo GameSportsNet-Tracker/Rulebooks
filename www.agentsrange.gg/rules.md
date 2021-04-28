@@ -233,6 +233,15 @@ Ein Beitritt bei laufendem Cup ist nicht möglich.
   
   
 
+### Coaches
+
+  
+
+Die Nutzung des Coach-Slots ist erlaubt.
+
+  
+  
+
 Vor dem Match
 -------------
 
