@@ -240,6 +240,14 @@ Ein Beitritt bei laufendem Cup ist nicht möglich.
 Die Nutzung des Coach-Slots ist erlaubt.
 
   
+
+Die Maximal-Anzahl von 8 Teilnehmern im Lineup ändert sich dadurch nicht.
+
+  
+
+Ausschließlich Teilnehmer, welche dem Team-Account beigetreten sind und die Teilnahme bestätigt haben, sind für den jeweiligen Cup berechtigt dem Coach-Slot zu joinen.
+
+  
   
 
 Vor dem Match
