@@ -102,7 +102,7 @@ Jeder Spieler hat anderen Spielern sowie der Administration den gebührenden Res
   
   
 
-Jeder Spieler muss die aktuelle Version von League of Legends installiert haben und hat dafür Sorge zu tragen, sich frühzeitig über neue Updates zu informieren und diese auf sein System aufzuspielen. Patchen ist unter normalen Umständen keine gültige Begründung, um eine Partie zu verzögern.
+Jeder Spieler muss die aktuelle Version von League of Legends (Live-Server sowie die beiden für ein Match relevanten Tournament Realm Clients) installiert haben und hat dafür Sorge zu tragen, sich frühzeitig über neue Updates zu informieren und diese auf sein System aufzuspielen. Patchen ist unter normalen Umständen keine gültige Begründung, um eine Partie zu verzögern.
 
   
   
@@ -112,7 +112,7 @@ Mit der Teilnahme an der Prime League bestätigt der Spieler das in seinem/ihrem
   
   
 
-Team- sowie Spielerprofile, die gegen Community-Standards verstoßen, sind nicht zugelassen. Darunter fallen unter anderem rassistische, antisemitische, sexistische, homophobe, transphobe oder anderweitig beleidigende Namen, Bilder oder Profilbeschreibungen. Die Administration hat das Recht anstößige oder beleidigende Bilder, Namen oder Profilbeschreibungen ohne Vorwarnung zu ändern oder zu löschen.
+Die Administration behält sich das Recht vor, anstößige oder beleidigende Bilder, Namen oder Profilbeschreibungen von Teams sowie Spielern ohne Vorwarnung zu ändern oder zu löschen. Darunter fallen unter anderem rassistische, antisemitische, sexistische, homophobe, transphobe oder anderweitig diskrimierende Namen, Bilder oder Profilbeschreibungen.
 
   
   
@@ -136,12 +136,12 @@ Jede Person, die an einem Spiel der Prime League teilnimmt, erklärt sich hiermi
   
   
 
-Jeder Spieler ist dazu verpflichtet seinen League of Legends-Account auf seinem GameSports Account zu verifizieren. Ein Spieler ist erst 24 Stunden nach erfolgreicher Verifizierung spielberechtigt. Eine Änderung des League of Legends-Accounts muss via [Support-Ticket](https://www.primeleague.gg/de/users/support) beantragt und genehmigt werden. Der Spieler ist nur dann spielberechtigt, wenn der im Profil angegebene Beschwörername mit dem in der Lobby befindlichen Account übereinstimmt. Bei einer Namensänderung kann im [Nutzerzentrum](https://www.primeleague.gg/de/users/center) über "DEIN PROFIL" der Beschwörername selbstständig aktualisiert werden.
+Jeder Spieler ist dazu verpflichtet seinen League of Legends-Account mit seinem GameSports Account zu verifizieren. Eine Änderung des League of Legends-Accounts während einer laufenden Saison muss via [Support-Ticket](https://www.primeleague.gg/de/users/support) beantragt und genehmigt werden. Grundvoraussetzung für die Genehmigung der Änderung ist, dass der aktuell verifizierte League of Legends-Account nicht gesperrt ist. Bei einer Namensänderung kann im [Nutzerzentrum](https://www.primeleague.gg/de/users/center) über "DEIN PROFIL" der Beschwörername selbstständig aktualisiert werden.
 
   
   
 
-Die Benutzung von mehreren GameSports Accounts ist untersagt.
+Die Benutzung von mehreren GameSports Accounts ist untersagt. Weiterhin ist sowohl die Weitergabe von GameSports Accounts sowie den dazugehörigen verifizierten League of Legends Accounts und den Accounts für die Tournament Realms, und die Nutzung solcher weitergegebenen Accounts untersagt.
 
   
   
@@ -176,7 +176,7 @@ Mit der Anmeldung zur Prime League erklärt sich jedes Team zur aktiven Teilnahm
   
   
 
-Jedes Team, welches an zwei (2) aufeinanderfolgenden Spielen innerhalb der Gruppenphase nicht zum offiziellen Match-Termin erscheint, wird von der Administration aus der laufenden Saison der Prime League ausgeschlossen.
+Jedes Team, welches an zwei (2) aufeinanderfolgenden oder insgesamt drei (3) Spielen innerhalb der Gruppenphase nicht zum offiziellen Match-Termin erscheint, kann von der Administration aus der laufenden Saison der Prime League ausgeschlossen werden.
 
   
   
@@ -405,11 +405,6 @@ Jeder Sieg eines Spiels entspricht einem (1) Punkt im Ranking.
   
   
 
-Matches, zu denen keines der beiden Teams angetreten ist, werden mit 0:0 geschlossen.
-
-  
-  
-
 ### Ranking
 
   
@@ -489,9 +484,7 @@ Ein Team kann ein spielberechtigtes Lineup stellen, wenn
   
 *   mindestens fünf (5) Spieler des Teams in der Saison teilnahmeberechtigt sind oder  
     
-*   mit Wechselslots auf mindestens fünf (5) Spieler aufgestockt werden kann oder  
-    
-*   mit Hilfe von Stand-Ins alle verbleibenen Matches ausgetragen werden können.
+*   mit Wechselslots auf mindestens fünf (5) Spieler aufgestockt werden kann.
 
   
 
@@ -509,22 +502,7 @@ Als Stand-In bezeichnet man einen Spieler, der nicht im aktiven Lineup des Teams
   
   
 
-Es sind maximal zwei (2) Stand-Ins pro Match in einem Team erlaubt.
-
-  
-  
-
-Jedes Team darf insgesamt bis zu dreimal (3) einen Stand-In während der Gruppenphase einsetzen. Während der Playoffs sind keine Stand-Ins zugelassen.
-
-  
-  
-
-Pro Team darf maximal zweimal (2) derselbe Stand-In während der Gruppenphase aushelfen.
-
-  
-  
-
-Ein Spieler darf nur als Stand-In eingesetzt werden, wenn dieser kein bestätigter Spieler eines Teams der Pro Division oder eines anderen Teams der Division 1 ist.
+Der Einsatz von Stand-Ins ist nicht erlaubt.
 
   
   
@@ -533,7 +511,7 @@ Ein Spieler darf nur als Stand-In eingesetzt werden, wenn dieser kein bestätigt
 
   
 
-Teams können nach Ende der Signup-Phase bis Ende der Gruppenphase insgesamt zwei (2) Spieler zum Lineup hinzufügen. Das Hinzufügen eines Spielers verbraucht einen Wechselslot.
+Teams können nach Ende der Signup-Phase bis Ende der 8. Woche der Gruppenphase insgesamt drei (3) Spieler zum Lineup hinzufügen. Das Hinzufügen eines Spielers verbraucht einen Wechselslot.
 
   
   
@@ -557,14 +535,10 @@ Ein Spieler kann während einer Saison zu unterschiedlichen Zeitpunkten festes M
   
   
 
-Ein Spieler kann nach Ende der fünften (5) Spielwoche nur noch dann einem Lineup beitreten, wenn er vorher kein Mitglied eines anderen Lineups war.
+Nachdem ein Spieler in ein Lineup gewechselt ist und ein Vertreter des Teams die Administration über den Wechsel explizit informiert hat, ist er/sie nach Ablauf einer Frist von drei (3) Arbeitstagen als Teammitglied spielberechtigt. Jedem Spieler wird spätestens bei Ablauf dieser Frist einen Account für den Tournament Realm erhalten.
 
   
-  
-
-Nachdem ein Spieler in ein Lineup gewechselt ist, ist er/sie erst nach Ablauf einer Frist von 24 Stunden als Teammitglied spielberechtigt. Der Spieler kann bis Ablauf dieser Frist als Stand-In einspringen. In diesem Fall gelten alle Regelungen bezüglich Stand-Ins.
-
-  
+_Anmerkung: Werktage nur montags bis freitags, Feiertage ausgenommen. Beachtet bitte die Feiertage in Berlin._  
   
 
 ### Teameigentümer
@@ -687,12 +661,30 @@ Bei einem Cheatverdacht muss ein Replay des betreffenden Spiels auf die Matchsei
   
   
 
-Spielplan & Spielablauf
------------------------
+Schedule
+--------
 
   
   
-Die Division 1 hat 18 Spieltage. Der genaue Spielplan wird von der Administration vorgegeben und spätestens eine Woche vor dem ersten Spieltag bekannt gegeben.  
+
+### Spielplan
+
+  
+Die Division 1 hat 18 Spieltage. Der genaue Spielplan wird von der Administration vorgegeben und spätestens eine Woche vor dem ersten Spieltag bekannt gegeben. Die benötigten Tournament Realms sowie genutzten Patches werden für jeden Spieltag ebenfalls rechtzeitig kommuniziert.  
+  
+
+### Spielverlegungen
+
+  
+
+Sollte ein Team oder einer der Spieler aufgrund eines Force Majeur nicht rechtzeitig oder gar nicht zu einem Match antreten können, muss die Administration unverzüglich darüber informiert werden. Es liegt im Ermessen der Administration zu entscheiden, ob das Match verschoben oder abgesagt wird.
+
+  
+  
+
+Wenn ein Match verschoben wird, muss es in der selben oder folgenden Woche wiederholt werden, sofern die betroffenen Teams und die Adminstration keine anderweitige Einigung finden. Die genaue Matchzeit wird von der Administration festgelegt und schnellstmöglich an die Teams kommuniziert.
+
+  
   
   
 
@@ -758,11 +750,11 @@ Bei Verspätung zu einem Spiel gelten die folgenden Regelungen:
   
   
 
-### Tournamentcode & Lobby
+### Lobby
 
   
 
-Zum Zeitpunkt des Matches kann von Leader oder Captains der spielenden Teams der „Tournamentcode“ auf der Matchseite angefordert werden. Dieser Code wird benötigt, um der Lobby beizutreten. Die Einstellungen, die mit dem Tournamentcode erstellt werden, bestimmen die Map sowie den Modus der Champion Selection. Es wird auf der 5vs5 Map (Kluft der Beschwörer) gespielt. Die Champion Selection findet im Turnier-Modus statt.
+Alle Matches werden auf dem Tournament Realm ausgetragen. Die Lobby jedes Matches wird durch die Administration erstellt. Die Lobby-Details wie Name und Passwort werden den betroffenen Teams schnellstmöglich mitgeteilt.
 
   
   
@@ -781,7 +773,7 @@ Platzhalter sind während der Champion Selection nicht erlaubt. Die Picks und Ba
   
   
 
-Neu veröffentlichte Champions sind erst ab dem auf die Veröffentlichung folgenden Patch spielbar. Darüberhinaus behält sich die Administration das Recht vor, einzelne Champions, etwa aufgrund von Bugs, temporär oder kurzfristig zu sperren.
+Die Administration informiert alle Teams rechtzeitig über Einschränkungen der auswählbaren Champions, Fähigkeiten, Runen, Items und Kombinationen derer.
 
   
   
@@ -789,7 +781,13 @@ Neu veröffentlichte Champions sind erst ab dem auf die Veröffentlichung folgen
 ### Zuschauer
 
   
-In der Lobby sind neben den zehn (10) Spielern und den Admins die offiziellen Kommentatoren zugelassen. Pro Team darf ein Vertreter dem Spiel als Zuschauer beitreten, sofern genügend Zuschauerplätze für beide Teams verfügbar sind. Die Administration kann jedoch entscheiden, dass bestimmte Personen für einzelne Matches der Lobby und dem Spiel beitreten können.  
+In der Lobby sind zum Spielstart neben den zehn (10) Spielern und den Admins lediglich die offiziellen Kommentatoren zugelassen. Die Administration kann jedoch entscheiden, dass bestimmte Personen für einzelne Matches der Lobby und dem Spiel beitreten können.  
+  
+
+### Tournament Realm
+
+  
+Sollten vor einem Match serverseitige technische Probleme mit dem Tournament Realm in der Art auftreten, dass eine reguläre Austragung des Matches nicht möglich oder vertretbar ist, wird der Backup Tournament Realm genutzt. Sollten diese oder ähnliche Probleme auch hier auftreten, liegt es im Ermessen der Administration zu entscheiden, ob das Match auf dem Live-Server ausgetragen oder verschoben wird.  
   
 
 Während des Matches
@@ -822,12 +820,12 @@ Im Falle eines Disconnects ist die Pausefunktion zu betätigen. Pausen können i
   
   
 
-Vor Wiederaufnahme des Spiels muss von beiden Teams explizit bestätigt werden, dass sie bereit sind das Spiel fortzusetzen.
+Vor Wiederaufnahme des Spiels muss von beiden Teams explizit bestätigt werden, dass sie bereit sind das Spiel fortzusetzen. Das Spiel darf ausschließlich von einem Admin wieder aufgenommen werden.
 
   
   
 
-Sollte eine Pause länger als 30 Sekunden andauern, muss das pausierende Team die Administration unverzüglich über den Grund sowie die voraussichtliche Dauer der Pause informieren.
+Sollte eine Pause getätigt werden, muss das pausierende Team die Administration unverzüglich über den Grund sowie die voraussichtliche Dauer der Pause informieren.
 
   
   
@@ -850,6 +848,7 @@ Spieler dürfen sich nicht Streams des eigenen Spiels live ansehen. Dies beinhal
 
   
 Sollte die Verbindung aller Spieler zu einem Server abbrechen und das erneute Beitreten auf einen Server nicht möglich sein, entscheidet die Administration, wie weiter verfahren wird. Das Match ist dann bis auf weiteres verschoben.  
+  
   
 
 Betrugsversuche
@@ -893,4 +892,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/de/statics/rules_div1#top)  
   
-Letztes Update: 17.02.2021
+Letztes Update: 07.05.2021
