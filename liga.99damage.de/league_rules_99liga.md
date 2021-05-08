@@ -216,7 +216,7 @@ Ein Team, das nicht länger aktiv an der Liga teilnehmen kann oder will, sollte 
   
   
 
-Teams, welche an zwei aufeinanderfolgenden Spieltagen nicht zum Match-Termin erscheinen, werden von der Liga-Administration nach Meldung durch eines der Divisions-Gruppen-Teams aus der laufenden Saison der 99Damage Liga ausgeschlossen und ihre offenen Matches geschlossen. Bereits ausgespielte Matches werden resettet.
+Teams, welche an zwei aufeinanderfolgenden Spieltagen nicht zum Match-Termin erscheinen, werden von der Liga-Administration nach Meldung durch eines der Divisions-Gruppen-Teams aus der laufenden Saison der 99Damage Liga ausgeschlossen und ihre offenen Matches geschlossen. Bereits ausgespielte Matches in Divisionen, die im Format Round Robin (Divisionen 1, 2 und 3) ausgespielt werden, werden resettet.
 
   
   
@@ -340,7 +340,6 @@ Die Platzierungen einer Gruppe werden wie folgt berechnet:
 4.  Runden-Differenz insgesamt
 
   
-  
 
 Die Punkte zur Berechnung des Rankings werden nacheinander abgearbeitet, bis ein eindeutiges Ergebnis ermittelt werden kann. Sollte es zu einem Gleichstand nach Punkt 1 kommen, werden für die Berechnung der Punkte 2 und 3 ausschließlich die Matches der punktgleichen Teams untereinander zur Berechnung einbezogen.
 
@@ -423,6 +422,10 @@ Ein Team kann ein spielberechtigtes Lineup stellen, wenn
 *   Das Match-Lineup mit spielberechtigten Stand-Ins aufgestockt werden kann
 
   
+
+Spieler die Ihre Teilnahme an der Season bestätigt haben sind, für das eigene Team, uneingeschränkt spielberechtigt. Sie dürfen, in Matches des eigenen Teams, jederzeit eingewechselt werden und sind nicht als Stand-In zu betrachten.
+
+  
   
 
 ### Stand-ins/Ersatzspieler
@@ -430,12 +433,12 @@ Ein Team kann ein spielberechtigtes Lineup stellen, wenn
   
   
 
-Als Stand-in bezeichnet man einen Spieler, der nicht im aktiven Match-Lineup des Teams gelistet ist und für einen aktiven Spieler einspringt.
+Als Stand-in bezeichnet man einen Spieler, der nicht im aktiven Saison-Lineup des Teams gelistet ist und für einen aktiven Spieler einspringt.
 
   
   
 
-Muss ein Stand-in von Beginn an spielen, ist dieser statt eines aktiven Spielers des Saison-Lineups im Lineup des Matches einzutragen.
+Muss ein Stand-in von Beginn an spielen, ist dieser statt eines aktiven Spielers des Saison-Lineups im Lineup des Matches einzutragen. (Siehe Regel 8.1.2)
 
   
   
@@ -491,12 +494,12 @@ Die Wechselslot-Regelung tritt für Saison 17 am 28.02.2021 um 18:00 Uhr (mit En
   
   
 
-Der Roster-Lock tritt für Saison 17 am 03.05.2021 - 00:00 Uhr in Kraft.
+Der Roster-Lock tritt für Saison 17 am 10.05.2021 - 00:00 Uhr in Kraft.
 
   
   
 
-Teams können im Laufe einer Saison insgesamt zwei (2) Spieler zum Team hinzufügen.
+Teams können im Laufe einer Saison insgesamt zwei (2) Spieler zum Saison-Lineup hinzufügen.
 
   
   
@@ -600,7 +603,7 @@ Jegliche Fragen und Beschwerden zur Liga müssen über ein [Support-Ticket](http
   
   
 
-Beschwerden müssen innerhalb von einer (1) Stunde nach Ende des Matches über ein Support-Ticket eingereicht werden. Ausgenommen von dieser Frist sind Proteste die Time-Tables beinhalten. (siehe Regel 6.4.2)
+Beschwerden müssen innerhalb von einer (1) Stunde nach Ende des Matches über ein Support-Ticket eingereicht werden. Ausgenommen von dieser Frist sind Proteste die Time-Tables beinhalten. (Siehe Regel 6.4.2)
 
   
   
@@ -806,7 +809,6 @@ Es müssen fünf (5) Spieler dem Match-Lineup hinzugefügt werden. Mögliche Mel
     
 *   Drei (3) Spieler aus dem Saison-Lineup + 2 Stand-Ins
 
-  
   
 
 Jeder Spieler des ausgewählten Match-Lineups muss innerhalb der Gruppenphase ab 15 Minuten vor bis spätestens 5 Minuten vor der offiziellen Matchzeit seine Teilnahme bestätigen, indem er/sie sich auf der Match-Seite als „anwesend“ markiert. Falls dies nicht innerhalb der Frist geschieht, wird das Match automatisch als verloren gewertet.
