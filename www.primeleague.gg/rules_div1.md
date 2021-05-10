@@ -1,7 +1,7 @@
 Das folgende Regelwerk gilt ausschließlich für die Division 1 sowie die Playoffs zwischen Division 1 und Division 2.  
 Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/de/statics/rules_div1_changelog) dargestellt.  
   
-[Regelwerk für die Pro Division](https://cdn1-v3.gamesports.net/img/themes/primeleague/rules_pro.pdf?2020-12-17)  
+[Regelwerk für die Pro Division](https://cdn1-v3.gamesports.net/img/themes/primeleague/rules_pro.pdf?2021-05-10)  
   
 [Regelwerk für die unteren Divisionen](https://www.primeleague.gg/de/statics/rules_general)  
   
