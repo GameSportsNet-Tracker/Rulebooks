@@ -1,9 +1,9 @@
 ![](https://cdn0.gamesports.net/storage/165000/165973.jpg)
 
   
-[Zurück zur Regelwerke-Übersicht](https://liga.99damage.de/de/statics/rules)  
+[Zurück zur Regelwerke-Übersicht](https://liga.99damage.de/statics/rules)  
   
-Die nachfolgenden Regeln gelten als Ergänzung zum allgemeinen 99Damage Liga [Regelwerk](https://liga.99damage.de/de/statics/league_rules_99liga) und präzisiert die Regelungen, die ausschließlich in der Division 2 Anwendung finden. Die Kontaktaufnahme mit dem Division 2 Admin ist sowohl über das Supportsystem als auch über den Division 1 Discord-Server, sowie dem direkten Steamchat erlaubt.  
+Die nachfolgenden Regeln gelten als Ergänzung zum allgemeinen 99Damage Liga [Regelwerk](https://liga.99damage.de/statics/league_rules_99liga) und präzisiert die Regelungen, die ausschließlich in der Division 2 Anwendung finden. Die Kontaktaufnahme mit dem Division 2 Admin ist sowohl über das Supportsystem als auch über den Division 1 Discord-Server, sowie dem direkten Steamchat erlaubt.  
   
   
 
@@ -13,22 +13,22 @@ Index
   
 
   
-2.  [Zusammensetzung Teams](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#teams)  
+2.  [Zusammensetzung Teams](https://liga.99damage.de/statics/league_rules_99liga_2nd/#teams)  
     
-3.  [Spieltag & Spielablauf](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#spieltag)  
+3.  [Spieltag & Spielablauf](https://liga.99damage.de/statics/league_rules_99liga_2nd/#spieltag)  
     
-4.  [Vor dem Match](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#vor)  
+4.  [Vor dem Match](https://liga.99damage.de/statics/league_rules_99liga_2nd/#vor)  
     
-5.  [Taktische und Technische Pausen](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#pausen)  
+5.  [Taktische und Technische Pausen](https://liga.99damage.de/statics/league_rules_99liga_2nd/#pausen)  
     
-6.  [Coverage](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#coverage)  
+6.  [Coverage](https://liga.99damage.de/statics/league_rules_99liga_2nd/#coverage)  
     
 
   
   
 
-Zusammensetzung Teams[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#top)
---------------------------------------------------------------------------------------------
+Zusammensetzung Teams[(^)](https://liga.99damage.de/statics/league_rules_99liga_2nd/#top)
+-----------------------------------------------------------------------------------------
 
   
   
@@ -58,7 +58,7 @@ Löst sich ein nicht orgagebundenes Team auf, muss mindestens ein (1) Spieler im
   
   
 
-Im Fall einer Auflösung eines nicht orgagebundenen Teams darf das Mehrheitslineup keinem Team-Account der Divisionen 3 bis Starter-Division joinen. Im Falle, dass das Mehrheitslineup weiterhin zusammen spielen möchte, ist der Account der Division 2 weiter zu nutzen. Der Leader ist per Mehrheits-Voting per [Support-Ticket](https://liga.99damage.de/de/users/support) vom Mehrheitslineup zu bestimmen.
+Im Fall einer Auflösung eines nicht orgagebundenen Teams darf das Mehrheitslineup keinem Team-Account der Divisionen 3 bis Starter-Division joinen. Im Falle, dass das Mehrheitslineup weiterhin zusammen spielen möchte, ist der Account der Division 2 weiter zu nutzen. Der Leader ist per Mehrheits-Voting per [Support-Ticket](https://liga.99damage.de/users/support) vom Mehrheitslineup zu bestimmen.
 
   
   
@@ -138,8 +138,8 @@ Spieler können während einer laufenden Saison bis zum 10.05.2021 - 00:00 Uhr b
   
   
 
-Spielplan & Spielablauf[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#top)
-----------------------------------------------------------------------------------------------
+Spielplan & Spielablauf[(^)](https://liga.99damage.de/statics/league_rules_99liga_2nd/#top)
+-------------------------------------------------------------------------------------------
 
   
   
@@ -161,12 +161,12 @@ Jedes Team erhält pro Saison eine (1) Wildcards, um Matches auf einen anderen T
   
   
 
-Wildcards sind zwingend spätestens 48 Stunden vor dem Match-Termin per [Support-Ticket](https://liga.99damage.de/de/users/support) einzureichen.
+Wildcards sind zwingend spätestens 48 Stunden vor dem Match-Termin per [Support-Ticket](https://liga.99damage.de/users/support) einzureichen.
 
   
   
 
-Der Termin für das Nachholspiel ist ebenfalls vom Wildcard ziehenden Team per [Support-Ticket](https://liga.99damage.de/de/users/support) mitzuteilen.
+Der Termin für das Nachholspiel ist ebenfalls vom Wildcard ziehenden Team per [Support-Ticket](https://liga.99damage.de/users/support) mitzuteilen.
 
   
   
@@ -279,8 +279,8 @@ Spiele der Division 2 werden ausschließlich von 99Damage Castern und/oder Partn
   
   
 
-Taktische und Technische Pausen[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
-------------------------------------------------------------------------------------------------------
+Taktische und Technische Pausen[(^)](https://liga.99damage.de/statics/league_rules_99liga_1st/#top)
+---------------------------------------------------------------------------------------------------
 
   
 
@@ -297,8 +297,8 @@ Sollte ein technisches Problem auftauchen, ist die Pause-Funktion des eBots zu n
   
   
 
-Coverage[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_2nd/#top)
--------------------------------------------------------------------------------
+Coverage[(^)](https://liga.99damage.de/statics/league_rules_99liga_2nd/#top)
+----------------------------------------------------------------------------
 
   
   
@@ -313,7 +313,7 @@ Das Lineup ist auf der entsprechenden Match-Seite 48 Stunden vor dem Match-Termi
   
   
 
-Eine nachträgliche Änderung ist möglich, ist der Liga-Administration per [Support-Ticket](https://liga.99damage.de/de/users/support) mitzuteilen.
+Eine nachträgliche Änderung ist möglich, ist der Liga-Administration per [Support-Ticket](https://liga.99damage.de/users/support) mitzuteilen.
 
   
   

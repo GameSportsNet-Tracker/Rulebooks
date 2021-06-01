@@ -1,9 +1,9 @@
 ![](https://cdn0.gamesports.net/storage/165000/165937.jpg)
 
   
-[Zurück zur Regelwerke-Übersicht](https://liga.99damage.de/de/statics/rules)  
+[Zurück zur Regelwerke-Übersicht](https://liga.99damage.de/statics/rules)  
   
-Die nachfolgenden Regeln gelten als Ergänzung zum allgemeinen 99Damage Liga [Regelwerk](https://liga.99damage.de/de/statics/league_rules_99liga) und präzisiert die Regelungen, die ausschließlich in der Division 1 Anwendung finden. Die Kontaktaufnahme mit dem Division 1 Admin ist sowohl über das Supportsystem als auch über den Division 1 Discord-Server, sowie dem direkten Steamchat erlaubt.  
+Die nachfolgenden Regeln gelten als Ergänzung zum allgemeinen 99Damage Liga [Regelwerk](https://liga.99damage.de/statics/league_rules_99liga) und präzisiert die Regelungen, die ausschließlich in der Division 1 Anwendung finden. Die Kontaktaufnahme mit dem Division 1 Admin ist sowohl über das Supportsystem als auch über den Division 1 Discord-Server, sowie dem direkten Steamchat erlaubt.  
   
   
 
@@ -13,24 +13,24 @@ Index
   
 
   
-2.  [Zusammensetzung Teams](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#teams)  
+2.  [Zusammensetzung Teams](https://liga.99damage.de/statics/league_rules_99liga_1st/#teams)  
     
-3.  [Coverage](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#coverage)  
+3.  [Coverage](https://liga.99damage.de/statics/league_rules_99liga_1st/#coverage)  
     
-4.  [Spieltag & Spielablauf](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#spieltag)  
+4.  [Spieltag & Spielablauf](https://liga.99damage.de/statics/league_rules_99liga_1st/#spieltag)  
     
-5.  [Vor dem Match](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#vor)  
+5.  [Vor dem Match](https://liga.99damage.de/statics/league_rules_99liga_1st/#vor)  
     
-6.  [Taktische und Technische Pausen](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#pausen)  
+6.  [Taktische und Technische Pausen](https://liga.99damage.de/statics/league_rules_99liga_1st/#pausen)  
     
-7.  [Finals und Preisgeld](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#finals)  
+7.  [Finals und Preisgeld](https://liga.99damage.de/statics/league_rules_99liga_1st/#finals)  
     
 
   
   
 
-Zusammensetzung Teams[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
---------------------------------------------------------------------------------------------
+Zusammensetzung Teams[(^)](https://liga.99damage.de/statics/league_rules_99liga_1st/#top)
+-----------------------------------------------------------------------------------------
 
   
   
@@ -95,8 +95,8 @@ Es können nach dem 24.05.2021 - 00:00 Uhr) keine Spieler mehr dem Lineup hinzug
   
   
 
-Coverage[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
--------------------------------------------------------------------------------
+Coverage[(^)](https://liga.99damage.de/statics/league_rules_99liga_1st/#top)
+----------------------------------------------------------------------------
 
   
   
@@ -111,7 +111,7 @@ Das Lineup ist auf der entsprechenden Match-Seite 48 Stunden vor dem Match-Termi
   
   
 
-Eine nachträgliche Änderung ist möglich, ist der Liga-Administration aber entweder im Discord-Match-Channel oder per [Support-Ticket](https://liga.99damage.de/de/users/support) mitzuteilen.
+Eine nachträgliche Änderung ist möglich, ist der Liga-Administration aber entweder im Discord-Match-Channel oder per [Support-Ticket](https://liga.99damage.de/users/support) mitzuteilen.
 
   
   
@@ -166,8 +166,8 @@ Den Teams wird am Match-Tag im eingerichteten Discord-Chat mitgeteilt, welcher S
   
   
 
-Spielplan & Spielablauf[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
-----------------------------------------------------------------------------------------------
+Spielplan & Spielablauf[(^)](https://liga.99damage.de/statics/league_rules_99liga_1st/#top)
+-------------------------------------------------------------------------------------------
 
   
   
@@ -229,8 +229,8 @@ Das Anwenden der Pause und Stand-in Regeln, um den Start weiter hinaus zu zöger
   
   
 
-Vor dem Match[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
-------------------------------------------------------------------------------------
+Vor dem Match[(^)](https://liga.99damage.de/statics/league_rules_99liga_1st/#top)
+---------------------------------------------------------------------------------
 
   
   
@@ -361,8 +361,8 @@ Spiele der Division 1 werden ausschließlich von 99Damage Castern und/oder Partn
   
   
 
-Taktische und Technische Pausen[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
-------------------------------------------------------------------------------------------------------
+Taktische und Technische Pausen[(^)](https://liga.99damage.de/statics/league_rules_99liga_1st/#top)
+---------------------------------------------------------------------------------------------------
 
   
 
@@ -379,8 +379,8 @@ Sollte ein technisches Problem auftauchen, ist die Pause-Funktion des eBots zu n
   
   
 
-Finals & Preisgeld[(^)](https://liga.99damage.de/de/statics/league_rules_99liga_1st/#top)
------------------------------------------------------------------------------------------
+Finals & Preisgeld[(^)](https://liga.99damage.de/statics/league_rules_99liga_1st/#top)
+--------------------------------------------------------------------------------------
 
   
   

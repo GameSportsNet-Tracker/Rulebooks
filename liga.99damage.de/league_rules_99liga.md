@@ -1,10 +1,10 @@
 ![](https://cdn0.gamesports.net/storage/165000/165976.jpg)
 
   
-[Zurück zur Regelwerke-Übersicht](https://liga.99damage.de/de/statics/rules)  
+[Zurück zur Regelwerke-Übersicht](https://liga.99damage.de/statics/rules)  
   
 
-Jegliche Fragen und Beschwerden zur Liga müssen über ein [Support-Ticket](https://liga.99damage.de/de/users/support) eingereicht werden. Die Liga-Administration ist auf anderem Wege, wie zum Beispiel Private Nachrichten, Forum oder externe Plattformen, nicht zu erreichen und wird darüber keine Fragen beantworten.
+Jegliche Fragen und Beschwerden zur Liga müssen über ein [Support-Ticket](https://liga.99damage.de/users/support) eingereicht werden. Die Liga-Administration ist auf anderem Wege, wie zum Beispiel Private Nachrichten, Forum oder externe Plattformen, nicht zu erreichen und wird darüber keine Fragen beantworten.
 
   
 
@@ -30,42 +30,42 @@ Index
   
 
   
-2.  [Allgemeines](https://liga.99damage.de/de/statics/league_rules_99liga/#allgemeines)  
+2.  [Allgemeines](https://liga.99damage.de/statics/league_rules_99liga/#allgemeines)  
       
     
-3.  [Liga Struktur](https://liga.99damage.de/de/statics/league_rules_99liga/#struktur)  
+3.  [Liga Struktur](https://liga.99damage.de/statics/league_rules_99liga/#struktur)  
       
     
-4.  [Anti Cheat](https://liga.99damage.de/de/statics/league_rules_99liga/#anticheat)  
+4.  [Anti Cheat](https://liga.99damage.de/statics/league_rules_99liga/#anticheat)  
       
     
-5.  [Gruppen und Format](https://liga.99damage.de/de/statics/league_rules_99liga/#gruppen)  
+5.  [Gruppen und Format](https://liga.99damage.de/statics/league_rules_99liga/#gruppen)  
       
     
-6.  [Zusammensetzung Teams](https://liga.99damage.de/de/statics/league_rules_99liga/#teams)  
+6.  [Zusammensetzung Teams](https://liga.99damage.de/statics/league_rules_99liga/#teams)  
       
     
-7.  [Proteste und Fragen](https://liga.99damage.de/de/statics/league_rules_99liga/#protest)  
+7.  [Proteste und Fragen](https://liga.99damage.de/statics/league_rules_99liga/#protest)  
       
     
-8.  [Spieltag und Spielablauf](https://liga.99damage.de/de/statics/league_rules_99liga/#spieltag)  
+8.  [Spieltag und Spielablauf](https://liga.99damage.de/statics/league_rules_99liga/#spieltag)  
       
     
-9.  [Vor dem Match](https://liga.99damage.de/de/statics/league_rules_99liga/#vor)  
+9.  [Vor dem Match](https://liga.99damage.de/statics/league_rules_99liga/#vor)  
       
     
-10.  [Während des Matches](https://liga.99damage.de/de/statics/league_rules_99liga/#match)  
+10.  [Während des Matches](https://liga.99damage.de/statics/league_rules_99liga/#match)  
       
     
-11.  [Cheating](https://liga.99damage.de/de/statics/league_rules_99liga/#cheating)  
+11.  [Cheating](https://liga.99damage.de/statics/league_rules_99liga/#cheating)  
     
 
   
   
   
 
-Allgemeines [(^)](https://liga.99damage.de/de/statics/league_rules_99liga/#top)
--------------------------------------------------------------------------------
+Allgemeines [(^)](https://liga.99damage.de/statics/league_rules_99liga/#top)
+----------------------------------------------------------------------------
 
   
   
@@ -211,7 +211,7 @@ Mit der Teilnahme an der 99Damage Liga erklären Teams sich zur aktiven Teilnahm
   
   
 
-Ein Team, das nicht länger aktiv an der Liga teilnehmen kann oder will, sollte dies über ein [Support-Ticket](https://liga.99damage.de/de/users/support) an die Liga-Administration kommunizieren. Es werden ausschließlich Meldungen des Team-Leaders akzeptiert.
+Ein Team, das nicht länger aktiv an der Liga teilnehmen kann oder will, sollte dies über ein [Support-Ticket](https://liga.99damage.de/users/support) an die Liga-Administration kommunizieren. Es werden ausschließlich Meldungen des Team-Leaders akzeptiert.
 
   
   
@@ -227,8 +227,8 @@ Teams, die aufgrund von Inaktivität aus der laufenden Saison ausgetragen wurden
   
   
 
-Liga Struktur [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
-----------------------------------------------------------------------------
+Liga Struktur [(^)](https://liga.99damage.de/statics/league_rules_99liga)
+-------------------------------------------------------------------------
 
   
   
@@ -250,7 +250,7 @@ Die Divisionen klassifizieren den ungefähren Stärkegrad der einzelnen Teams. A
   
   
 
-Um eine Einladung in die Divisionen 2 oder 3 zu erhalten, bedarf es einer Bewerbung der Teams. Wie das Bewerbungsverfahren abläuft, kann über ein [Support-Ticket](https://liga.99damage.de/de/users/support) erfragt werden.
+Um eine Einladung in die Divisionen 2 oder 3 zu erhalten, bedarf es einer Bewerbung der Teams. Wie das Bewerbungsverfahren abläuft, kann über ein [Support-Ticket](https://liga.99damage.de/users/support) erfragt werden.
 
   
   
@@ -270,8 +270,8 @@ Die Kalibirierungs-Division besteht aus einer Gruppe mit allen Teams und wird im
   
   
 
-Anti Cheat [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
--------------------------------------------------------------------------
+Anti Cheat [(^)](https://liga.99damage.de/statics/league_rules_99liga)
+----------------------------------------------------------------------
 
   
   
@@ -298,8 +298,8 @@ Je nach Art des Reports werden entweder entsprechende Strafen vergeben oder die 
   
   
 
-Gruppen und Format [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
----------------------------------------------------------------------------------
+Gruppen und Format [(^)](https://liga.99damage.de/statics/league_rules_99liga)
+------------------------------------------------------------------------------
 
   
   
@@ -390,8 +390,8 @@ Abhängig von der Platzierung nach Ende einer Saison steigen Teams auf, ab oder 
   
   
 
-Zusammensetzung der Teams [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
-----------------------------------------------------------------------------------------
+Zusammensetzung der Teams [(^)](https://liga.99damage.de/statics/league_rules_99liga)
+-------------------------------------------------------------------------------------
 
   
   
@@ -587,8 +587,8 @@ Sollte der Verkauf gegen Geld, Dienstleistungen oder Sachleistungen bekannt werd
   
   
 
-Proteste & Fragen [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
---------------------------------------------------------------------------------
+Proteste & Fragen [(^)](https://liga.99damage.de/statics/league_rules_99liga)
+-----------------------------------------------------------------------------
 
   
   
@@ -598,7 +598,7 @@ Proteste & Fragen [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
   
   
 
-Jegliche Fragen und Beschwerden zur Liga müssen über ein [Support-Ticket](https://liga.99damage.de/de/users/support) eingereicht werden. Die Liga-Administration ist auf anderem Wege, wie zum Beispiel Private Nachrichten, Forum oder externe Plattformen, nicht zu erreichen und wird darüber keine Fragen beantworten.
+Jegliche Fragen und Beschwerden zur Liga müssen über ein [Support-Ticket](https://liga.99damage.de/users/support) eingereicht werden. Die Liga-Administration ist auf anderem Wege, wie zum Beispiel Private Nachrichten, Forum oder externe Plattformen, nicht zu erreichen und wird darüber keine Fragen beantworten.
 
   
   
@@ -683,7 +683,7 @@ Sollte ein oder mehrere Spieler verspätet oder nicht zum Spiel erscheinen ist d
   
   
 
-Sollte der Verdacht bestehen, dass externe Hilfsmittel beim Gegner verwendet wurden, ist ein entsprechender [Timetable](https://liga.99damage.de/de/statics/league_guides_timetable) anhand der GOTV Demo zu erstellen und über ein [Support-Ticket](https://liga.99damage.de/de/users/support) einzureichen. Die GOTV Demo wird nach Matchende automatisch im entsprechenden Match zum Download zur Verfügung gestellt. Der Upload der GOTV Demos beansprucht etwas Zeit. Sollte nach zwei (2) Stunden nach Match-Ende keine GOTV Demo zur Verfügung stehen, ist dies bitte über ein [Support-Ticket](https://liga.99damage.de/de/users/support) an die Liga-Administration zu melden.
+Sollte der Verdacht bestehen, dass externe Hilfsmittel beim Gegner verwendet wurden, ist ein entsprechender [Timetable](https://liga.99damage.de/statics/league_guides_timetable) anhand der GOTV Demo zu erstellen und über ein [Support-Ticket](https://liga.99damage.de/users/support) einzureichen. Die GOTV Demo wird nach Matchende automatisch im entsprechenden Match zum Download zur Verfügung gestellt. Der Upload der GOTV Demos beansprucht etwas Zeit. Sollte nach zwei (2) Stunden nach Match-Ende keine GOTV Demo zur Verfügung stehen, ist dies bitte über ein [Support-Ticket](https://liga.99damage.de/users/support) an die Liga-Administration zu melden.
 
   
   
@@ -712,8 +712,8 @@ Werden diese Vorgaben nicht erfüllt, wird der Protest auf Grund von Unvollstän
   
   
 
-Spieltag & Spielablauf [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
--------------------------------------------------------------------------------------
+Spieltag & Spielablauf [(^)](https://liga.99damage.de/statics/league_rules_99liga)
+----------------------------------------------------------------------------------
 
   
   
@@ -778,14 +778,14 @@ Sollte eines der Teams einen bereits ausgemachten Termin verschieben wollen, so 
   
   
 
-Der Termin für eine Verschiebung gemäß Regel 7.2.3 muss über die Kommentare unter dem Match vereinbart und dort von beiden Parteien mit Datum und Uhrzeit bestätigt werden, als auch über ein [Support-Ticket](https://liga.99damage.de/de/users/support) der Liga-Administration mitgeteilt werden.
+Der Termin für eine Verschiebung gemäß Regel 7.2.3 muss über die Kommentare unter dem Match vereinbart und dort von beiden Parteien mit Datum und Uhrzeit bestätigt werden, als auch über ein [Support-Ticket](https://liga.99damage.de/users/support) der Liga-Administration mitgeteilt werden.
 
   
   
   
 
-Vor dem Match [(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
-----------------------------------------------------------------------------
+Vor dem Match [(^)](https://liga.99damage.de/statics/league_rules_99liga)
+-------------------------------------------------------------------------
 
   
   
@@ -816,7 +816,7 @@ Jeder Spieler des ausgewählten Match-Lineups muss innerhalb der Gruppenphase ab
   
   
 
-Sollte keines der Teams rechtzeitig ein spielberechtigtes Lineup nominieren oder den Anwesenheitscheck erfolgreich durchführen, wird das Match ungewertet geschlossen. Das Match kann innerhalb der Spieltag-Fristen wiederholt werden, wenn beide Teams sich in den Matchkommentaren explizit auf einen neuen Termin einigen. Die Administration muss darüber unverzüglich über ein [Support-Ticket](https://liga.99damage.de/de/users/support) informiert werden.
+Sollte keines der Teams rechtzeitig ein spielberechtigtes Lineup nominieren oder den Anwesenheitscheck erfolgreich durchführen, wird das Match ungewertet geschlossen. Das Match kann innerhalb der Spieltag-Fristen wiederholt werden, wenn beide Teams sich in den Matchkommentaren explizit auf einen neuen Termin einigen. Die Administration muss darüber unverzüglich über ein [Support-Ticket](https://liga.99damage.de/users/support) informiert werden.
 
   
   
@@ -910,8 +910,8 @@ Der Mappool besteht aus folgenden sieben Maps:
   
   
 
-Während des Matches[(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
----------------------------------------------------------------------------------
+Während des Matches[(^)](https://liga.99damage.de/statics/league_rules_99liga)
+------------------------------------------------------------------------------
 
   
   
@@ -951,7 +951,7 @@ Es gelten 15 Minuten Wartezeit nach Ende von Map Nr. 1. Ist das gegnerische Team
   
   
 
-Die Messerrunde entscheidet welches Team die Startseite wählen darf. In der Messerrunde ist es nicht erlaubt, die Bombe zu legen. Wie die Startseite nach der Messer Runde gewählt werden kann findet man im [Tutorial zum 99Bot.](https://liga.99damage.de/de/statics/league_guides_99bot)
+Die Messerrunde entscheidet welches Team die Startseite wählen darf. In der Messerrunde ist es nicht erlaubt, die Bombe zu legen. Wie die Startseite nach der Messer Runde gewählt werden kann findet man im [Tutorial zum 99Bot.](https://liga.99damage.de/statics/league_guides_99bot)
 
   
   
@@ -971,7 +971,7 @@ Pausen sind nur während einer Freeze Time möglich.
   
   
 
-Eine Map darf ausschließlich über den 99Bot pausiert werden. Wie man die Pause-Funktion nutzt, ist im [Tutorial zum 99Bot.](https://liga.99damage.de/de/statics/league_guides_99bot) erklärt. Die Pause setzt dann in der aktuellen, beziehungsweise der nächsten kommenden Freeze Time ein.
+Eine Map darf ausschließlich über den 99Bot pausiert werden. Wie man die Pause-Funktion nutzt, ist im [Tutorial zum 99Bot.](https://liga.99damage.de/statics/league_guides_99bot) erklärt. Die Pause setzt dann in der aktuellen, beziehungsweise der nächsten kommenden Freeze Time ein.
 
   
   
@@ -1048,7 +1048,7 @@ Die Weitergabe des Join-Passwortes ist strengstens untersagt.
   
   
 
-Sollte ein Spectator dem Server joinen, ist das Match sofort zu pausieren und die Liga-Administration über ein [Support-Ticket](https://liga.99damage.de/de/users/support) mit den benötigten Screenshots zu informieren.
+Sollte ein Spectator dem Server joinen, ist das Match sofort zu pausieren und die Liga-Administration über ein [Support-Ticket](https://liga.99damage.de/users/support) mit den benötigten Screenshots zu informieren.
 
   
   
@@ -1057,7 +1057,7 @@ Sollte ein Spectator dem Server joinen, ist das Match sofort zu pausieren und di
 
   
   
-Sollte die Verbindung aller Spieler zu einem Server oder dem 99Bot abbrechen und das erneute Beitreten auf einen Server nicht möglich sein, ist die Liga-Administration über ein [Support-Ticket](https://liga.99damage.de/de/users/support) unverzüglich zu informieren. Das Match ist dann bis auf weiteres verschoben.  
+Sollte die Verbindung aller Spieler zu einem Server oder dem 99Bot abbrechen und das erneute Beitreten auf einen Server nicht möglich sein, ist die Liga-Administration über ein [Support-Ticket](https://liga.99damage.de/users/support) unverzüglich zu informieren. Das Match ist dann bis auf weiteres verschoben.  
   
 
 ### Spiel/Map Ende
@@ -1076,8 +1076,8 @@ Ein Team, das vollzählig vor Ende einer Map den Server absichtlich verlässt, v
   
   
 
-Cheating[(^)](https://liga.99damage.de/de/statics/league_rules_99liga)
-----------------------------------------------------------------------
+Cheating[(^)](https://liga.99damage.de/statics/league_rules_99liga)
+-------------------------------------------------------------------
 
   
   
