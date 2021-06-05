@@ -375,7 +375,7 @@ Jedem Team stehen pro Map vier (4) taktische Pausen à 45 Sekunden zur Verfügun
 ### Technische Pause
 
   
-Sollte ein technisches Problem auftauchen, ist die Pause-Funktion des eBots zu nutzen und die Pause über den Server-Chat mit dem Befehl „!tech“ zu setzen. Es gibt keine Begrenzungen an Anzahl und Dauer der technischen Pausen. Das technische Problem ist entweder im Server-Chat oder im Discord-Match-Raum zu benennen.  
+Sollte ein technisches Problem auftauchen, ist die Pause-Funktion des eBots zu nutzen und die Pause über den Server-Chat mit dem Befehl „!tech“ zu setzen. Es gibt keine Begrenzungen an Anzahl der technischen Pausen, die mögliche Dauer ist von der Liga-Administration im Einzelfall zu bestimmen. Der Aufforderung, einen Stand-In auf den Server zu bringen ist nach zu kommen. Das technische Problem ist entweder im Server-Chat oder im Discord-Match-Raum zu benennen.  
   
   
 
