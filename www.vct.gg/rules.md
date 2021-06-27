@@ -1,4 +1,4 @@
-[**Challengers Rules**](https://drive.google.com/file/d/1NMgs-ZIHHnpQOCHxj7CalixTKMzclTrB/view?usp=sharing) (MUST READ!)  
+[**Challengers Rules**](https://drive.google.com/file/d/17UdDvV7UzVtMSswXsG5CEU7nbYqrN3sg) (MUST READ!)  
   
 
 ### Additional Rules
