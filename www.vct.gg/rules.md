@@ -4,7 +4,7 @@
 ### Additional Rules
 
   
-1\. [Global Competition Policy](https://www.dropbox.com/sh/lblshtlz5vnsqda/AABIELy6jk2dDK3xPuD_FUeca?preview=VCT+Global+Competition+Policy+v1.2.pdf)  
+1\. [Global Competition Policy](https://www.dropbox.com/sh/lblshtlz5vnsqda/AABIELy6jk2dDK3xPuD_FUeca?preview=VALORANT+Champions+Tour+-+Global+Competition+Policy+v1.3.pdf)  
 2\. [Concurrent Ownership Policy](https://www.dropbox.com/s/62zwbfqf4kqiykx/VCT%20Concurrent%20Ownership%20Policy%20%28Dec.%202020%29.pdf?dl=0)  
   
 
