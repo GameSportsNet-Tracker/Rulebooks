@@ -2,7 +2,7 @@
 
   
   
-The following rules apply to Division 2 and all its sub-divisions except Phase 3 Division Lower, which will be covered by the [General League Rules](https://www.joindota.com/en/statics/league_general_rules).  
+The following rules apply to Division 2 and all its sub-divisions except Phase 3 Division Lower, which will be covered by the [General League Rules](https://www.joindota.com/statics/league_general_rules).  
   
 
 Overview
@@ -12,23 +12,23 @@ Overview
   
 
   
-2.  [General Rules](https://www.joindota.com/en/statics/league_division2_rules#general)  
+2.  [General Rules](https://www.joindota.com/statics/league_division2_rules#general)  
     
-3.  [Teams and Players](https://www.joindota.com/en/statics/league_division2_rules#teams)  
+3.  [Teams and Players](https://www.joindota.com/statics/league_division2_rules#teams)  
     
-4.  [Schedule and Punctuality](https://www.joindota.com/en/statics/league_division2_rules#schedule)  
+4.  [Schedule and Punctuality](https://www.joindota.com/statics/league_division2_rules#schedule)  
     
-5.  [Hosting and Settings](https://www.joindota.com/en/statics/league_division2_rules#hosting)  
+5.  [Hosting and Settings](https://www.joindota.com/statics/league_division2_rules#hosting)  
     
-6.  [During a game](https://www.joindota.com/en/statics/league_division2_rules#during)  
+6.  [During a game](https://www.joindota.com/statics/league_division2_rules#during)  
     
-7.  [Betting and Gambling](https://www.joindota.com/en/statics/league_division2_rules#betting)  
+7.  [Betting and Gambling](https://www.joindota.com/statics/league_division2_rules#betting)  
     
-8.  [Rule Violation and Punishment](https://www.joindota.com/en/statics/league_division2_rules#violation)  
+8.  [Rule Violation and Punishment](https://www.joindota.com/statics/league_division2_rules#violation)  
     
-9.  [Prizes](https://www.joindota.com/en/statics/league_division2_rules#prizes)  
+9.  [Prizes](https://www.joindota.com/statics/league_division2_rules#prizes)  
     
-10.  [Legal Process](https://www.joindota.com/en/statics/league_division2_rules#legal)
+10.  [Legal Process](https://www.joindota.com/statics/league_division2_rules#legal)
 
   
   

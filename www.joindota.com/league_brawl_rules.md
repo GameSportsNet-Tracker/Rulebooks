@@ -12,23 +12,23 @@ Overview
   
 
   
-2.  [General Rules](https://www.joindota.com/en/statics/league_brawl_rules#general)  
+2.  [General Rules](https://www.joindota.com/statics/league_brawl_rules#general)  
     
-3.  [Structure and Format](https://www.joindota.com/en/statics/league_brawl_rules#structure)  
+3.  [Structure and Format](https://www.joindota.com/statics/league_brawl_rules#structure)  
     
-4.  [Teams and Players](https://www.joindota.com/en/statics/league_brawl_rules#teams)  
+4.  [Teams and Players](https://www.joindota.com/statics/league_brawl_rules#teams)  
     
-5.  [Hosting and Punctuality](https://www.joindota.com/en/statics/league_brawl_rules#hosting)  
+5.  [Hosting and Punctuality](https://www.joindota.com/statics/league_brawl_rules#hosting)  
     
-6.  [Sides and Drafting Order](https://www.joindota.com/en/statics/league_brawl_rules#drafting)  
+6.  [Sides and Drafting Order](https://www.joindota.com/statics/league_brawl_rules#drafting)  
     
-7.  [During a game](https://www.joindota.com/en/statics/league_brawl_rules#during)  
+7.  [During a game](https://www.joindota.com/statics/league_brawl_rules#during)  
     
-8.  [After a game](https://www.joindota.com/en/statics/league_brawl_rules#after)  
+8.  [After a game](https://www.joindota.com/statics/league_brawl_rules#after)  
     
-9.  [Rule Violation and Punishment](https://www.joindota.com/en/statics/league_brawl_rules#violation)  
+9.  [Rule Violation and Punishment](https://www.joindota.com/statics/league_brawl_rules#violation)  
     
-10.  [Legal Process](https://www.joindota.com/en/statics/league_brawl_rules#legal)
+10.  [Legal Process](https://www.joindota.com/statics/league_brawl_rules#legal)
 
   
   
@@ -403,14 +403,14 @@ After a game
 
   
   
-Both teams must enter the correct result on their match page immediately after the end of the match. If one side enters either a wrong result or none at all, their opponents must upload a scoreboard screenshot as proof of result and open a [support ticket](https://www.joindota.com/en/users/support) in a timely fashion.  
+Both teams must enter the correct result on their match page immediately after the end of the match. If one side enters either a wrong result or none at all, their opponents must upload a scoreboard screenshot as proof of result and open a [support ticket](https://www.joindota.com/users/support) in a timely fashion.  
   
 
 ### Protests
 
   
   
-Protests and complaints are only attended, if they get submit as a [support ticket](https://www.joindota.com/en/users/support) within ten minutes after the end of a match. Teams need to always make sure their protest contains all necessary information (for example screenshots or demo files). Tickets that are sent in after this period cannot be taken into consideration.  
+Protests and complaints are only attended, if they get submit as a [support ticket](https://www.joindota.com/users/support) within ten minutes after the end of a match. Teams need to always make sure their protest contains all necessary information (for example screenshots or demo files). Tickets that are sent in after this period cannot be taken into consideration.  
   
   
 

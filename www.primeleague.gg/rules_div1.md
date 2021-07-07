@@ -1,9 +1,9 @@
 Das folgende Regelwerk gilt ausschließlich für die Division 1 sowie die Playoffs zwischen Division 1 und Division 2.  
-Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/de/statics/rules_div1_changelog) dargestellt.  
+Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/statics/rules_div1_changelog) dargestellt.  
   
 [Regelwerk für die Pro Division](https://cdn1-v3.gamesports.net/img/themes/primeleague/rules_pro.pdf?2021-05-10)  
   
-[Regelwerk für die unteren Divisionen](https://www.primeleague.gg/de/statics/rules_general)  
+[Regelwerk für die unteren Divisionen](https://www.primeleague.gg/statics/rules_general)  
   
   
 
@@ -13,23 +13,23 @@ Index
   
 
   
-2.  [Allgemeines](https://www.primeleague.gg/de/statics/rules_div1#allgemeines)  
+2.  [Allgemeines](https://www.primeleague.gg/statics/rules_div1#allgemeines)  
     
-3.  [Ligastruktur & Format](https://www.primeleague.gg/de/statics/rules_div1#format)  
+3.  [Ligastruktur & Format](https://www.primeleague.gg/statics/rules_div1#format)  
     
-4.  [Zusammensetzung der Teams](https://www.primeleague.gg/de/statics/rules_div1#teams)  
+4.  [Zusammensetzung der Teams](https://www.primeleague.gg/statics/rules_div1#teams)  
     
-5.  [Proteste & Fragen](https://www.primeleague.gg/de/statics/rules_div1#protest)  
+5.  [Proteste & Fragen](https://www.primeleague.gg/statics/rules_div1#protest)  
     
-6.  [Spielplan & Spielablauf](https://www.primeleague.gg/de/statics/rules_div1#spielplan)  
+6.  [Spielplan & Spielablauf](https://www.primeleague.gg/statics/rules_div1#spielplan)  
     
-7.  [Vor dem Match](https://www.primeleague.gg/de/statics/rules_div1#vorbereitungen)  
+7.  [Vor dem Match](https://www.primeleague.gg/statics/rules_div1#vorbereitungen)  
     
-8.  [Während des Matches](https://www.primeleague.gg/de/statics/rules_div1#match)  
+8.  [Während des Matches](https://www.primeleague.gg/statics/rules_div1#match)  
     
-9.  [Betrugsversuche](https://www.primeleague.gg/de/statics/rules_div1#cheating)  
+9.  [Betrugsversuche](https://www.primeleague.gg/statics/rules_div1#cheating)  
     
-10.  [Strafen bei Regelbruch](https://www.primeleague.gg/de/statics/rules_div1#violation)
+10.  [Strafen bei Regelbruch](https://www.primeleague.gg/statics/rules_div1#violation)
 
   
   
@@ -80,7 +80,7 @@ Jede natürliche Person, die von der Freaks 4U Gaming GmbH autorisiert wurde, di
   
 Die Anmeldung zu einer Saison in der Prime League ist für einen bestimmten Zeitraum offen. Informationen zum Saisonstart erhalten die Spieler auf unserer Website. Ausnahmslos alle Teams müssen sich für eine neue Saison anmelden. Dies gilt auch für Teams, die in der vorherigen Saison gespielt haben. Während einer laufenden Saison können keine neuen Teams beitreten.  
   
-_Hinweis: Der Anmeldeprozess wird im Detail [hier](https://www.primeleague.gg/de/statics/guide_signup) erklärt._  
+_Hinweis: Der Anmeldeprozess wird im Detail [hier](https://www.primeleague.gg/statics/guide_signup) erklärt._  
   
 
 ### Verpflichtungen
@@ -136,7 +136,7 @@ Jede Person, die an einem Spiel der Prime League teilnimmt, erklärt sich hiermi
   
   
 
-Jeder Spieler ist dazu verpflichtet seinen League of Legends-Account mit seinem GameSports Account zu verifizieren. Eine Änderung des League of Legends-Accounts während einer laufenden Saison muss via [Support-Ticket](https://www.primeleague.gg/de/users/support) beantragt und genehmigt werden. Grundvoraussetzung für die Genehmigung der Änderung ist, dass der aktuell verifizierte League of Legends-Account nicht gesperrt ist. Bei einer Namensänderung kann im [Nutzerzentrum](https://www.primeleague.gg/de/users/center) über "DEIN PROFIL" der Beschwörername selbstständig aktualisiert werden.
+Jeder Spieler ist dazu verpflichtet seinen League of Legends-Account mit seinem GameSports Account zu verifizieren. Eine Änderung des League of Legends-Accounts während einer laufenden Saison muss via [Support-Ticket](https://www.primeleague.gg/users/support) beantragt und genehmigt werden. Grundvoraussetzung für die Genehmigung der Änderung ist, dass der aktuell verifizierte League of Legends-Account nicht gesperrt ist. Bei einer Namensänderung kann im [Nutzerzentrum](https://www.primeleague.gg/users/center) über "DEIN PROFIL" der Beschwörername selbstständig aktualisiert werden.
 
   
   
@@ -250,7 +250,7 @@ Teams können über die Kalibrierungsphase maximal in Division 2 gelangen. Teams
   
   
 
-Die Kalibrierungsphase wird im Swiss-Format ausgetragen. Details zu diesem Format sind [hier](https://www.primeleague.gg/de/statics/guide_swiss) zu finden.
+Die Kalibrierungsphase wird im Swiss-Format ausgetragen. Details zu diesem Format sind [hier](https://www.primeleague.gg/statics/guide_swiss) zu finden.
 
   
   
@@ -562,7 +562,7 @@ Stimmberechtigt sind:
 
   
   
-Stimmberechtigte Spieler müssen innerhalb von sieben (7) Tagen nach Einreichung des ersten Antrags ein [Support-Ticket](https://www.primeleague.gg/de/users/support) einsenden. Sollten nach Ablauf der Frist nicht genügend Stimmen eingegangen, wird der Antrag automatisch abgelehnt.
+Stimmberechtigte Spieler müssen innerhalb von sieben (7) Tagen nach Einreichung des ersten Antrags ein [Support-Ticket](https://www.primeleague.gg/users/support) einsenden. Sollten nach Ablauf der Frist nicht genügend Stimmen eingegangen, wird der Antrag automatisch abgelehnt.
 
   
   
@@ -581,7 +581,7 @@ Team-Accounts dürfen ohne weitere Absprache mit der Administration weitergegebe
 
   
 
-Unternehmen, Vereine, Clans oder Gewerbe können als Organisation eingetragen werden. Hier bedarf es einer Anmeldung des Team-Leaders via [Support-Ticket](https://www.primeleague.gg/de/users/support) und einer Prüfung der Liga–Administration. Hierbei müssen möglichst viele Informationen über die Organisation bereitgestellt werden.
+Unternehmen, Vereine, Clans oder Gewerbe können als Organisation eingetragen werden. Hier bedarf es einer Anmeldung des Team-Leaders via [Support-Ticket](https://www.primeleague.gg/users/support) und einer Prüfung der Liga–Administration. Hierbei müssen möglichst viele Informationen über die Organisation bereitgestellt werden.
 
   
   
@@ -627,17 +627,17 @@ Proteste & Fragen
 
   
 
-Jegliche Fragen und Beschwerden zur Liga müssen via [Support-Ticket](https://www.primeleague.gg/de/users/support) oder Discord eingereicht werden. Die Administration ist auf anderem Wege nicht zu erreichen und wird darüber keine Fragen beantworten.
+Jegliche Fragen und Beschwerden zur Liga müssen via [Support-Ticket](https://www.primeleague.gg/users/support) oder Discord eingereicht werden. Die Administration ist auf anderem Wege nicht zu erreichen und wird darüber keine Fragen beantworten.
 
   
   
 
-Beschwerden müssen innerhalb von 12 Stunden nach Ende des Matches via [Support-Ticket](https://www.primeleague.gg/de/users/support) oder Discord eingereicht werden. Spieler sind dazu angehalten möglichst viele Beweise ihrem Protest beizufügen und möglichst detaillierte Angaben zu machen. Eine Upload-Funktion zum Hochladen von Screenshots ist dafür in jedem Match verfügbar. Ein Upload auf externen Seiten wird nicht akzeptiert, sofern dies nicht ausdrücklich von der Administration gewünscht oder gefordert ist.
+Beschwerden müssen innerhalb von 12 Stunden nach Ende des Matches via [Support-Ticket](https://www.primeleague.gg/users/support) oder Discord eingereicht werden. Spieler sind dazu angehalten möglichst viele Beweise ihrem Protest beizufügen und möglichst detaillierte Angaben zu machen. Eine Upload-Funktion zum Hochladen von Screenshots ist dafür in jedem Match verfügbar. Ein Upload auf externen Seiten wird nicht akzeptiert, sofern dies nicht ausdrücklich von der Administration gewünscht oder gefordert ist.
 
   
   
 
-[Support-Tickets](https://www.primeleague.gg/de/users/support) sowie Discord-Chats müssen vertraulich behandelt werden, die Veröffentlichung von Support-Inhalten jeglicher Art ist untersagt.
+[Support-Tickets](https://www.primeleague.gg/users/support) sowie Discord-Chats müssen vertraulich behandelt werden, die Veröffentlichung von Support-Inhalten jeglicher Art ist untersagt.
 
   
   
@@ -656,7 +656,7 @@ Bei Protesten zum Ergebnis sind immer die Screenshots von allen Spielen dem Prot
   
   
 
-Bei einem Cheatverdacht muss ein Replay des betreffenden Spiels auf die Matchseite hochgeladen werden. [Support-Tickets](https://www.primeleague.gg/de/users/support) zu einem Cheatverdacht müssen die eindeutigen Situationen ausführlich beschreiben.
+Bei einem Cheatverdacht muss ein Replay des betreffenden Spiels auf die Matchseite hochgeladen werden. [Support-Tickets](https://www.primeleague.gg/users/support) zu einem Cheatverdacht müssen die eindeutigen Situationen ausführlich beschreiben.
 
   
   
@@ -890,6 +890,6 @@ Strafen bei Regelbruch
   
 Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bestrafung des ganzen Teams führen. Das Maß der Bestrafung wird individuell von der Administration entschieden.  
   
-[Zum Anfang](https://www.primeleague.gg/de/statics/rules_div1#top)  
+[Zum Anfang](https://www.primeleague.gg/statics/rules_div1#top)  
   
 Letztes Update: 07.05.2021

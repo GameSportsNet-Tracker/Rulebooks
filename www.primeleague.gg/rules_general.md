@@ -1,9 +1,9 @@
 Das folgende Regelwerk gilt ausschließlich für die Divisionen 2-6, die Starter Division sowie die Playoffs zwischen Division 2 und Division 6.  
-Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/de/statics/rules_general_changelog) dargestellt.  
+Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/statics/rules_general_changelog) dargestellt.  
   
 [Regelwerk für die Pro Division](https://cdn1-v3.gamesports.net/img/themes/primeleague/rules_pro.pdf?2021-05-10)  
   
-[Regelwerk für die Division 1](https://www.primeleague.gg/de/statics/rules_div1)  
+[Regelwerk für die Division 1](https://www.primeleague.gg/statics/rules_div1)  
   
   
 
@@ -13,23 +13,23 @@ Index
   
 
   
-2.  [Allgemeines](https://www.primeleague.gg/de/statics/rules_general#allgemeines)  
+2.  [Allgemeines](https://www.primeleague.gg/statics/rules_general#allgemeines)  
     
-3.  [Ligastruktur & Format](https://www.primeleague.gg/de/statics/rules_general#format)  
+3.  [Ligastruktur & Format](https://www.primeleague.gg/statics/rules_general#format)  
     
-4.  [Zusammensetzung der Teams](https://www.primeleague.gg/de/statics/rules_general#teams)  
+4.  [Zusammensetzung der Teams](https://www.primeleague.gg/statics/rules_general#teams)  
     
-5.  [Proteste & Fragen](https://www.primeleague.gg/de/statics/rules_general#protest)  
+5.  [Proteste & Fragen](https://www.primeleague.gg/statics/rules_general#protest)  
     
-6.  [Spielplan & Spielablauf](https://www.primeleague.gg/de/statics/rules_general#spielplan)  
+6.  [Spielplan & Spielablauf](https://www.primeleague.gg/statics/rules_general#spielplan)  
     
-7.  [Vor dem Match](https://www.primeleague.gg/de/statics/rules_general#vorbereitungen)  
+7.  [Vor dem Match](https://www.primeleague.gg/statics/rules_general#vorbereitungen)  
     
-8.  [Während des Matches](https://www.primeleague.gg/de/statics/rules_general#match)  
+8.  [Während des Matches](https://www.primeleague.gg/statics/rules_general#match)  
     
-9.  [Betrugsversuche](https://www.primeleague.gg/de/statics/rules_general#cheating)  
+9.  [Betrugsversuche](https://www.primeleague.gg/statics/rules_general#cheating)  
     
-10.  [Strafen bei Regelbruch](https://www.primeleague.gg/de/statics/rules_general#violation)
+10.  [Strafen bei Regelbruch](https://www.primeleague.gg/statics/rules_general#violation)
 
   
   
@@ -80,7 +80,7 @@ Jede natürliche Person, die von der Freaks 4U Gaming GmbH autorisiert wurde, di
   
 Die Anmeldung zu einer Saison in der Prime League ist für einen bestimmten Zeitraum offen. Informationen zum Saisonstart erhalten die Spieler auf unserer Website. Ausnahmslos alle Teams müssen sich für eine neue Saison anmelden. Dies gilt auch für Teams, die in der vorherigen Saison gespielt haben. Während einer laufenden Saison können keine neuen Teams beitreten.  
   
-_Hinweis: Der Anmeldeprozess wird im Detail [hier](https://www.primeleague.gg/de/statics/guide_signup) erklärt._  
+_Hinweis: Der Anmeldeprozess wird im Detail [hier](https://www.primeleague.gg/statics/guide_signup) erklärt._  
   
 
 ### Verpflichtungen
@@ -126,7 +126,7 @@ Jede Person, die an einem Spiel der Prime League teilnimmt, erklärt sich hiermi
   
   
 
-Jeder Spieler ist dazu verpflichtet seinen League of Legends-Account mit seinem GameSports Account zu verifizieren. Ein Spieler ist erst 24 Stunden nach erfolgreicher Verifizierung als bestätigtes Mitglied eines Teams spielberechtigt. Eine Änderung des League of Legends-Accounts während einer laufenden Saison muss via [Support-Ticket](https://www.primeleague.gg/de/users/support) beantragt und genehmigt werden. Grundvoraussetzung für die Genehmigung der Änderung ist, dass der aktuell verifizierte League of Legends-Account nicht gesperrt ist. Der Spieler ist nur dann spielberechtigt, wenn der im Profil angegebene Beschwörername mit dem in der Lobby befindlichen Account übereinstimmt. Bei einer Namensänderung kann im [Nutzerzentrum](https://www.primeleague.gg/de/users/center) über "DEIN PROFIL" der Beschwörername selbstständig aktualisiert werden.
+Jeder Spieler ist dazu verpflichtet seinen League of Legends-Account mit seinem GameSports Account zu verifizieren. Ein Spieler ist erst 24 Stunden nach erfolgreicher Verifizierung als bestätigtes Mitglied eines Teams spielberechtigt. Eine Änderung des League of Legends-Accounts während einer laufenden Saison muss via [Support-Ticket](https://www.primeleague.gg/users/support) beantragt und genehmigt werden. Grundvoraussetzung für die Genehmigung der Änderung ist, dass der aktuell verifizierte League of Legends-Account nicht gesperrt ist. Der Spieler ist nur dann spielberechtigt, wenn der im Profil angegebene Beschwörername mit dem in der Lobby befindlichen Account übereinstimmt. Bei einer Namensänderung kann im [Nutzerzentrum](https://www.primeleague.gg/users/center) über "DEIN PROFIL" der Beschwörername selbstständig aktualisiert werden.
 
   
   
@@ -174,7 +174,7 @@ Mit der Anmeldung zur Prime League erklärt sich jedes Team zur aktiven Teilnahm
   
   
 
-Sollte ein Team nicht länger an der Liga teilnehmen können oder wollen, ist der Team-Leader angehalten, dies via [Support-Ticket](https://www.primeleague.gg/de/users/support) an die Administration zu kommunizieren.
+Sollte ein Team nicht länger an der Liga teilnehmen können oder wollen, ist der Team-Leader angehalten, dies via [Support-Ticket](https://www.primeleague.gg/users/support) an die Administration zu kommunizieren.
 
   
   
@@ -258,7 +258,7 @@ Teams können über die Kalibrierungsphase maximal in Division 3 gelangen. Teams
   
   
 
-Die Kalibrierungsphase wird im Swiss-Format ausgetragen. Details zu diesem Format sind [hier](https://www.primeleague.gg/de/statics/guide_swiss) zu finden.
+Die Kalibrierungsphase wird im Swiss-Format ausgetragen. Details zu diesem Format sind [hier](https://www.primeleague.gg/statics/guide_swiss) zu finden.
 
   
   
@@ -323,7 +323,7 @@ Das genaue Format der einzelnen Playoffs wird auf der Liga-Seite bekannt gegeben
 
   
 
-In der regulären Gruppenphase besteht ein Match aus zwei (2) Spielen. In den Playoffs besteht ein Match aus einem Best-of-One (Bo1) oder einem Best-Of-Three. Das Ergebnis wird nach dem Match automatisch eingetragen. Sollte das Ergebnis aufgrund einer technischen Störung nach wenigen Minuten nicht eingetragen sein, muss die Administration schnellstmöglich via [Support-Ticket](https://www.primeleague.gg/de/users/support) kontaktiert werden.
+In der regulären Gruppenphase besteht ein Match aus zwei (2) Spielen. In den Playoffs besteht ein Match aus einem Best-of-One (Bo1) oder einem Best-Of-Three. Das Ergebnis wird nach dem Match automatisch eingetragen. Sollte das Ergebnis aufgrund einer technischen Störung nach wenigen Minuten nicht eingetragen sein, muss die Administration schnellstmöglich via [Support-Ticket](https://www.primeleague.gg/users/support) kontaktiert werden.
 
   
   
@@ -510,7 +510,7 @@ Stimmberechtigt sind:
 
   
   
-Stimmberechtigte Spieler müssen innerhalb von sieben (7) Tagen nach Einreichung des ersten Antrags ein [Support-Ticket](https://www.primeleague.gg/de/users/support) einsenden. Sollten nach Ablauf der Frist nicht genügend Stimmen eingegangen, wird der Antrag abgelehnt.
+Stimmberechtigte Spieler müssen innerhalb von sieben (7) Tagen nach Einreichung des ersten Antrags ein [Support-Ticket](https://www.primeleague.gg/users/support) einsenden. Sollten nach Ablauf der Frist nicht genügend Stimmen eingegangen, wird der Antrag abgelehnt.
 
   
   
@@ -524,7 +524,7 @@ Team-Accounts dürfen ohne weitere Absprache mit der Administration weitergegebe
 
   
 
-Unternehmen, Vereine, Clans oder Gewerbe können als Organisation eingetragen werden. Hier bedarf es einer Anmeldung des Team-Leaders via [Support-Ticket](https://www.primeleague.gg/de/users/support) und einer Prüfung der Liga–Administration. Hierbei müssen möglichst viele Informationen über die Organisation sowie der Prime League-Account eines Ansprechpartners bereitgestellt werden.
+Unternehmen, Vereine, Clans oder Gewerbe können als Organisation eingetragen werden. Hier bedarf es einer Anmeldung des Team-Leaders via [Support-Ticket](https://www.primeleague.gg/users/support) und einer Prüfung der Liga–Administration. Hierbei müssen möglichst viele Informationen über die Organisation sowie der Prime League-Account eines Ansprechpartners bereitgestellt werden.
 
   
   
@@ -565,17 +565,17 @@ Proteste & Fragen
 
   
 
-Jegliche Fragen und Beschwerden zur Liga müssen via [Support-Ticket](https://www.primeleague.gg/de/users/support) eingereicht werden. Die Administration ist auf anderem Wege nicht zu erreichen und wird darüber keine Fragen beantworten.
+Jegliche Fragen und Beschwerden zur Liga müssen via [Support-Ticket](https://www.primeleague.gg/users/support) eingereicht werden. Die Administration ist auf anderem Wege nicht zu erreichen und wird darüber keine Fragen beantworten.
 
   
   
 
-Beschwerden müssen innerhalb von 24 Stunden nach offiziellem Matchstart via [Support-Ticket](https://www.primeleague.gg/de/users/support) eingereicht werden. Proteste, die außerhalb dieser Frist eingereicht werden, können ungeprüft abgelehnt werden. Spieler sind dazu angehalten möglichst viele Beweise ihrem Protest beizufügen und möglichst detaillierte Angaben zu machen. Eine Upload-Funktion zum Hochladen von Screenshots ist dafür in jedem Match verfügbar. Ein Upload auf externen Seiten wird nicht akzeptiert, sofern dies nicht ausdrücklich von der Administration gewünscht oder gefordert ist.
+Beschwerden müssen innerhalb von 24 Stunden nach offiziellem Matchstart via [Support-Ticket](https://www.primeleague.gg/users/support) eingereicht werden. Proteste, die außerhalb dieser Frist eingereicht werden, können ungeprüft abgelehnt werden. Spieler sind dazu angehalten möglichst viele Beweise ihrem Protest beizufügen und möglichst detaillierte Angaben zu machen. Eine Upload-Funktion zum Hochladen von Screenshots ist dafür in jedem Match verfügbar. Ein Upload auf externen Seiten wird nicht akzeptiert, sofern dies nicht ausdrücklich von der Administration gewünscht oder gefordert ist.
 
   
   
 
-[Support-Tickets](https://www.primeleague.gg/de/users/support) müssen vertraulich behandelt werden, die Veröffentlichung von Support-Inhalten jeglicher Art ist untersagt.
+[Support-Tickets](https://www.primeleague.gg/users/support) müssen vertraulich behandelt werden, die Veröffentlichung von Support-Inhalten jeglicher Art ist untersagt.
 
   
   
@@ -589,7 +589,7 @@ Es liegt in der Verantwortung eines Teams bei Beschwerden genügend und eindeuti
   
   
 
-Bei Protesten zum Ergebnis sind immer die Screenshots von allen Spielen dem [Support-Ticket](https://www.primeleague.gg/de/users/support) hinzuzufügen.
+Bei Protesten zum Ergebnis sind immer die Screenshots von allen Spielen dem [Support-Ticket](https://www.primeleague.gg/users/support) hinzuzufügen.
 
   
   
@@ -599,7 +599,7 @@ Sollte ein oder mehrere Spieler verspätet oder gar nicht zum Spiel erscheinen, 
   
   
 
-Bei einem Cheatverdacht muss ein Replay des betreffenden Spiels auf die Matchseite hochgeladen werden. [Support-Tickets](https://www.primeleague.gg/de/users/support) zu einem Cheatverdacht müssen die Situationen ausführlich beschreiben.
+Bei einem Cheatverdacht muss ein Replay des betreffenden Spiels auf die Matchseite hochgeladen werden. [Support-Tickets](https://www.primeleague.gg/users/support) zu einem Cheatverdacht müssen die Situationen ausführlich beschreiben.
 
   
   
@@ -614,14 +614,14 @@ Spielplan & Spielablauf
 
   
 
-**Division 2-6:** Ein Spieltag beginnt in der jeweiligen Woche am Montag um 0 Uhr und endet am übernächsten Sonntag um 23:59 Uhr. Somit dauert ein Spieltag 14 Tage. Ausgenommen ist hier der letzte Spieltag, der lediglich sieben (7) Tage dauert. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/de/leagues/prm) zu finden.  
+**Division 2-6:** Ein Spieltag beginnt in der jeweiligen Woche am Montag um 0 Uhr und endet am übernächsten Sonntag um 23:59 Uhr. Somit dauert ein Spieltag 14 Tage. Ausgenommen ist hier der letzte Spieltag, der lediglich sieben (7) Tage dauert. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/leagues/prm) zu finden.  
   
-**Starter Division:** Ein Spieltag beginnt in der jeweiligen Woche am Dienstag um 0 Uhr und endet Sonntag um 23:59 Uhr. Somit dauert ein Spieltag sechs (6) Tage. Der jeweilige Montag wird zu Prüfung von Protesten sowie der Erstellung der nächsten Runde genutzt. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/de/leagues/prm) zu finden.
+**Starter Division:** Ein Spieltag beginnt in der jeweiligen Woche am Dienstag um 0 Uhr und endet Sonntag um 23:59 Uhr. Somit dauert ein Spieltag sechs (6) Tage. Der jeweilige Montag wird zu Prüfung von Protesten sowie der Erstellung der nächsten Runde genutzt. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/leagues/prm) zu finden.
 
   
   
 
-Jedes Match besitzt einen sogenannten Ausweichtermin. Dieser ist nur dann der offizielle Matchtermin, wenn sich keines der beiden Teams via "Scheduling-Tool" gemäß Regeln 5.1.6 und 5.1.7 um einen alternativen Matchtermin bemüht oder wenn bei nicht erreichter Einigung eines alternativen Matchtermins diese nicht bis spätestens 48 Stunden vor dem Ausweichtermin via [Support-Ticket](https://www.primeleague.gg/de/users/support) gemäß Regel 5.1.9 gemeldet wird.
+Jedes Match besitzt einen sogenannten Ausweichtermin. Dieser ist nur dann der offizielle Matchtermin, wenn sich keines der beiden Teams via "Scheduling-Tool" gemäß Regeln 5.1.6 und 5.1.7 um einen alternativen Matchtermin bemüht oder wenn bei nicht erreichter Einigung eines alternativen Matchtermins diese nicht bis spätestens 48 Stunden vor dem Ausweichtermin via [Support-Ticket](https://www.primeleague.gg/users/support) gemäß Regel 5.1.9 gemeldet wird.
 
   
   
@@ -656,7 +656,7 @@ Ein Terminvorschlag muss mindestens zwei (2) Stunden vor Matchbeginn, sei es dur
   
   
 
-Sollten sich beide Teams auf keinen Matchtermin einigen können, ist dies der Administration spätestens 48 Stunden vor dem Ausweichtermin per [Support-Ticket](https://www.primeleague.gg/de/users/support) mitzuteilen. In diesem Fall entscheidet die Administration basierend auf den von beiden Teams genannten Terminvorschlägen das weitere Vorgehen. Wenn die Frist nicht eingehalten wird, bleibt der Ausweichtermin bestehen.
+Sollten sich beide Teams auf keinen Matchtermin einigen können, ist dies der Administration spätestens 48 Stunden vor dem Ausweichtermin per [Support-Ticket](https://www.primeleague.gg/users/support) mitzuteilen. In diesem Fall entscheidet die Administration basierend auf den von beiden Teams genannten Terminvorschlägen das weitere Vorgehen. Wenn die Frist nicht eingehalten wird, bleibt der Ausweichtermin bestehen.
 
   
   
@@ -683,13 +683,13 @@ Um einen bestätigten Termin zu verschieben, müssen beide Teams den neuen Termi
 ### Kalibrierungsphase
 
   
-Die Kalibrierungsphase findet an festen Terminen statt, die auf der [offiziellen Turnierseite](https://www.primeleague.gg/de/leagues/prm) bekannt gegeben werden. Matchtermine können hier nicht neu ausgehandelt werden.  
+Die Kalibrierungsphase findet an festen Terminen statt, die auf der [offiziellen Turnierseite](https://www.primeleague.gg/leagues/prm) bekannt gegeben werden. Matchtermine können hier nicht neu ausgehandelt werden.  
   
 
 ### Playoffs
 
   
-Die Playoffs finden an festen Terminen statt, die auf der [offiziellen Turnierseite](https://www.primeleague.gg/de/leagues/prm) bekannt gegeben werden. Matches können lediglich vorgezogen werden und auch nur dann, wenn beide Teams dem explizit zustimmen. Hierzu bedarf es entsprechenden Kommentaren auf der Matchseite sowie einer Meldung via [Support-Ticket](https://www.primeleague.gg/de/users/support).  
+Die Playoffs finden an festen Terminen statt, die auf der [offiziellen Turnierseite](https://www.primeleague.gg/leagues/prm) bekannt gegeben werden. Matches können lediglich vorgezogen werden und auch nur dann, wenn beide Teams dem explizit zustimmen. Hierzu bedarf es entsprechenden Kommentaren auf der Matchseite sowie einer Meldung via [Support-Ticket](https://www.primeleague.gg/users/support).  
   
   
 
@@ -713,7 +713,7 @@ Jeder Spieler des ausgewählten Matchlineups muss, mit Ausnahme der Kalibrierung
   
   
 
-Sollte keines der Teams rechtzeitig ein spielberechtigtes Lineup nominieren und den Anwesenheitscheck erfolgreich durchführen, wird das Match ungewertet geschlossen. Das Match kann innerhalb des Spieltags wiederholt werden, wenn beide Teams sich in den Matchkommentaren explizit auf einen neuen Termin einigen. Die Administration muss darüber unverzüglich via [Support-Ticket](https://www.primeleague.gg/de/users/support) informiert werden.
+Sollte keines der Teams rechtzeitig ein spielberechtigtes Lineup nominieren und den Anwesenheitscheck erfolgreich durchführen, wird das Match ungewertet geschlossen. Das Match kann innerhalb des Spieltags wiederholt werden, wenn beide Teams sich in den Matchkommentaren explizit auf einen neuen Termin einigen. Die Administration muss darüber unverzüglich via [Support-Ticket](https://www.primeleague.gg/users/support) informiert werden.
 
   
   
@@ -852,7 +852,7 @@ Ein Spiel ist beendet, wenn einer der folgenden Punkte erfüllt ist:
 
   
 
-Im Falle eines Disconnects ist die Pausefunktion zu betätigen. Pausen können innerhalb des Spiels mit /pause initiiert werden. Diese Funktion ist außerdem für weitere Notfälle, wie z.B. Lags oder andere technische Probleme, vorgesehen. Jedem Team stehen dann 10 Minuten Pause pro Spiel zu. Sollte diese Zeit überschritten werden, kann das gegnerische Team auf einer Fortsetzung des Spiels bestehen. Sollte sich ein Team weigern das Spiel nach der ihm zu Verfügung stehenden Pausezeit fortzusetzen, muss die Administration via [Support-Ticket](https://www.primeleague.gg/de/users/support) mit aussagekräftigen Nachweisen schnellstmöglich informiert werden. Sollte es innerhalb von zehn (10) Minuten keine Anweisung der Administration geben und das gegnerische die Wiederaufnahme weiter verweigern, ist das Match bis auf weiteres unterbrochen. Die Administration kann nach eigenem Ermessen das Spiel neu ansetzen.
+Im Falle eines Disconnects ist die Pausefunktion zu betätigen. Pausen können innerhalb des Spiels mit /pause initiiert werden. Diese Funktion ist außerdem für weitere Notfälle, wie z.B. Lags oder andere technische Probleme, vorgesehen. Jedem Team stehen dann 10 Minuten Pause pro Spiel zu. Sollte diese Zeit überschritten werden, kann das gegnerische Team auf einer Fortsetzung des Spiels bestehen. Sollte sich ein Team weigern das Spiel nach der ihm zu Verfügung stehenden Pausezeit fortzusetzen, muss die Administration via [Support-Ticket](https://www.primeleague.gg/users/support) mit aussagekräftigen Nachweisen schnellstmöglich informiert werden. Sollte es innerhalb von zehn (10) Minuten keine Anweisung der Administration geben und das gegnerische die Wiederaufnahme weiter verweigern, ist das Match bis auf weiteres unterbrochen. Die Administration kann nach eigenem Ermessen das Spiel neu ansetzen.
 
   
   
@@ -884,7 +884,7 @@ Sollte es gemäß Regel 7.4.2 zu einem Protest bezüglich der Spielwertung komme
 ### Server Crash
 
   
-Sollte die Verbindung aller Spieler zu einem Server abbrechen und das erneute Beitreten auf einen Server nicht möglich sein, ist die Administration via [Support-Ticket](https://www.primeleague.gg/de/users/support) unverzüglich zu informieren. Sollte es innerhalb von zehn (10) Minuten keine Anweisung der Administration geben, ist das Match bis auf weiteres unterbrochen. Die Administration kann nach eigenem Ermessen das Spiel neu ansetzen.  
+Sollte die Verbindung aller Spieler zu einem Server abbrechen und das erneute Beitreten auf einen Server nicht möglich sein, ist die Administration via [Support-Ticket](https://www.primeleague.gg/users/support) unverzüglich zu informieren. Sollte es innerhalb von zehn (10) Minuten keine Anweisung der Administration geben, ist das Match bis auf weiteres unterbrochen. Die Administration kann nach eigenem Ermessen das Spiel neu ansetzen.  
   
 
 Betrugsversuche
@@ -903,7 +903,7 @@ Die Benutzung von Software und Hardware, die League of Legends in irgendeiner We
 
   
 
-Sollten im Spiel Bugs auftreten, die das Spiel erheblich beeinträchtigen, ist das Spiel zu pausieren. Die Administration ist umgehend per [Support-Ticket](https://www.primeleague.gg/de/users/support) zu informieren. Falls besagte Bugs nur ein Team betreffen, müssen von dem Spiel Clips oder Screenshots aufgenommen werden, um den Bug nachzuweisen. Sollte es innerhalb von zehn (10) Minuten keine Anweisung der Administration geben, ist das Match bis auf weiteres unterbrochen. Die Adminstration kann nach eigenem Ermessen das Spiel neu ansetzen.
+Sollten im Spiel Bugs auftreten, die das Spiel erheblich beeinträchtigen, ist das Spiel zu pausieren. Die Administration ist umgehend per [Support-Ticket](https://www.primeleague.gg/users/support) zu informieren. Falls besagte Bugs nur ein Team betreffen, müssen von dem Spiel Clips oder Screenshots aufgenommen werden, um den Bug nachzuweisen. Sollte es innerhalb von zehn (10) Minuten keine Anweisung der Administration geben, ist das Match bis auf weiteres unterbrochen. Die Adminstration kann nach eigenem Ermessen das Spiel neu ansetzen.
 
   
   
@@ -926,6 +926,6 @@ Strafen bei Regelbruch
   
 Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bestrafung des ganzen Teams führen. Das Maß der Bestrafung wird individuell von der Administration entschieden.  
   
-[Zum Anfang](https://www.primeleague.gg/de/statics/rules_general#top)  
+[Zum Anfang](https://www.primeleague.gg/statics/rules_general#top)  
   
 Letztes Update: 27.04.2021

@@ -23,31 +23,31 @@ Overview
   
 
   
-2.  [General Rules](https://www.joindota.com/en/statics/league_general_rules#general)  
+2.  [General Rules](https://www.joindota.com/statics/league_general_rules#general)  
     
-3.  [Activity](https://www.joindota.com/en/statics/league_general_rules#activity)  
+3.  [Activity](https://www.joindota.com/statics/league_general_rules#activity)  
     
-4.  [League Structure](https://www.joindota.com/en/statics/league_general_rules#league)  
+4.  [League Structure](https://www.joindota.com/statics/league_general_rules#league)  
     
-5.  [Calibration Phase](https://www.joindota.com/en/statics/league_general_rules#calibration)  
+5.  [Calibration Phase](https://www.joindota.com/statics/league_general_rules#calibration)  
     
-6.  [Group Format](https://www.joindota.com/en/statics/league_general_rules#group)  
+6.  [Group Format](https://www.joindota.com/statics/league_general_rules#group)  
     
-7.  [Teams and Players](https://www.joindota.com/en/statics/league_general_rules#teams)  
+7.  [Teams and Players](https://www.joindota.com/statics/league_general_rules#teams)  
     
-8.  [Schedule](https://www.joindota.com/en/statics/league_general_rules#schedule)  
+8.  [Schedule](https://www.joindota.com/statics/league_general_rules#schedule)  
     
-9.  [Hosting and Punctuality](https://www.joindota.com/en/statics/league_general_rules#hosting)  
+9.  [Hosting and Punctuality](https://www.joindota.com/statics/league_general_rules#hosting)  
     
-10.  [Sides and Drafting Order](https://www.joindota.com/en/statics/league_general_rules#drafting)  
+10.  [Sides and Drafting Order](https://www.joindota.com/statics/league_general_rules#drafting)  
     
-11.  [During a game](https://www.joindota.com/en/statics/league_general_rules#during)  
+11.  [During a game](https://www.joindota.com/statics/league_general_rules#during)  
     
-12.  [Rule Violation and Punishment](https://www.joindota.com/en/statics/league_general_rules#violation)  
+12.  [Rule Violation and Punishment](https://www.joindota.com/statics/league_general_rules#violation)  
     
-13.  [Prizes](https://www.joindota.com/en/statics/league_general_rules#prizes)  
+13.  [Prizes](https://www.joindota.com/statics/league_general_rules#prizes)  
     
-14.  [Legal Process](https://www.joindota.com/en/statics/league_general_rules#legal)
+14.  [Legal Process](https://www.joindota.com/statics/league_general_rules#legal)
 
   
   
@@ -185,7 +185,7 @@ Each season has four (4) different periods during which the team performance det
   
 
   
-*   Phase 0 or Calibration Phase (Further explained in [Rule 4](https://www.joindota.com/en/statics/league_general_rules#calibration))  
+*   Phase 0 or Calibration Phase (Further explained in [Rule 4](https://www.joindota.com/statics/league_general_rules#calibration))  
     
 *   Phase 1  
     
