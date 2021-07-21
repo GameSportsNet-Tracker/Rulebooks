@@ -809,7 +809,18 @@ Neu veröffentlichte Champions sind erst ab dem auf die Veröffentlichung folgen
 Aktuell gesperrte Champions
 
   
-Momentan ist kein Champion gesperrt.  
+  
+  
+Die folgende Liste ist möglicherweise nicht vollständig:  
+
+Champion
+
+Zeitraum
+
+Akshan
+
+22.07. - 06.08.
+
   
 
   
