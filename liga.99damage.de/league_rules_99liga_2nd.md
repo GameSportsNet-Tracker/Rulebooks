@@ -133,7 +133,7 @@ Muss ein Spieler für mehr als ein Match von Beginn an spielen, gilt dies als We
   
   
 
-Spieler können während einer laufenden Saison bis zum 10.05.2021 - 00:00 Uhr begrenzt hinzugefügt und entfernt werden.
+Spieler können während einer laufenden Saison bis zum 04.10.2021 - 00:00 Uhr begrenzt hinzugefügt und entfernt werden.
 
   
   

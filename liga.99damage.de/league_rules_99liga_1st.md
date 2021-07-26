@@ -90,7 +90,7 @@ Muss ein Spieler für mehr als ein Match von Beginn an spielen, gilt dies als We
   
   
 
-Es können nach dem 24.05.2021 - 00:00 Uhr) keine Spieler mehr dem Lineup hinzugefügt werden. Die Spieltag 8,9, Relegation und Finals müssen mit den Spielern bestritten werden, welche sich zum o.g. Zeitpunkt im Team-Account befinden.
+Es können nach dem 04.10.2021 - 00:00 Uhr) keine Spieler mehr dem Lineup hinzugefügt werden. Die Spieltag 8,9, Relegation und Finals müssen mit den Spielern bestritten werden, welche sich zum o.g. Zeitpunkt im Team-Account befinden.
 
   
   

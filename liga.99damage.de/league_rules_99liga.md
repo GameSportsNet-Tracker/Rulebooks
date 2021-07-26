@@ -245,7 +245,7 @@ Eine Saison in der 99Damage Liga startet mit dem Zeitpunkt, an dem die Wechselsl
   
   
 
-Die Divisionen klassifizieren den ungefähren Stärkegrad der einzelnen Teams. An der Spitze steht die Division 1, gefolgt von den Divisionen 2, 3 und Kalibrierungs-Division. Über den Aufstieg, beziehungsweise Abstieg, in einer Division wird anhand des Erfolges während der vorherigen Saison entschieden. Die Anzahl an Divisionen kann sich je nach Spielerzahl von Saison zu Saison ändern. Zudem behält sich die Liga-Administration das Recht vor, Teams zu Beginn einer Saison in die Divisionen 2 und 3 einzuladen.
+Die Divisionen klassifizieren den ungefähren Stärkegrad der einzelnen Teams. An der Spitze steht die Division 1, gefolgt von den Divisionen 2, 3, 4, 5 und Kalibrierungs-Division. Über den Aufstieg, beziehungsweise Abstieg, in einer Division wird anhand des Erfolges während der vorherigen Saison entschieden. Die Anzahl an Divisionen kann sich je nach Spielerzahl von Saison zu Saison ändern. Zudem behält sich die Liga-Administration das Recht vor, Teams zu Beginn einer Saison in die Divisionen 2 und 3 einzuladen.
 
   
   
@@ -265,7 +265,7 @@ Von der Bewerbung ausgeschlossen sind Teams, welche in der Vorsaison bereits in 
   
   
 Die Division 3 ist in eine Vielzahl von Gruppen aufgeteilt. Eine Gruppe besteht aus maximal zehn Teams. Diese spielen nur gegen Teams aus ihrer jeweiligen Gruppe (Playoffs & Relegation sind davon ausgeschlossen) und nicht übergreifend. Die Anzahl und Größe der Gruppen können sich zwischen zwei Saisons ändern.  
-Die Kalibirierungs-Division besteht aus einer Gruppe mit allen Teams und wird im Swiss-Format ausgespielt.  
+Die Divisionen 4, 5 und Kalibirierungs-Division bestehen aus einer Gruppe mit allen Teams und werden im Swiss-Format ausgespielt.  
   
   
   
@@ -295,6 +295,41 @@ Werden Unstimmigkeiten festgestellt, so wird entsprechend ein Report an die Liga
 Je nach Art des Reports werden entweder entsprechende Strafen vergeben oder die Demos an das Anti Cheat Team zur weiteren Überprüfung weitergeleitet und entsprechende Sperren erst nach einem einstimmigen Ergebnis der bearbeitenden Anti-Cheat-Admins ausgesprochen.
 
   
+
+### anybrain Anti-Cheat
+
+  
+
+Ein jeder Spieler muss das anybrain Anti-Cheat-Tool herunterladen und auf seinem PC installieren. [Zum Download](https://liga.99damage.de/https://anybrainpublicstorage.blob.core.windows.net/public/apps/freaks4u/99DamageLigaAC_Setup.exe)
+
+  
+
+Hinweise zur Installation und Handhabung findest Du im [Anti-Cheat-Guide](/statics/league_guides_anybrain)
+
+  
+
+Vor jedem Match muss das anybrain Anti-Cheat-Tool gestartet werden und es ist über den gesamten Zeitraum des Matches aktiviert zu lassen.
+
+  
+
+Wird das Tool nicht gestartet oder während des laufenden Matches deaktiviert, so erfolgt der automatische Kick vom Server.
+
+  
+
+Spieler, die auf Grund eines nicht aktivierten Anti-Cheat-Tools vom Server gekickt wurden, dürfen nach Aktivierung des Tools wieder dem Server joinen.
+
+  
+
+Das Anti-Cheat-Tool überwacht Maus- und Tastatur-Aktivitäten während des Matches und überprüft hier Unstimmigkeiten.
+
+  
+
+Werden Unstimmigkeiten festgestellt, wird entsprechend ein Report an die Liga-Administration weitergeleitet.
+
+  
+
+Je nach Art des Report werden entweder entsprechende Strafen vergeben oder die Demos an das Anti-Cheat-Team zur weiteren Überprüfung weitergeleitet und entsprechende Sperren erst nach einem einstimmigen Ergebnis der bearbeitenden Anti-Cheat-Admins ausgesprochen.
+
   
   
 
@@ -309,7 +344,7 @@ Gruppen und Format [(^)](https://liga.99damage.de/statics/league_rules_99liga)
   
   
 
-Alle Gruppenspiele bestehen aus zwei Maps. Die Divisionen 1,2 und 3 werden in einem Round-Robin-Format, die Kalibrierungs-Division im Swiss-Format ausgespielt.. Bei einem Stand von 1:1 nach beiden Maps wird also keine dritte Map gespielt.
+Alle Gruppenspiele bestehen aus zwei Maps. Die Divisionen 1, 2 und 3 werden in einem Round-Robin-Format, die Kalibrierungs-Division im Swiss-Format ausgespielt. Bei einem Stand von 1:1 nach beiden Maps wird also keine dritte Map gespielt.
 
   
   
@@ -337,7 +372,9 @@ Die Platzierungen einer Gruppe werden wie folgt berechnet:
     
 3.  Runden-Differenz im direkten Vergleich  
     
-4.  Runden-Differenz insgesamt
+4.  Runden-Differenz insgesamt  
+    
+5.  Overtimes werden generell nur mit +1 Runde gewertet (16:15), unabhängig vom eigentlichen Ergebnis
 
   
 
@@ -351,7 +388,7 @@ Bei der Berechnung der punktgleichen Teams wird die Gesamt-Runden-Differenz der 
   
   
 
-### Ranking Kalibrierungs-Division
+### Ranking Divisionen im Swiss-Format
 
   
   
@@ -386,7 +423,7 @@ Die Berechnung der Platzierung erfolgt über den Buchholz-Score.
 
   
   
-Abhängig von der Platzierung nach Ende einer Saison steigen Teams auf, ab oder verbleiben in ihrer Division für die nächste Saison. Welche Platzierung aufsteigt, absteigt oder eine Relegation spielen muss, ist im Ranking ersichtlich.  
+Abhängig von der Platzierung nach Ende einer Saison steigen Teams auf, ab oder verbleiben in ihrer Division für die nächste Saison. Welche Platzierung aufsteigt, absteigt oder eine Relegation spielen muss, ist im Ranking ersichtlich. Die Destinations in den Divisionen, welche im Swiss-Format ausgespielt werden, werden erst nach Abschluss des Spieltages 9 bekannt gegeben.  
   
   
 
@@ -489,12 +526,12 @@ Zu den Relegationen sind keine Stand-Ins von Beginn eines Matches an zugelassen.
   
   
 
-Die Wechselslot-Regelung tritt für Saison 17 am 28.02.2021 um 18:00 Uhr (mit Ende der Anmeldephase) in Kraft.
+Die Wechselslot-Regelung tritt für Saison 18 am 08.08.2021 um 18:00 Uhr (mit Ende der Anmeldephase) in Kraft.
 
   
   
 
-Der Roster-Lock tritt für Saison 17 am 10.05.2021 - 00:00 Uhr in Kraft.
+Der Roster-Lock tritt für Saison 18 am 04.10.2021 - 00:00 Uhr in Kraft.
 
   
   
@@ -504,7 +541,7 @@ Teams können im Laufe einer Saison insgesamt zwei (2) Spieler zum Saison-Lineup
   
   
 
-Es dürfen in der Saison 17 nach Inkrafttreten des Roster-Locks keine weiteren Spieler zum Team-Account (Saison-Lineup) hinzugefügt werden.
+Es dürfen in der Saison 18 nach Inkrafttreten des Roster-Locks keine weiteren Spieler zum Team-Account (Saison-Lineup) hinzugefügt werden.
 
   
   
@@ -534,7 +571,7 @@ Ein Spieler kann während einer Saison für bis zu drei (3) Teams spielen. Das b
   
   
 
-Spielerwechsel von einem Team zu einem anderen sind in der Saison 17 nach Inkrafttreten des Roster-Locks ausgeschlossen. Teams können dann erst wieder nach Ende der Saison wechseln.
+Spielerwechsel von einem Team zu einem anderen sind in der Saison 18 nach Inkrafttreten des Roster-Locks ausgeschlossen. Teams können dann erst wieder nach Ende der Saison wechseln.
 
   
   
@@ -549,7 +586,7 @@ Ein Wechsel innerhalb der gleichen Divisions-Gruppe ist nach Inkrafttreten der W
   
   
 
-Dies gilt nicht in der Kalibrierungs-Division.
+Dies gilt nicht innerhalb der Divisionen 4, 5, Kalibrierung.
 
   
   
@@ -904,7 +941,7 @@ Der Mappool besteht aus folgenden sieben Maps:
     
 *   de\_overpass  
     
-*   de\_train
+*   de\_ancient
 
   
   
