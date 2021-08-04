@@ -126,7 +126,7 @@ Wird das Lineup nicht fristgerecht auf der jeweiligen Match-Seite eingestellt, w
   
   
 
-Zu jedem Spieltag sind Match- und Gegner bezogene Video-Statements zu verfassen. Diese sind auf dem Team-FTP bis spätestens 48 Stunden vor dem Match-Termin zu hochzuladen.
+Zu jedem Spieltag sind Match- und Gegner bezogene Video-Statements zu verfassen. Diese sind auf dem Team-FTP bis spätestens 72 Stunden vor dem Match-Termin zu hochzuladen.
 
   
   
