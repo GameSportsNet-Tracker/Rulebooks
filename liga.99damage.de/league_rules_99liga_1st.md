@@ -291,7 +291,7 @@ Der Mappool besteht aus folgenden sieben Maps:
     
 *   de\_overpass  
     
-*   de\_train  
+*   de\_ancient  
     
 *   de\_inferno  
     
