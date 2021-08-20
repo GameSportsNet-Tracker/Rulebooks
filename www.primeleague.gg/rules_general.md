@@ -1,4 +1,4 @@
-Das folgende Regelwerk gilt ausschließlich für die Divisionen 2-6, die Starter Division sowie die Playoffs zwischen Division 2 und Division 6.  
+Das folgende Regelwerk gilt ausschließlich für die Divisionen 2-7, die Starter Division sowie die Playoffs zwischen Division 2 und Division 7.  
 Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/statics/rules_general_changelog) dargestellt.  
   
 [Regelwerk für die Pro Division](https://cdn1-v3.gamesports.net/img/themes/primeleague/rules_pro.pdf?2021-05-10)  
@@ -131,7 +131,7 @@ Jeder Spieler ist dazu verpflichtet seinen League of Legends-Account mit seinem 
   
   
 
-Die Benutzung von mehreren GameSports Accounts ist untersagt. Weiterhin ist sowohl die Weitergabe von GameSports Accounts sowie den dazugehörigen verifizierten League of Legends Accounts und die Nutzung solcher weitergegebenen Accounts untersagt.
+Die Benutzung von mehreren GameSports Accounts ist untersagt. Weiterhin ist sowohl die Weitergabe von GameSports Accounts sowie den dazugehörigen verifizierten League of Legends Accounts und die Nutzung solcher weitergegebenen Accounts im Rahmen von Matches in der Prime League untersagt.
 
   
   
@@ -262,6 +262,8 @@ Die Kalibrierungsphase wird im Swiss-Format ausgetragen. Details zu diesem Forma
 
   
   
+_Hinweis: Ab dem Spring Split 2022 wird Division 3 nicht mehr über die Kalibrierungsphase erreichbar sein._  
+  
 
 ### Gruppenphase
 
@@ -277,12 +279,12 @@ Die Erfolge aus der vorigen Saison und der Kalibrierungsphase bestimmen hierbei 
   
   
 
-In der Gruppenphase der Divisionen 2-6 besteht jede Gruppe aus bis zu acht (8) Teams. Gruppen werden im sogenannten "Round Robin"-Format ausgespielt, hierbei spielen alle Teams einmal im "Two Games"-Format gegeneinander.
+In der Gruppenphase der Divisionen 2-7 besteht jede Gruppe aus bis zu acht (8) Teams. Gruppen werden im sogenannten "Round Robin"-Format ausgespielt, hierbei spielen alle Teams einmal im "Two Games"-Format gegeneinander.
 
   
   
 
-Abhängig vom Platz zum Ende der Gruppenphase, können Teams in den Divisionen 2-6 folgende Platzierungen erreicht werden:  
+Abhängig vom Platz zum Ende der Gruppenphase, können Teams in den Divisionen 2-7 folgende Platzierungen erreicht werden:  
 
   
 *   Aufstieg in die nächsthöhere Division  
@@ -295,7 +297,7 @@ Abhängig vom Platz zum Ende der Gruppenphase, können Teams in den Divisionen 2
     
 
   
-Aus der Division 6 kann kein Abstieg erfolgen. Die genaue Verteilung wird zum Start einer Saison bekannt gegeben.
+Aus der Division 7 kann kein Abstieg erfolgen. Die genaue Verteilung wird zum Start einer Saison bekannt gegeben.
 
   
   
@@ -315,6 +317,11 @@ Die dritte und letzte Phase sind die Playoffs, welche nach der Gruppenphase star
   
 
 Das genaue Format der einzelnen Playoffs wird auf der Liga-Seite bekannt gegeben.
+
+  
+  
+
+Playoffs werden lediglich zwischen den Division 2 und 4 ausgespielt.
 
   
   
@@ -356,7 +363,7 @@ Tiebreaker-Matches werden zum Ende der regulären Saison ausgetragen und werden 
   
   
 
-Im Falle eines erneuten Gleichstandes nach den Tiebreaker-Matches wird eine sogenannte Zeitwertung angewandt. Hierzu wird die Summe der Spielzeit aller Niederlagen der Tiebreaker von der Summe der Spielzeit aller Siege abgezogen.
+Im Falle eines erneuten Gleichstandes nach den Tiebreaker-Matches wird eine sogenannte Zeitwertung angewandt. Hierzu wird die Summe der Spielzeit aller Niederlagen der Tiebreaker von der Summe der Spielzeit aller Siege abgezogen. Im Falle eines kampflosen Sieges wird die Matchzeit auf 15 Minuten festgelegt.
 
   
   
@@ -462,7 +469,7 @@ In der Kalibrierungsphase sowie in den Playoffs sind keine Stand-Ins zugelassen.
 ### Wechselslots
 
   
-Teams können nach Ende der Signup-Phase bis Ende der Gruppenphase insgesamt drei (3) Spieler zum Lineup hinzufügen. Das Hinzufügen eines Spielers verbraucht einen Wechselslot.  
+Teams können nach Ende der Signup-Phase bis Ende der Gruppenphase insgesamt vier (4) Spieler zum Lineup hinzufügen. Das Hinzufügen eines Spielers verbraucht einen Wechselslot.  
   
 
 ### Spielertransfer
@@ -479,12 +486,7 @@ Ein Spieler kann während einer Saison lediglich einmal das Saison-Lineup wechse
   
   
 
-Ein Spieler kann nach Ende der fünften (5) Spielwoche nur noch dann einem Saison-Lineup beitreten, wenn er vorher kein Mitglied eines anderen Saison-Lineups war.
-
-  
-  
-
-Nachdem ein Spieler in ein Lineup gewechselt ist, ist er/sie erst nach Ablauf einer Frist von 24 Stunden als Teammitglied spielberechtigt. Der Spieler kann bis Ablauf dieser Frist als Stand-In einspringen. In diesem Fall gelten alle Regelungen bezüglich Stand-Ins gemäß Regel 3.2.
+Ein Spieler kann nach Ende der vierten (4) Spielwoche nur noch dann einem Saison-Lineup beitreten, wenn er vorher kein Mitglied eines anderen Saison-Lineups war.
 
   
   
@@ -614,7 +616,7 @@ Spielplan & Spielablauf
 
   
 
-**Division 2-6:** Ein Spieltag beginnt in der jeweiligen Woche am Montag um 0 Uhr und endet am übernächsten Sonntag um 23:59 Uhr. Somit dauert ein Spieltag 14 Tage. Ausgenommen ist hier der letzte Spieltag, der lediglich sieben (7) Tage dauert. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/leagues/prm) zu finden.  
+**Division 2-7:** Ein Spieltag beginnt in der jeweiligen Woche am Montag um 0 Uhr und endet am übernächsten Sonntag um 23:59 Uhr. Somit dauert ein Spieltag 14 Tage. Ausgenommen ist hier der letzte Spieltag, der lediglich sieben (7) Tage dauert. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/leagues/prm) zu finden.  
   
 **Starter Division:** Ein Spieltag beginnt in der jeweiligen Woche am Dienstag um 0 Uhr und endet Sonntag um 23:59 Uhr. Somit dauert ein Spieltag sechs (6) Tage. Der jeweilige Montag wird zu Prüfung von Protesten sowie der Erstellung der nächsten Runde genutzt. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/leagues/prm) zu finden.
 
@@ -760,7 +762,7 @@ Das auf der Matchseite zuerst genannte Team (links) hat für das erste Spiel die
   
   
 
-Alle Spieler sind dazu angehalten, die Beschwörernamen des gegnerischen Lineups in der Lobby mit den Beschwörernamen auf der Matchseite zu vergleichen. Alle im Match-Lineup eingetragenen Spieler sind für das Match grundsätzlich spielberechtigt, sofern dies nicht explizit auf der Matchseite anderweitig erwähnt ist. Sollte zumindest ein Beschwörername nicht übereinstimmen, gilt das Team als nicht vollständig anwesend gemäß 6.2.
+Alle Spieler sind dazu angehalten, die Beschwörernamen des gegnerischen Lineups in der Lobby mit den Beschwörernamen auf der Matchseite zu vergleichen. Alle im Match-Lineup eingetragenen Spieler sind für das Match grundsätzlich spielberechtigt, sofern dies nicht explizit auf der Matchseite anderweitig erwähnt ist. Solange zumindest ein Beschwörername in der Lobby nicht mit dem Namen auf der Matchseite übereinstimmt, gilt das Team verspätet gemäß 6.2.3.
 
   
   
@@ -801,6 +803,16 @@ Platzhalter sind während der Champion Selection nicht erlaubt. Die Picks und Ba
   
   
 
+Im Falle von technischen Problem wie Bugs oder Disconnects während der Champion Selection, und ein damit einhergehender fälschlich ausgewählter Champion, sei es ein Pick oder Ban, kann die Champion Selection von dem betroffenen Team unterbrochen werden, sofern das gegnerische Team noch keinen weiteren Pick oder Ban gewählt hat. Alle Picks und Bans müssen bis zu der fälschlichem Auswahl des Champions wiederholt werden. Der fälschlich ausgewählte Champion kann dann neu ausgewählt werden.
+
+  
+  
+
+Im Falle von technischen Problem zum Ende der Champion Selection, wie zum Beispiel fälschlich ausgewählte Runen, Summoner Spells oder ein Bug beim Tausch der Champions, kann das Spiel abgebrochen und die Champion Selection neu gestartet werden, sofern das Spiel gemäß Regel 6.3.5 noch nicht gestartet ist. Alle Picks und Bans müssen wiederholt werden.
+
+  
+  
+
 Neu veröffentlichte Champions sind erst ab dem auf die Veröffentlichung folgenden Patch spielbar. Darüberhinaus behält sich die Administration das Recht vor, einzelne Champions, etwa aufgrund von Bugs, temporär oder kurzfristig zu sperren.
 
   
@@ -830,7 +842,7 @@ Während des Matches
 ### Auswechslungen
 
   
-Auswechslungen während eines Matches müssen unverzüglich in den Matchkommentaren angegeben werden. Hierbei ist das www.primeleague.gg-Nutzerprofil, der Beschwörername des Einwechselspielers sowie der Beschwörername des ausgewechselten Spielers kenntlich zu machen. Weiterhin müssen alle Regeln bezüglich spielberechtigter Lineups eingehalten werden.  
+Auswechslungen nach dem ersten Spiel eines Matches müssen unverzüglich in den Matchkommentaren angegeben werden. Hierbei ist das www.primeleague.gg-Nutzerprofil, der Beschwörername des Einwechselspielers sowie der Beschwörername des ausgewechselten Spielers kenntlich zu machen. Weiterhin müssen alle Regeln bezüglich spielberechtigter Lineups eingehalten werden.  
   
 
 ### Spielende
@@ -857,7 +869,7 @@ Im Falle eines Disconnects ist die Pausefunktion zu betätigen. Pausen können i
   
   
 
-Vor Wiederaufnahme des Spiels muss von beiden Teams explizit bestätigt werden, dass sie bereit sind das Spiel fortzusetzen.
+Vor Wiederaufnahme des Spiels muss von beiden Teams bestätigt werden, dass sie bereit sind das Spiel fortzusetzen.
 
   
   
@@ -928,4 +940,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/statics/rules_general#top)  
   
-Letztes Update: 27.04.2021
+Letztes Update: 20.08.2021
