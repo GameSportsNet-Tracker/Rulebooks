@@ -287,7 +287,7 @@ Abhängig vom Platz zum Ende der Gruppenphase können folgende Ergebnisse erreic
   
 Die genaue Verteilung wird zum Start einer Saison bekannt gegeben.  
   
-Die Playoffs zur Pro Division finden lediglich nach der dritten Saison innerhalb eines Jahres statt. Teams können innerhalb eines Jahres Splitpunkte in der Division 1 sammeln. Die zwei (2) Teams mit den meisten Splitunkten zum Abschluss der dritten Saison qualifizieren sich für die Pro Division Playoffs. Teams, die in der dritten Saison aus der Division 1 absteigen oder sich für die Playoffs zur Division 2 qualifizieren, verwirken ihr Recht an der Teilnahme zu den Pro Division Playoffs. In diesem Fall rückt das nächste bestplatzierte Team nach.  
+Die Playoffs zur Pro Division finden lediglich nach der dritten Saison innerhalb eines Jahres statt. Teams können innerhalb eines Jahres Splitpunkte in der Division 1 sammeln. Die zwei (2) Teams mit den meisten Splitunkten zum Abschluss der dritten Saison qualifizieren sich für die Pro Division Playoffs. Teams, die in der dritten Saison aus der Division 1 absteigen oder sich für die Playoffs zur Division 2 qualifizieren, verwirken ihr Recht zu der Teilnahme an den Pro Division Playoffs. In diesem Fall rückt das nächste bestplatzierte Team nach.  
   
 
 Die Punkteverteilung ist hier einzusehen
@@ -424,7 +424,7 @@ Bei Gleichständen der anderen Platzierungen am Ende der Gruppenphase gilt folge
   
 *   Der direkte Vergleich zwischen den betroffenen Teams wird herangezogen. Teams, die hier eine bessere bzw. schlechtere Bilanz als die anderen betroffenen Teams aufweisen, erhalten die höhere bzw. niedrigere Platzierung. Für die Teams, die eine identische Bilanz wie andere betroffene Teams aufweisen, wird ein neuer Tiebreaker erstellt.  
     
-*   Der direkte Vergleich zwischen allen Teams, die der Gleichstand betrifft, zum höchstplatzierten Team, das nicht vom Gleichstand betroffen ist, wird herangezogen. Teams, die hier eine bessere oder schlechtere Bilanz als die anderen betroffenen Teams aufweisen, erhalten die höhere bzw. niedrigere Platzierung. Für die Teams, die eine identische Bilanz wie andere betroffene Teams aufweisen, wird ein neuer Tiebreaker erstellt und zum ersten Punkt zurückgekehrt. Sollte der direkte Vergleich bei allen Teams identisch sein, wird der direkte Vergleich zum nächst besten Team, das nicht vom Gleichstand betroffen ist, in Betracht genommen. Der Prozess wiederholt sich bis das niedrigstplatzierte Team, das nicht vom Gleichstand betroffen ist, erreicht ist. Sollte der Vergleich zu anderen Teams von einem weiteren ungelösten Gleichstand betroffen sein, wird der direkte Vergleich zu allen Teams, die von diesem Gleichstand betroffen sind, gewertet.  
+*   Der direkte Vergleich zwischen allen Teams, die der Gleichstand betrifft, zum höchstplatzierten Team, das nicht vom Gleichstand betroffen ist, wird herangezogen. Teams, die hier eine bessere oder schlechtere Bilanz als die anderen betroffenen Teams aufweisen, erhalten die höhere bzw. niedrigere Platzierung. Sind von dem Gleichstand mehr als zwei Teams betroffen, wird für die Teams, eine identische Bilanz wie andere betroffene Teams aufweisen, ein neuer Tiebreaker erstellt und zum ersten Punkt zurückgekehrt. Sollte der direkte Vergleich bei allen Teams identisch sein, wird der direkte Vergleich zum nächst besten Team, das nicht vom Gleichstand betroffen ist, in Betracht genommen. Der Prozess wiederholt sich bis das niedrigstplatzierte Team, das nicht vom Gleichstand betroffen ist, erreicht ist. Sollte der Vergleich zu anderen Teams von einem weiteren ungelösten Gleichstand betroffen sein, wird der direkte Vergleich zu allen Teams, die von diesem Gleichstand betroffen sind, gewertet.  
     
 *   Im Fall eines Gleichstandes zwischen zwei (2) Teams wird dann der Sieger des letzten Matches zwischen beiden Teams die höhere Platzierung erhalten. Im Fall eines Gleichstandes zwischen drei (3) oder mehr Teams, wird die Zeitwertung aus dem direkten Vergleich zwischen den Teams herangezogen und die Teams werden entsprechend platziert.  
     
@@ -698,7 +698,7 @@ Vor dem Match
 
   
 
-Das auf der Matchseite zuerst genannte Team (links) hat für das erste Spiel die freie Seitenwahl. Die Seitenwahl muss bis spätestens 18 Uhr am Vortag des Matches getätigt werden. Falls am Vortag des Matches ein Spieltag stattfindet, wird die Frist auf 23:30 Uhr gesetzt. Sollte die Seitenwahl bereits vor der Frist getätigt worden sein, ist die Wahl nach fünf (5) Minuten festgesetzt und kann nicht mehr geändert werden. Sollten das Team die Frist verstreichen lassen, erhält es automatisch die "Blue Side". Mit jedem weiteren Spiel innerhalb einer Serie wechselt die Seitenwahl, welche bis fünf (5) Minuten nach Ende des vorherigen Spiels mitgeteilt werden muss. Hierbei wird genaue Frist von der Administration kommuniziert. Sollte das Team die Frist verstreichen lassen, erhält es automatisch die "Blue Side".
+Das auf der Matchseite zuerst genannte Team (links) hat für das erste Spiel die freie Seitenwahl. Die Seitenwahl muss bis spätestens 18 Uhr am Vortag des Matches getätigt werden. Falls am Vortag des Matches ein Spieltag stattfindet, wird die Frist auf 23:30 Uhr gesetzt. Sollte die Seitenwahl bereits vor der Frist getätigt worden sein, ist die Wahl nach fünf (5) Minuten festgesetzt und kann nicht mehr geändert werden. Sollte das Team die Frist verstreichen lassen, erhält es automatisch die "Blue Side". Mit jedem weiteren Spiel innerhalb einer Serie wechselt die Seitenwahl, welche bis fünf (5) Minuten nach Ende des vorherigen Spiels mitgeteilt werden muss. Hierbei wird genaue Frist von der Administration kommuniziert. Sollte das Team die Frist verstreichen lassen, erhält es automatisch die "Blue Side".
 
   
   
@@ -764,11 +764,25 @@ Das Spiel darf erst dann gestarten werden, wenn die Administration ihr Einverst�
   
   
 
+Das Spiel gilt als gestartet, wenn zumindest einer der folgenden Punkte erfüllt ist:  
+
+  
+*   Es wurde Sichtkontakt zwischen Spielern beider Teams hergestellt.  
+    
+*   Ein Spieler nutzt einen Angriff oder Fähigkeit auf Minions, Jungle Creeps, Gebäude oder gegnerische Champions.  
+    
+*   Ein Spieler betritt, stellt Sicht her oder nutzt eine Fähigkeit im gegnerischen Jungle. Dies beinhaltet das Verlassen des Flusses oder den Eintritt in einen Busch, die an den gegnerischen Jungle angrenzen.  
+    
+*   Die Spielzeit erreicht 02:00 Minuten.
+
+  
+  
+
 ### Champion Selection
 
   
 
-Die Picks und Bans, die innerhalb der Lobby gewählt wurden, dürfen nicht geändert werden. Dies schließt die zufällige Auswahl aufgrund von technischen Fehlern ein. Sollte die Champion Selection abgebrochen werden, müssen alle Bans und Picks in identischer Reihenfolge wiederholt werden. Die ausgewählten Champions können innerhalb des Teams beliebig getauscht werden.
+Die Picks und Bans, die innerhalb der Lobby gewählt wurden, dürfen unter normalen Umständen nicht geändert werden. Sollte die Champion Selection abgebrochen werden, müssen alle Bans und Picks in identischer Reihenfolge wiederholt werden. Die ausgewählten Champions können innerhalb des Teams beliebig getauscht werden.
 
   
   
@@ -778,7 +792,12 @@ Im Falle von technischen Problem wie Bugs oder Disconnects während der Champion
   
   
 
-Im Falle von technischen Problem zum Ende der Champion Selection, wie zum Beispiel fälschlich ausgewählte Runen, Summoner Spells oder ein Bug beim Tausch der Champions, kann das Spiel nach Zustimmung der Administration abgebrochen und die Champion Selection neu gestartet werden, sofern das Spiel gemäß Regel 6.3.5 noch nicht gestartet ist. Alle Picks und Bans müssen wiederholt werden.
+Im Falle von technischen Problem zum Ende der Champion Selection, wie zum Beispiel fälschlich ausgewählte Runen, Summoner Spells oder ein Bug beim Tausch der Champions, kann das Spiel abgebrochen und die Champion Selection neu gestartet werden, sofern das Spiel gemäß Regel 6.3.5 noch nicht gestartet ist. Alle Picks und Bans müssen wiederholt werden.
+
+  
+  
+
+Sollte einer der zuvor genannten Fälle eintreten, muss die Administration unverzüglich darüber informiert werden und es liegt in ihrem Ermessen, den gewünschten Änderungen an der Champion Selection bzw. den gewählten Runen/Summoner Spells nicht zuzustimmen.
 
   
   

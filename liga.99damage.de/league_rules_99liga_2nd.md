@@ -275,7 +275,7 @@ Ausschließlich ein (1) Coach pro Team darf dem Server joinen.
 
   
   
-Spiele der Division 2 werden ausschließlich von 99Damage Castern und/oder Partnern übertragen.  
+Ausgewählte Spiele der Division 2 werden ausschließlich von 99Damage Castern und/oder Partnern übertragen. Spiele, die nicht durch 99Damage selbst übertragen werden können, haben eine öffentliche GOTV IP und sind für jeden zum casten verfügbar.  
   
   
 

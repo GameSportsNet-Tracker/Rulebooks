@@ -390,12 +390,12 @@ Finals & Preisgeld[(^)](https://liga.99damage.de/statics/league_rules_99liga_1st
   
   
 
-In der laufenden Saison werden Preisgelder in Höhe von 25.750 EUR ausgeschüttet.
+In der laufenden Saison werden Preisgelder in Höhe von 26.000 EUR ausgeschüttet.
 
   
   
 
-Davon entfallen 10.000 EUR auf die Playoffs und 1.000 EUR auf den Saison-MVP.
+Davon entfallen 10.000 EUR auf die Playoffs, 300 € auf den Groupstage-MVP und 1.000 EUR auf den Finals-MVP.
 
   
   

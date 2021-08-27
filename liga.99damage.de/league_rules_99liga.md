@@ -1045,7 +1045,7 @@ Runden, in denen ein oder mehrere Spieler disconnecten, werden nicht nachgespiel
   
   
 
-Das Zuschauen und Streamen von Spielen über GOTV ist bei allen Spielen außer der Division 1 und Division 2 erlaubt.
+Das Zuschauen und Streamen von Spielen über GOTV ist bei allen Spielen außer der Division 1 und Division 2 (sofern 99Damage selbst einen Stream stellt) erlaubt.
 
   
   
@@ -1055,7 +1055,7 @@ Die GOTV-IP wird für alle sichtbar auf der jeweiligen Match-Seite angezeigt, na
   
   
 
-Spiele der Division 1 und Division 2 werden ausschließlich von 99Damage-Castern und/oder Partnern übertragen.
+Spiele der Division 1 und ausgewählte Spiele der Division 2 werden ausschließlich von 99Damage-Castern und/oder Partnern übertragen.
 
   
   
