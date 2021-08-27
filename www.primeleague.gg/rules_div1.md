@@ -287,7 +287,7 @@ Abhängig vom Platz zum Ende der Gruppenphase können folgende Ergebnisse erreic
   
 Die genaue Verteilung wird zum Start einer Saison bekannt gegeben.  
   
-Die Playoffs zur Pro Division finden lediglich nach der dritten Saison innerhalb eines Jahres statt. Teams können innerhalb eines Jahres Splitpunkte in der Division 1 sammeln. Die zwei (2) Teams mit den meisten Splitunkten zum Abschluss der dritten Saison qualifizieren sich für die Pro Division Playoffs. Teams, die in der dritten Saison aus der Division 1 absteigen, verwirken ihr Recht an der Teilnahme zu den Pro Division Playoffs. In diesem Fall rückt das nächste bestplatzierte Team nach.  
+Die Playoffs zur Pro Division finden lediglich nach der dritten Saison innerhalb eines Jahres statt. Teams können innerhalb eines Jahres Splitpunkte in der Division 1 sammeln. Die zwei (2) Teams mit den meisten Splitunkten zum Abschluss der dritten Saison qualifizieren sich für die Pro Division Playoffs. Teams, die in der dritten Saison aus der Division 1 absteigen oder sich für die Playoffs zur Division 2 qualifizieren, verwirken ihr Recht an der Teilnahme zu den Pro Division Playoffs. In diesem Fall rückt das nächste bestplatzierte Team nach.  
   
 
 Die Punkteverteilung ist hier einzusehen
@@ -424,7 +424,7 @@ Bei Gleichständen der anderen Platzierungen am Ende der Gruppenphase gilt folge
   
 *   Der direkte Vergleich zwischen den betroffenen Teams wird herangezogen. Teams, die hier eine bessere bzw. schlechtere Bilanz als die anderen betroffenen Teams aufweisen, erhalten die höhere bzw. niedrigere Platzierung. Für die Teams, die eine identische Bilanz wie andere betroffene Teams aufweisen, wird ein neuer Tiebreaker erstellt.  
     
-*   Der direkte Vergleich zwischen allen Teams, die der Gleichstand betrifft, zum höchstplatzierten Team, das nicht vom Gleichstand betroffen ist, wird herangezogen. Teams, die hier eine bessere oder schlechtere Bilanz als die anderen betroffenen Teams aufweisen, erhalten die höhere bzw. niedrigere Platzierung. Für die Teams, die eine identische Bilanz wie andere betroffene Teams aufweisen, wird ein neuer Tiebreaker erstellt. Sollte der direkte Vergleich bei allen Teams identisch sein, wird der direkte Vergleich zum nächst besten Team, das nicht vom Gleichstand betroffen ist, in Betracht genommen. Der Prozess wiederholt sich bis das niedrigstplatzierte Team, das nicht vom Gleichstand betroffen ist, erreicht ist. Sollte der Vergleich zu anderen Teams von einem weiteren ungelösten Gleichstand betroffen sein, wird der direkte Vergleich zu allen Teams, die von diesem Gleichstand betroffen sind, gewertet.  
+*   Der direkte Vergleich zwischen allen Teams, die der Gleichstand betrifft, zum höchstplatzierten Team, das nicht vom Gleichstand betroffen ist, wird herangezogen. Teams, die hier eine bessere oder schlechtere Bilanz als die anderen betroffenen Teams aufweisen, erhalten die höhere bzw. niedrigere Platzierung. Für die Teams, die eine identische Bilanz wie andere betroffene Teams aufweisen, wird ein neuer Tiebreaker erstellt und zum ersten Punkt zurückgekehrt. Sollte der direkte Vergleich bei allen Teams identisch sein, wird der direkte Vergleich zum nächst besten Team, das nicht vom Gleichstand betroffen ist, in Betracht genommen. Der Prozess wiederholt sich bis das niedrigstplatzierte Team, das nicht vom Gleichstand betroffen ist, erreicht ist. Sollte der Vergleich zu anderen Teams von einem weiteren ungelösten Gleichstand betroffen sein, wird der direkte Vergleich zu allen Teams, die von diesem Gleichstand betroffen sind, gewertet.  
     
 *   Im Fall eines Gleichstandes zwischen zwei (2) Teams wird dann der Sieger des letzten Matches zwischen beiden Teams die höhere Platzierung erhalten. Im Fall eines Gleichstandes zwischen drei (3) oder mehr Teams, wird die Zeitwertung aus dem direkten Vergleich zwischen den Teams herangezogen und die Teams werden entsprechend platziert.  
     
@@ -516,7 +516,7 @@ Teams können nach Ende der Signup-Phase bis Ende der 8. Woche der Gruppenphase 
   
   
 
-Für den Winter Split gilt darüberhinaus, dass nach ab dem Tag nach dem 9. Spieltag der Gruppenphase nur noch Spieler zum Lineup hinzugefügt werden können, die seit Beginn des Summer Splits des gleichen Jahres weder an einer Professionellen Esports League (z.B. LEC, LCS, TCL, etc.), den EU Masters oder einer ERL teilgenommen haben.
+Für den Winter Split gilt darüberhinaus, dass nach dem 05.10.2021 nur noch Spieler zum Lineup hinzugefügt werden können, die seit Beginn des Summer Splits des gleichen Jahres weder an einer Professionellen Esports League (z.B. LEC, LCS, TCL, etc.), den EU Masters oder einer ERL teilgenommen haben.
 
   
   
@@ -601,7 +601,7 @@ Eine Weitergabe von Slots, sowohl innerhalb einer Organisation als auch an eine 
   
   
 
-Eine Organisation darf maximal ein (1) Team in Division 1 stellen. Sollte sich ein zweites Team der Organisation sportlich für die Playoffs zur Division 1 qualifizieren, darf dieses Team an den Playoffs nicht teilnehmen. Die nächst bestplatzierten Teams aus derselben Gruppe rücken entsprechend nach.
+Eine Organisation darf maximal ein (1) Team in Division 1 stellen. Sollte sich ein zweites Team der Organisation sportlich für die Playoffs zur Division 1 qualifizieren, darf dieses Team nicht an den Playoffs teilnehmen. Sollten zwei (2) Teams der selben Organisation sich für die Playoffs zur Division 1 qualifizieren, darf lediglich eines dieser Teams an den Playoffs teilnehmen. Die nächst bestplatzierten Teams aus derselben Gruppe rücken entsprechend nach.
 
   
   
@@ -698,7 +698,7 @@ Vor dem Match
 
   
 
-Das auf der Matchseite zuerst genannte Team (links) hat für das erste Spiel die freie Seitenwahl. Die Seitenwahl muss bis spätestens 18 Uhr am Vortag des Matches getätigt werden. Falls am Vortag des Matches ein Spieltag stattfindet, wird die Frist auf 23:30 Uhr gesetzt. Sollten das Team die Frist verstreichen lassen, erhält es automatisch die "Blue Side". Mit jedem weiteren Spiel innerhalb einer Serie wechselt die Seitenwahl, welche bis fünf (5) Minuten nach Ende des vorherigen Spiels mitgeteilt werden muss. Hierbei wird die jeweilige Zeit aus dem Log der Match-Seite als Spielende definiert. Sollte das Team die Frist verstreichen lassen, erhält es automatisch die "Blue Side".
+Das auf der Matchseite zuerst genannte Team (links) hat für das erste Spiel die freie Seitenwahl. Die Seitenwahl muss bis spätestens 18 Uhr am Vortag des Matches getätigt werden. Falls am Vortag des Matches ein Spieltag stattfindet, wird die Frist auf 23:30 Uhr gesetzt. Sollte die Seitenwahl bereits vor der Frist getätigt worden sein, ist die Wahl nach fünf (5) Minuten festgesetzt und kann nicht mehr geändert werden. Sollten das Team die Frist verstreichen lassen, erhält es automatisch die "Blue Side". Mit jedem weiteren Spiel innerhalb einer Serie wechselt die Seitenwahl, welche bis fünf (5) Minuten nach Ende des vorherigen Spiels mitgeteilt werden muss. Hierbei wird genaue Frist von der Administration kommuniziert. Sollte das Team die Frist verstreichen lassen, erhält es automatisch die "Blue Side".
 
   
   
@@ -768,7 +768,17 @@ Das Spiel darf erst dann gestarten werden, wenn die Administration ihr Einverst�
 
   
 
-Platzhalter sind während der Champion Selection nicht erlaubt. Die Picks und Bans, die innerhalb der Lobby gewählt wurden, dürfen nicht geändert werden. Dies schließt die zufällige Auswahl aufgrund von technischen Fehlern ein. Sollte die Champion Selection abgebrochen werden, müssen alle Bans und Picks in identischer Reihenfolge wiederholt werden. Die ausgewählten Champions können innerhalb des Teams beliebig getauscht werden, sofern das Spiel dies zulässt.
+Die Picks und Bans, die innerhalb der Lobby gewählt wurden, dürfen nicht geändert werden. Dies schließt die zufällige Auswahl aufgrund von technischen Fehlern ein. Sollte die Champion Selection abgebrochen werden, müssen alle Bans und Picks in identischer Reihenfolge wiederholt werden. Die ausgewählten Champions können innerhalb des Teams beliebig getauscht werden.
+
+  
+  
+
+Im Falle von technischen Problem wie Bugs oder Disconnects während der Champion Selection, und ein damit einhergehender fälschlich ausgewählter Champion, sei es ein Pick oder Ban, kann die Champion Selection von dem betroffenen Team unterbrochen werden, sofern das gegnerische Team noch keinen weiteren Pick oder Ban gewählt hat. Alle Picks und Bans müssen bis zu der fälschlichem Auswahl des Champions wiederholt werden. Der fälschlich ausgewählte Champion kann dann neu ausgewählt werden.
+
+  
+  
+
+Im Falle von technischen Problem zum Ende der Champion Selection, wie zum Beispiel fälschlich ausgewählte Runen, Summoner Spells oder ein Bug beim Tausch der Champions, kann das Spiel nach Zustimmung der Administration abgebrochen und die Champion Selection neu gestartet werden, sofern das Spiel gemäß Regel 6.3.5 noch nicht gestartet ist. Alle Picks und Bans müssen wiederholt werden.
 
   
   
@@ -892,4 +902,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/statics/rules_div1#top)  
   
-Letztes Update: 07.05.2021
+Letztes Update: 27.08.2021
