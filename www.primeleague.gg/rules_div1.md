@@ -863,9 +863,21 @@ Sollte eine Pause getätigt werden, muss das pausierende Team die Administration
 
   
 
-Jedes Spiel wird von offiziellen Kommentatoren der Prime League übertragen. Das eigene Streamen der Matches ist nicht zugelassen.
+Jedes Spiel wird von offiziellen Kommentatoren der Prime League übertragen. Darüber hinaus ist es testweise zeitlich begrenzt auf den Winter Split 2021 für Spieler möglich ihre eigene Sicht zu streamen, wenn folgende Voraussetzungen erfüllt sind:  
 
   
+*   Nur jeder zweite Spieltag darf auf den eigenen Kanälen der jeweiligen Spieler übertragen werden. Dies startet mit dem zweiten Spieltag des Winter Splits und bezieht sich dann auf alle folgenden geraden Spieltage. Spiele aus der Playoff-Stage dürfen nicht übertragen werden.  
+    
+*   Der Stream darf nicht kommentiert werden. Es darf lediglich die Kommunikation der Spieler übertragen werden.  
+    
+*   Während der Übertragung der Spiele dürfen keine Sponsoren oder Partner im Stream eingebunden sein, weder über Logos noch über Produkte.  
+    
+*   Der Stream muss einen Delay von mindestens vier (4) Minuten haben.
+
+  
+  
+_Hinweise: Die Administration behält sich das Recht vor den Test zu jeder Zeit ohne Angabe von Gründen und ohne vorherige Ankündigung zu beenden._  
+
   
 
 Spieler dürfen sich nicht Streams des eigenen Spiels live ansehen. Dies beinhalt auch die Anwesenheit im Chat.
