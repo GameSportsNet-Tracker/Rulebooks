@@ -60,7 +60,7 @@ Ein Team ist dann spielberechtigt, wenn mindestens zwei (2) von fünf (5) Spiele
   
 *   Der Spieler hat innerhalb von 36 aus den letzten 60 Monaten unmittelbar vor seiner Teilnahme am ersten Match in der Prime League seinen primären Wohnsitz in der DACH-Region.  
     
-*   Der Spieler hat in zwei (2) der letzten drei (3) "European Regional League"-Saisons (ERL) unmittelbar vor seiner Teilnahme am ersten Match jeweils mindestens 50% der Matches innerhalb der Gruppenphaseder Prime League gespielt. Zusätzlich zählt für einen Spieler eine Saison zur LTR-Voraussetzung, wenn der Spieler Teil eines ERL- oder LEC-Teams für die Mehrheit der Spiele der Saison war - auch wenn der Spieler nicht aktiv in der entsprechenden ERL teilgenommen hat - solange er nicht an einer anderen ERL teilgenommen hat.  
+*   Der Spieler hat in zwei (2) der letzten drei (3) "European Regional League"-Saisons (ERL) unmittelbar vor seiner Teilnahme am ersten Match jeweils mindestens 50% der Matches innerhalb der Gruppenphase der Prime League gespielt. Zusätzlich zählt für einen Spieler eine Saison zur LTR-Voraussetzung, wenn der Spieler Teil eines ERL- oder LEC-Teams für die Mehrheit der Spiele der Saison war - auch wenn der Spieler nicht aktiv in der entsprechenden ERL teilgenommen hat - solange er nicht an einer anderen ERL teilgenommen hat.  
     
 *   Der Spieler hatte seit seines 13. Geburtstags mindestens 36 Monate seinen primären Wohnsitz in der DACH-Region.
 
