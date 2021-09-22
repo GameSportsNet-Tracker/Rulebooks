@@ -418,9 +418,11 @@ Das Lineup ist für jedes Match des Brackets auf der Match-Seite vor dem Match-T
     
 *   Erstgenanntes Team auf der Match-Seite (links - Team A) bannt 1 Map  
     
+*   Zweitgenanntes Team auf der Match-Seite (rechts - Team B) bannt 1 Map  
+    
 *   Verbleibende Map wird ausgespielt  
     
-*   Zweitgenanntes Team auf der Match-Seite (rechts - Team B) erhält die Seitenwahl
+*   Erstgenanntes Team auf der Match Seite (links - Team A) erhält die Seitenwahl
 
   
 
@@ -440,11 +442,13 @@ Das Lineup ist für jedes Match des Brackets auf der Match-Seite vor dem Match-T
     
 *   Erstgenanntes Team auf der Match Seite (links - Team A) pickt Seite  
     
-*   Erstgenanntes Team auf der Match Seite (links - Team a) bannt 1 Map  
+*   Erstgenanntes Team auf der Match Seite (links - Team A) bannt 1 Map  
+    
+*   Zweitgenanntes Team auf der Match-Seite (rechts - Team B) bannt 1 Map  
     
 *   Verbleibende Map ist die Decider Map und wird nur bei Bedarf ausgespielt  
     
-*   Zweitgenanntes Team auf der Match Seite (rechts - Team B) pickt Seite
+*   Erstgenanntes Team auf der Match Seite (links - Team A) pickt Seite
 
   
 
@@ -452,13 +456,15 @@ Das Lineup ist für jedes Match des Brackets auf der Match-Seite vor dem Match-T
 
   
 
-Der Mappool besteht aus folgenden sechs (6) Maps:  
+Der Mappool besteht aus folgenden sieben (7) Maps:  
 
 *   Ascent  
     
 *   Bind  
     
 *   Breeze  
+    
+*   Fracture  
     
 *   Haven  
     
