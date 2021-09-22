@@ -628,7 +628,7 @@ Jedes Match besitzt einen sogenannten Ausweichtermin. Dieser ist nur dann der of
   
   
 
-Der Ausweichtermin innerhalb der Gruppenphase ist für die Divisionen 5 und 6 sowie Starter Division immer Sonntag um 15 Uhr und für die Divisionen 2-4 immer Sonntag um 17 Uhr in der jeweiligen Spielwoche und wird auf den Matchseiten entsprechend als offizieller Matchtermin angezeigt.
+Der Ausweichtermin innerhalb der Gruppenphase ist für die Divisionen 5, 6 und 7 sowie Starter Division immer Sonntag um 15 Uhr und für die Divisionen 2-4 immer Sonntag um 17 Uhr in der jeweiligen Spielwoche und wird auf den Matchseiten entsprechend als offizieller Matchtermin angezeigt.
 
   
   
@@ -940,4 +940,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/statics/rules_general#top)  
   
-Letztes Update: 20.08.2021
+Letztes Update: 22.09.2021
