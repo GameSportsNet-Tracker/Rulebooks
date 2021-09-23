@@ -821,7 +821,11 @@ Neu veröffentlichte Champions sind erst ab dem auf die Veröffentlichung folgen
 Aktuell gesperrte Champions
 
   
-Momentan ist kein Champion gesperrt.  
+
+  
+*   Vex
+
+  
   
 
   
