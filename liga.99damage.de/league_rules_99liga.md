@@ -480,7 +480,7 @@ Muss ein Stand-in von Beginn an spielen, ist dieser statt eines aktiven Spielers
   
   
 
-Springt ein Stand-in, der kein bestätigter Spieler des Saison-Lineups ist, im laufenden Match für einen aktiven Spieler ein, dem es aus technischen Gründen nicht mehr möglich ist, am laufenden Match teilzunehmen, muss dieser in den Match-Kommentaren mit den Angaben "Spieler-Link" / "Team-Link (sofern in einem aktiven Team der Saison) / "Steam-ID"  
+Springt ein Stand-in, der kein bestätigter Spieler des Saison-Lineups ist, im laufenden Match für einen aktiven Spieler ein, dem es aus technischen Gründen nicht mehr möglich ist, am laufenden Match teilzunehmen, muss dieser in den Match-Kommentaren mit den Angaben "99Liga-Spieler-Profil-Link" / "99Liga-Team-Link (sofern in einem aktiven Team der Saison) / "Steam-ID"  
 angekündigt werden.
 
   
