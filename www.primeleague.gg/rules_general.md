@@ -798,7 +798,7 @@ Sollte es zu technischen Problemen mit einem Tournamentcode kommen, kann das Spi
 
   
 
-Platzhalter sind während der Champion Selection nicht erlaubt. Die Picks und Bans, die innerhalb der Lobby gewählt wurden, dürfen nicht geändert werden. Dies schließt die zufällige Auswahl aufgrund von technischen Fehlern ein. Sollte die Champion Selection abgebrochen werden, müssen alle Bans und Picks in identischer Reihenfolge wiederholt werden. Die ausgewählten Champions können innerhalb des Teams beliebig getauscht werden.
+Platzhalter sind während der Champion Selection nicht erlaubt. Die Picks und Bans, die innerhalb der Lobby gewählt wurden, dürfen nicht geändert werden. Sollte die Champion Selection abgebrochen werden, müssen alle Bans und Picks in identischer Reihenfolge wiederholt werden. Die ausgewählten Champions können innerhalb des Teams beliebig getauscht werden.
 
   
   
