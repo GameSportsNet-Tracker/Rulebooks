@@ -363,7 +363,7 @@ Tiebreaker-Matches werden zum Ende der regulären Saison ausgetragen und werden 
   
   
 
-Im Falle eines erneuten Gleichstandes nach den Tiebreaker-Matches wird eine sogenannte Zeitwertung angewandt. Hierzu wird die Summe der Spielzeit aller Niederlagen der Tiebreaker von der Summe der Spielzeit aller Siege abgezogen. Im Falle eines kampflosen Sieges wird die Matchzeit auf 15 Minuten festgelegt.
+Im Falle eines erneuten Gleichstandes nach den Tiebreaker-Matches wird eine sogenannte Zeitwertung angewandt. Hierzu wird die Summe der Spielzeit aller Siege der Tiebreaker von der Summe der Spielzeit aller Niederlagen abgezogen. Im Falle eines kampflosen Sieges wird die Matchzeit auf 15 Minuten festgelegt.
 
   
   
