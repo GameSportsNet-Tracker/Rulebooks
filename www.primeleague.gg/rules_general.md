@@ -1,9 +1,7 @@
 Das folgende Regelwerk gilt ausschließlich für die Divisionen 3-8, die Starter Division sowie die Playoffs zwischen Division 3 und Division 8.  
 Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/statics/rules_general_changelog) dargestellt.  
   
-[Regelwerk für die Pro Division](https://cdn1-v3.gamesports.net/img/themes/primeleague/rules_pro.pdf?2021-08-26)  
-  
-[Regelwerk für die Division 1](https://www.primeleague.gg/statics/rules_div1)  
+[Regelwerk für die Division 1 und 2](https://lec.gg/erl-rulebook)  
   
   
 
@@ -938,4 +936,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/statics/rules_general#top)  
   
-Letztes Update: 22.09.2021
+Letztes Update: 03.12.2021
