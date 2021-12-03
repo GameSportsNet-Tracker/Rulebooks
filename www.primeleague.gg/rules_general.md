@@ -1,4 +1,4 @@
-Das folgende Regelwerk gilt ausschließlich für die Divisionen 2-7, die Starter Division sowie die Playoffs zwischen Division 2 und Division 7.  
+Das folgende Regelwerk gilt ausschließlich für die Divisionen 3-8, die Starter Division sowie die Playoffs zwischen Division 3 und Division 8.  
 Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/statics/rules_general_changelog) dargestellt.  
   
 [Regelwerk für die Pro Division](https://cdn1-v3.gamesports.net/img/themes/primeleague/rules_pro.pdf?2021-08-26)  
@@ -253,7 +253,7 @@ Die erste Phase einer Saison ist die Anmeldephase. Zum Ende der Anmeldephase fin
   
   
 
-Teams können über die Kalibrierungsphase maximal in Division 3 gelangen. Teams, die bereits für die Pro Division, Division 1, Division 2 oder Division 3 qualifiziert sind, sind von der Teilnahme ausgeschlossen.
+Teams können über die Kalibrierungsphase maximal in Division 5 gelangen. Teams, die bereits für die Division 1, Division 2, Division 3 oder Division 4 qualifiziert sind, sind von der Teilnahme ausgeschlossen.
 
   
   
@@ -262,14 +262,12 @@ Die Kalibrierungsphase wird im Swiss-Format ausgetragen. Details zu diesem Forma
 
   
   
-_Hinweis: Ab dem Spring Split 2022 wird Division 3 nicht mehr über die Kalibrierungsphase erreichbar sein._  
-  
 
 ### Gruppenphase
 
   
 
-Die zweite Phase ist die Gruppenphase. Sie ist in verschiedene Divisionen, die die unterschiedlichen Skill-Level zum Ausdruck bringen sollen, aufgeteilt. Die höchste Spielklasse ist die "Pro Division", gefolgt von "Division 1", "Division 2" bis hin zur "Starter Division". Jede Division besteht aus einer oder mehreren Gruppen, die innerhalb der Division gleichwertig sind.
+Die zweite Phase ist die Gruppenphase. Sie ist in verschiedene Divisionen, die die unterschiedlichen Skill-Level zum Ausdruck bringen sollen, aufgeteilt. Die höchste Spielklasse ist die "Division 1", gefolgt von "Division 2", "Division 3" bis hin zur "Starter Division". Jede Division besteht aus einer oder mehreren Gruppen, die innerhalb der Division gleichwertig sind.
 
   
   
@@ -279,12 +277,12 @@ Die Erfolge aus der vorigen Saison und der Kalibrierungsphase bestimmen hierbei 
   
   
 
-In der Gruppenphase der Divisionen 2-7 besteht jede Gruppe aus bis zu acht (8) Teams. Gruppen werden im sogenannten "Round Robin"-Format ausgespielt, hierbei spielen alle Teams einmal im "Two Games"-Format gegeneinander.
+In der Gruppenphase der Divisionen 3-8 besteht jede Gruppe aus bis zu acht (8) Teams. Gruppen werden im sogenannten "Round Robin"-Format ausgespielt, hierbei spielen alle Teams einmal im "Two Games"-Format gegeneinander.
 
   
   
 
-Abhängig vom Platz zum Ende der Gruppenphase, können Teams in den Divisionen 2-7 folgende Platzierungen erreicht werden:  
+Abhängig vom Platz zum Ende der Gruppenphase, können Teams in den Divisionen 3-8 folgende Platzierungen erreicht werden:  
 
   
 *   Aufstieg in die nächsthöhere Division  
@@ -297,7 +295,7 @@ Abhängig vom Platz zum Ende der Gruppenphase, können Teams in den Divisionen 2
     
 
   
-Aus der Division 7 kann kein Abstieg erfolgen. Die genaue Verteilung wird zum Start einer Saison bekannt gegeben.
+Aus der Division 8 kann kein Abstieg erfolgen. Die genaue Verteilung wird zum Start einer Saison bekannt gegeben.
 
   
   
@@ -321,7 +319,7 @@ Das genaue Format der einzelnen Playoffs wird auf der Liga-Seite bekannt gegeben
   
   
 
-Playoffs werden lediglich zwischen den Division 2 und 4 ausgespielt.
+Playoffs werden lediglich zwischen den Division 3 und 5 ausgespielt.
 
   
   
@@ -616,7 +614,7 @@ Spielplan & Spielablauf
 
   
 
-**Division 2-7:** Ein Spieltag beginnt in der jeweiligen Woche am Montag um 0 Uhr und endet am übernächsten Sonntag um 23:59 Uhr. Somit dauert ein Spieltag 14 Tage. Ausgenommen ist hier der letzte Spieltag, der lediglich sieben (7) Tage dauert. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/leagues/prm) zu finden.  
+**Division 3-8:** Ein Spieltag beginnt in der jeweiligen Woche am Montag um 0 Uhr und endet am übernächsten Sonntag um 23:59 Uhr. Somit dauert ein Spieltag 14 Tage. Ausgenommen ist hier der letzte Spieltag, der lediglich sieben (7) Tage dauert. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/leagues/prm) zu finden.  
   
 **Starter Division:** Ein Spieltag beginnt in der jeweiligen Woche am Dienstag um 0 Uhr und endet Sonntag um 23:59 Uhr. Somit dauert ein Spieltag sechs (6) Tage. Der jeweilige Montag wird zu Prüfung von Protesten sowie der Erstellung der nächsten Runde genutzt. Der genaue Spielplan ist auf der [Turnierseite](https://www.primeleague.gg/leagues/prm) zu finden.
 
