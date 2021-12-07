@@ -251,7 +251,7 @@ Die erste Phase einer Saison ist die Anmeldephase. Zum Ende der Anmeldephase fin
   
   
 
-Teams können über die Kalibrierungsphase maximal in Division 5 gelangen. Teams, die bereits für die Division 1, Division 2, Division 3 oder Division 4 qualifiziert sind, sind von der Teilnahme ausgeschlossen.
+Teams können über die Kalibrierungsphase maximal in Division 5 gelangen. Teams, die bereits für die Division 1, Division 2, Division 3, Division 4 oder Division 5 qualifiziert sind, sind von der Teilnahme ausgeschlossen.
 
   
   
