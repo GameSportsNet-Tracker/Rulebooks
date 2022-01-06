@@ -3,7 +3,7 @@
   
 [Zurück zur Regelwerke-Übersicht](https://liga.99damage.de/statics/rules)  
   
-Die nachfolgenden Regeln gelten als Ergänzung zum allgemeinen 99Damage Liga [Regelwerk](https://liga.99damage.de/statics/league_rules_99liga) und präzisiert die Regelungen, die ausschließlich in der Division 1 Anwendung finden. Die Kontaktaufnahme mit dem Division 1 Admin ist sowohl über das Supportsystem als auch über den Division 1 Discord-Server, sowie dem direkten Steamchat erlaubt.  
+Die nachfolgenden Regeln gelten als Ergänzung zum allgemeinen ESL Meisterschaft by 99Damage[Regelwerk](https://liga.99damage.de/statics/league_rules_99liga) und präzisiert die Regelungen, die ausschließlich in der Division 1 Anwendung finden. Die Kontaktaufnahme mit dem Division 1 Admin ist sowohl über das Supportsystem als auch über den Division 1 Discord-Server, sowie dem direkten Steamchat erlaubt.  
   
   
 
@@ -151,7 +151,7 @@ Dies gilt auch, wenn beide Teams das Statement zum jeweiligen Match verspätet e
   
   
 
-Die Teams haben jegliche Interview-Anfragen seitens 99Damage bezüglich der 99Damage Liga in angemessenen Maßen nachzukommen.
+Die Teams haben jegliche Interview-Anfragen seitens 99Damage bezüglich der ESL Meisterschaft by 99Damage in angemessenen Maßen nachzukommen.
 
   
   

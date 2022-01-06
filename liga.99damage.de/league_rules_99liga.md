@@ -8,7 +8,7 @@ Jegliche Fragen und Beschwerden zur Liga müssen über ein [Support-Ticket](http
 
   
 
-Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [99Damage Liga-Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
+Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft by 99Damage Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
 
   
   
@@ -74,7 +74,7 @@ Allgemeines [(^)](https://liga.99damage.de/statics/league_rules_99liga/#top)
 
   
   
-Die 99Damage Liga ist eine Counter-Strike: Global Offensive Liga und dient der Förderung der Counter-Strike Szene im deutschsprachigen Raum.  
+Die ESL Meisterschaft by 99Damage ist eine Counter-Strike: Global Offensive Liga und dient der Förderung der Counter-Strike Szene im deutschsprachigen Raum.  
   
 
 ### Spieler und Teams
@@ -96,7 +96,7 @@ Ein Team ist spielberechtigt, wenn jegliche Kommunikation, sei es auf der Match-
 
   
   
-Die Anmeldung zu einer Saison in der 99Damage Liga ist offen für einen bestimmten Zeitraum - siehe hierzu den Countdown zum jeweiligen Saisonstart. Ausnahmslos alle Teams und Spieler müssen sich für eine neue Saison anmelden. Dies gilt auch für Teams und Spieler, die in der vorherigen Saison gespielt haben. Während einer laufenden Saison können keine neuen Teams beitreten.  
+Die Anmeldung zu einer Saison in der ESL Meisterschaft by 99Damage ist offen für einen bestimmten Zeitraum - siehe hierzu den Countdown zum jeweiligen Saisonstart. Ausnahmslos alle Teams und Spieler müssen sich für eine neue Saison anmelden. Dies gilt auch für Teams und Spieler, die in der vorherigen Saison gespielt haben. Während einer laufenden Saison können keine neuen Teams beitreten.  
   
 
 ### Liga-Administration
@@ -111,7 +111,7 @@ Jede natürliche Person, die von der Freaks 4U Gaming GmbH autorisiert wurde, di
   
   
 
-Mit der Teilnahme an der 99Damage Liga erkennen Spieler das Regelwerk ohne Einschränkung an und folgen den Anweisungen der Liga-Administration. Die Auslegung des Regelwerkes liegt allein im Ermessen der Liga-Administration. Entscheidungen können die nachfolgenden Regeln ersetzen, wenn diese dem Erhalt des Wettbewerbsgedankens entsprechen. Alle in diesem Regelwerk nicht aufgeführten Sonderfälle bedürfen einer individuellen Prüfung durch die Liga-Administration. Maßnahmen können von den hier genannten abweichen, werden aber in jedem Fall mit dem Grundsatz der Verhältnismäßigkeit sowie der Konformität mit dem restlichen Regelwerk verhängt. Spieler haben den Anweisungen der Liga-Administration Folge zu leisten.
+Mit der Teilnahme an der ESL Meisterschaft by 99Damage erkennen Spieler das Regelwerk ohne Einschränkung an und folgen den Anweisungen der Liga-Administration. Die Auslegung des Regelwerkes liegt allein im Ermessen der Liga-Administration. Entscheidungen können die nachfolgenden Regeln ersetzen, wenn diese dem Erhalt des Wettbewerbsgedankens entsprechen. Alle in diesem Regelwerk nicht aufgeführten Sonderfälle bedürfen einer individuellen Prüfung durch die Liga-Administration. Maßnahmen können von den hier genannten abweichen, werden aber in jedem Fall mit dem Grundsatz der Verhältnismäßigkeit sowie der Konformität mit dem restlichen Regelwerk verhängt. Spieler haben den Anweisungen der Liga-Administration Folge zu leisten.
 
   
   
@@ -136,7 +136,7 @@ Jeder Spieler muss die aktuellste Version von Counter-Strike: Global Offensive i
   
   
 
-Mit der Teilnahme an der 99Damage Liga bestätigt der Spieler das in seinem Land vorschriftliche Alter zum Spielen von Counter-Strike: Global Offensive erreicht zu haben.
+Mit der Teilnahme an der ESL Meisterschaft by 99Damage bestätigt der Spieler das in seinem Land vorschriftliche Alter zum Spielen von Counter-Strike: Global Offensive erreicht zu haben.
 
   
   
@@ -146,12 +146,12 @@ Mit der Teilnahme an der 99Damage Liga bestätigt der Spieler das in seinem Land
   
   
 
-Als journalistisches Medium diskutiert und berichtet 99Damage, die Freaks 4U Gaming GmbH und ihre Partner mit allen ihren Kanälen über die 99Liga und ist damit nicht verpflichtet vorab Betroffene der Berichterstattung über ihre Betroffenenrechte zu informieren. Des Weiteren wird keine Einwilligung für journalistische Verarbeitung von personenbezogenen Daten benötigt.
+Als journalistisches Medium diskutiert und berichtet 99Damage, die Freaks 4U Gaming GmbH und ihre Partner mit allen ihren Kanälen über die ESL Meisterschaft by 99Damage und ist damit nicht verpflichtet vorab Betroffene der Berichterstattung über ihre Betroffenenrechte zu informieren. Des Weiteren wird keine Einwilligung für journalistische Verarbeitung von personenbezogenen Daten benötigt.
 
   
   
 
-Jeder Spieler, der an einem Spiel in der 99Damage Liga teilnimmt, erklärt sich damit einverstanden, dass Spieler- sowie Teamnamen, Teamlogos sowie Ton- und Bildaufnahmen in denen der Spieler wiedergegeben werden für Veröffentlichungen auf Webseiten der Freaks 4U Gaming GmbH deren, Social-Media-Kanälen und im Rahmen der Presse unentgeltlich genutzt werden können. Die Freaks 4U Gaming GmbH ist damit zu einer zeitlich und örtlich uneingeschränkten und unbegrenzten Nutzung, Speicherung und Verwendung des Materials berechtigt.
+Jeder Spieler, der an einem Spiel in der ESL Meisterschaft by 99Damage teilnimmt, erklärt sich damit einverstanden, dass Spieler- sowie Teamnamen, Teamlogos sowie Ton- und Bildaufnahmen in denen der Spieler wiedergegeben werden für Veröffentlichungen auf Webseiten der Freaks 4U Gaming GmbH deren, Social-Media-Kanälen und im Rahmen der Presse unentgeltlich genutzt werden können. Die Freaks 4U Gaming GmbH ist damit zu einer zeitlich und örtlich uneingeschränkten und unbegrenzten Nutzung, Speicherung und Verwendung des Materials berechtigt.
 
   
   
@@ -166,12 +166,12 @@ Unter Game-Accounts ist lediglich der Steamprofil-Link einzutragen, die richtige
   
   
 
-Der Besitz von multiplen 99Damage User-Accounts ist untersagt und führt zur sofortigen Disqualifikation des Spielers sowie des Teams, sofern sich beide Accounts in dem selben Team-Account befinden, oder es dem Team nachweislich bewusst war, dass es sich um einen Multi-Account handelte (z.B. gleicher Clan).
+Der Besitz von multiplen Gamesports Network Nuter-Accounts ist untersagt und führt zur sofortigen Disqualifikation des Spielers sowie des Teams, sofern sich beide Accounts in dem selben Team-Account befinden, oder es dem Team nachweislich bewusst war, dass es sich um einen Multi-Account handelte (z.B. gleicher Clan).
 
   
   
 
-Mit der Teilnahme an der 99Damage Liga erklären sich alle Spieler einverstanden, dass ihre Steam ID sichtbar für Dritte ist.
+Mit der Teilnahme an der ESL Meisterschaft by 99Damage erklären sich alle Spieler einverstanden, dass ihre Steam ID sichtbar für Dritte ist.
 
   
   
@@ -191,7 +191,7 @@ Jedes Team ist für Logos, Teamnamen etc. selbst verantwortlich. Die Liga-Admini
   
   
 
-Die primäre Kommunikationsplattform für die 99Damage Liga ist die 99Damage Liga Webseite, welche unter liga.99damage.de zu finden ist. Andere Teams können mit Hilfe der unter dem jeweiligen Match befindlichen Kommentarfunktion kontaktiert werden.
+Die primäre Kommunikationsplattform für die ESL Meisterschaft by 99Damage ist die ESL Meisterschaft by 99Damage Webseite, welche unter liga.99damage.de zu finden ist. Andere Teams können mit Hilfe der unter dem jeweiligen Match befindlichen Kommentarfunktion kontaktiert werden.
 
   
   
@@ -206,7 +206,7 @@ Sollten Absprachen zwischen zwei (2) Teams außerhalb der Match-Kommentare (z.B.
   
   
 
-Mit der Teilnahme an der 99Damage Liga erklären Teams sich zur aktiven Teilnahme bereit. Um andere Teams nicht unnötig an Spieltagen warten zu lassen, sollte jedes Team stets zu dem ausgemachten Termin bzw. Standard-Zeitpunkt spielbereit sein.
+Mit der Teilnahme an der ESL Meisterschaft by 99Damage erklären Teams sich zur aktiven Teilnahme bereit. Um andere Teams nicht unnötig an Spieltagen warten zu lassen, sollte jedes Team stets zu dem ausgemachten Termin bzw. Standard-Zeitpunkt spielbereit sein.
 
   
   
@@ -216,7 +216,7 @@ Ein Team, das nicht länger aktiv an der Liga teilnehmen kann oder will, sollte 
   
   
 
-Teams, welche an zwei aufeinanderfolgenden Spieltagen nicht zum Match-Termin erscheinen, werden von der Liga-Administration nach Meldung durch eines der Divisions-Gruppen-Teams aus der laufenden Saison der 99Damage Liga ausgeschlossen und ihre offenen Matches geschlossen. Bereits ausgespielte Matches in Divisionen, die im Format Round Robin (Divisionen 1, 2 und 3) ausgespielt werden, werden resettet.
+Teams, welche an zwei aufeinanderfolgenden Spieltagen nicht zum Match-Termin erscheinen, werden von der Liga-Administration nach Meldung durch eines der Divisions-Gruppen-Teams aus der laufenden Saison der ESL Meisterschaft by 99Damage ausgeschlossen und ihre offenen Matches geschlossen. Bereits ausgespielte Matches in Divisionen, die im Format Round Robin (Divisionen 1, 2 und 3) ausgespielt werden, werden resettet.
 
   
   
@@ -237,7 +237,7 @@ Liga Struktur [(^)](https://liga.99damage.de/statics/league_rules_99liga)
 
   
   
-Eine Saison in der 99Damage Liga startet mit dem Zeitpunkt, an dem die Wechselslot-Regelung der jeweiligen Saison gültig wird und erstreckt sich über den Zeitraum von ca. drei Monaten. In dieser Zeit werden alle Spieltage sowie die Playoff-/Relegationsspiele absolviert. Für jede Saison muss sich erneut angemeldet werden. Dies gilt auch für Teams, welche bereits in der vergangenen Saison aktiv waren. Erfolgt keine Anmeldung zur Folge-Saison, gehen die Team-Erfolge verloren und somit auch der Anspruch auf einen Divisions-Slot einer höheren Division.  
+Eine Saison in der ESL Meisterschaft by 99Damage startet mit dem Zeitpunkt, an dem die Wechselslot-Regelung der jeweiligen Saison gültig wird und erstreckt sich über den Zeitraum von ca. drei Monaten. In dieser Zeit werden alle Spieltage sowie die Playoff-/Relegationsspiele absolviert. Für jede Saison muss sich erneut angemeldet werden. Dies gilt auch für Teams, welche bereits in der vergangenen Saison aktiv waren. Erfolgt keine Anmeldung zur Folge-Saison, gehen die Team-Erfolge verloren und somit auch der Anspruch auf einen Divisions-Slot einer höheren Division.  
   
 
 ### Divisionen
@@ -480,8 +480,7 @@ Muss ein Stand-in von Beginn an spielen, ist dieser statt eines aktiven Spielers
   
   
 
-Springt ein Stand-in, der kein bestätigter Spieler des Saison-Lineups ist, im laufenden Match für einen aktiven Spieler ein, dem es aus technischen Gründen nicht mehr möglich ist, am laufenden Match teilzunehmen, muss dieser in den Match-Kommentaren mit den Angaben "99Liga-Spieler-Profil-Link" / "99Liga-Team-Link (sofern in einem aktiven Team der Saison) / "Steam-ID"  
-angekündigt werden.
+Springt ein Stand-in, der kein bestätigter Spieler des Saison-Lineups ist, im laufenden Match für einen aktiven Spieler ein, dem es aus technischen Gründen nicht mehr möglich ist, am laufenden Match teilzunehmen, muss dieser in den Match-Kommentaren mit den Angaben "Gamesports Network Spieler-Profil-Link" / "ESL Meisterschaft by 99Damage-Team-Link (sofern in einem aktiven Team der Saison) / "Steam-ID" angekündigt werden.
 
   
   
@@ -685,7 +684,7 @@ Die Veröffentlichung von Protest-Inhalten führt zum sofortigen Ausschluss aus 
   
   
 
-Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [99Damage Liga-Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
+Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft by 99Damage-Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
 
   
   
@@ -1060,12 +1059,12 @@ Spiele der Division 1 und ausgewählte Spiele der Division 2 werden ausschließl
   
   
 
-Stream Overlays mit Sponsoren-Branding, die in direkter Konkurrenz zu den 99Damage Liga Partnern stehen, sind nicht erlaubt.
+Stream Overlays mit Sponsoren-Branding, die in direkter Konkurrenz zu den ESL Meisterschaft by 99Damage Partnern stehen, sind nicht erlaubt.
 
   
   
 
-Jeder Stream, sei es Caster oder InEye, muss "99Damage Liga" im Stream-Titel enthalten.
+Jeder Stream, sei es Caster oder InEye, muss "ESL Meisterschaft by 99Damage" im Stream-Titel enthalten.
 
   
   
@@ -1123,18 +1122,18 @@ Cheating[(^)](https://liga.99damage.de/statics/league_rules_99liga)
 
   
   
-Nur Spieler, die über eine eingetragene Steam ID ohne VAC Ban verfügen, sind in der 99Damage Liga spielberechtigt. Ist ein VAC gebannter Game-Account eingetragen, oder erhält der eingetragene Game-Account einen VAC Ban, ist der Spieler nicht mehr spielberechtigt. Es ist unerheblich, in welchem Spiel der Ban vergeben wurde oder wie lange dieser bereits besteht.  
+Nur Spieler, die über eine eingetragene Steam ID ohne VAC Ban verfügen, sind in der ESL Meisterschaft by 99Damage spielberechtigt. Ist ein VAC gebannter Game-Account eingetragen, oder erhält der eingetragene Game-Account einen VAC Ban, ist der Spieler nicht mehr spielberechtigt. Es ist unerheblich, in welchem Spiel der Ban vergeben wurde oder wie lange dieser bereits besteht.  
   
 
 ### Fremdligen-Bans
 
   
 
-Spieler welche einen Cheating-Ban in einer Fremd-Liga wie z.B. ESL, ESEA, FACEIT, Esportal haben und der Liga-Administration durch Protest gemeldet werden, werden für die Dauer von 2 Jahren (730 Tage) vom Spielbetrieb der 99Damage Liga ausgeschlossen, unabhängig davon wie lange der Cheating-Ban in der Fremd-Liga bereits besteht.
+Spieler welche einen Cheating-Ban in einer Fremd-Liga wie z.B. ESL, ESEA, FACEIT, Esportal haben und der Liga-Administration durch Protest gemeldet werden, werden für die Dauer von 2 Jahren (730 Tage) vom Spielbetrieb der ESL Meisterschaft by 99Damage ausgeschlossen, unabhängig davon wie lange der Cheating-Ban in der Fremd-Liga bereits besteht.
 
   
 
-Ausschließlich Cheating-Sperren führen zu einem Entzug der Spielberechtigung in der 99Damage Liga.
+Ausschließlich Cheating-Sperren führen zu einem Entzug der Spielberechtigung in der ESL Meisterschaft by 99Damage.
 
   
 
@@ -1221,7 +1220,7 @@ Das Benutzen von Programmen, Software und Hardware jeder Art zur Manipulation de
   
   
 
-Die Benutzung von "Simple radar" ist grundsätzlich erlaubt, jedoch auf eigene Gefahr. Jeder Benutzer ist selbst dafür verantwortlich, sich über Updates von Seiten von Valve aktuell zu halten. Im Falle eines Bans gelten die 99Damage Liga Cheating Regeln.
+Die Benutzung von "Simple radar" ist grundsätzlich erlaubt, jedoch auf eigene Gefahr. Jeder Benutzer ist selbst dafür verantwortlich, sich über Updates von Seiten von Valve aktuell zu halten. Im Falle eines Bans gelten die ESL Meisterschaft by 99Damage Cheating Regeln.
 
   
   

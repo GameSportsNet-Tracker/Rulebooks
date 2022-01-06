@@ -3,7 +3,7 @@
   
 [Zurück zur Regelwerke-Übersicht](https://liga.99damage.de/statics/rules)  
   
-Die nachfolgenden Regeln gelten als Ergänzung zum allgemeinen 99Damage Liga [Regelwerk](https://liga.99damage.de/statics/league_rules_99liga) und präzisiert die Regelungen, die ausschließlich in der Division 2 Anwendung finden. Die Kontaktaufnahme mit dem Division 2 Admin ist sowohl über das Supportsystem als auch über den Division 1 Discord-Server, sowie dem direkten Steamchat erlaubt.  
+Die nachfolgenden Regeln gelten als Ergänzung zum allgemeinen ESL Meisterschaft by 99Damage [Regelwerk](https://liga.99damage.de/statics/league_rules_99liga) und präzisiert die Regelungen, die ausschließlich in der Division 2 Anwendung finden. Die Kontaktaufnahme mit dem Division 2 Admin ist sowohl über das Supportsystem als auch über den Division 1 Discord-Server, sowie dem direkten Steamchat erlaubt.  
   
   
 
@@ -73,7 +73,7 @@ Löst sich das Team vollständig auf oder joint geschlossen einem anderen Team-A
   
   
 
-Ausschließlich Unternehmen, Vereine oder Gewerbe werden als Organisation angesehen. Clans, die bereits seit geraumer Zeit in den unterschiedlichen eSport – Titeln unter gleichem Namen auftreten und dies nachweisen können, können den Status Organisation ebenfalls erhalten. Hier bedarf es aber einer Anmeldung via Support-Ticket und einer Prüfung der Liga – Administration. Grundvoraussetzung hierbei ist eine aussagekräftige Homepage mit ausführlichem Impressum.
+Ausschließlich Unternehmen, Vereine oder Gewerbe werden als Organisation angesehen. Clans, die bereits seit geraumer Zeit in den unterschiedlichen eSport – Titeln unter gleichem Namen auftreten und dies nachweisen können, können den Status Organisation ebenfalls erhalten. Hier bedarf es aber einer Anmeldung via Support-Ticket und einer Prüfung der Liga–Administration. Grundvoraussetzung hierbei ist eine aussagekräftige Homepage mit ausführlichem Impressum.
 
   
   
@@ -329,4 +329,4 @@ Stellt ein Team des Matches das Lineup nicht fristgerecht ein, wird das Match au
 
   
   
-Die Teams haben jegliche Interview-Anfragen seitens 99Damage bezüglich der 99Damage Liga in angemessenen Maßen nachzukommen.
+Die Teams haben jegliche Interview-Anfragen seitens 99Damage bezüglich der ESL Meisterschaft by 99Damage in angemessenen Maßen nachzukommen.
