@@ -300,7 +300,7 @@ Je nach Art des Reports werden entweder entsprechende Strafen vergeben oder die 
 
   
 
-Ein jeder Spieler muss das anybrain Anti-Cheat-Tool herunterladen und auf seinem PC installieren. [Zum Download](https://anybrainpublicstorage.blob.core.windows.net/public/apps/freaks4u/99DamageLigaAC_Setup.exe)
+Ein jeder Spieler muss das anybrain Anti-Cheat-Tool herunterladen und auf seinem PC installieren. [Zum Download](https://anybrainpublicstorage.blob.core.windows.net/public/apps/freaks4u/ESLMby99DMG_AC_Setup.exe)
 
   
 
