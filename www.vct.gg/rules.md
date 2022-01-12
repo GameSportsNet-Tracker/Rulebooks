@@ -13,7 +13,7 @@
 
   
 
-Every person participating in the 2021 VALORANT Challengers hereby agrees to their player name as well as sound and image recordings of the player being used on websites of Freaks 4U Gaming GmbH, their Media and Broadcasting channels and as part of press reporting free of charge. The Freaks 4U Gaming GmbH is thus entitled to a temporally and locally unrestricted and unlimited use, storage and application of the material.
+Every person participating in the 2022 VALORANT Challengers hereby agrees to their player name as well as sound and image recordings of the player being used on websites of Freaks 4U Gaming GmbH, their Media and Broadcasting channels and as part of press reporting free of charge. The Freaks 4U Gaming GmbH is thus entitled to a temporally and locally unrestricted and unlimited use, storage and application of the material.
 
   
 
