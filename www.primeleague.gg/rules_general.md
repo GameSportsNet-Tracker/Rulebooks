@@ -624,7 +624,7 @@ Jedes Match besitzt einen sogenannten Ausweichtermin. Dieser ist nur dann der of
   
   
 
-Der Ausweichtermin innerhalb der Gruppenphase ist für die Divisionen 5, 6 und 7 sowie Starter Division immer Sonntag um 15 Uhr und für die Divisionen 2-4 immer Sonntag um 17 Uhr in der jeweiligen Spielwoche und wird auf den Matchseiten entsprechend als offizieller Matchtermin angezeigt.
+Der Ausweichtermin innerhalb der Gruppenphase ist für die Divisionen 6, 7 und 8 sowie Starter Division immer Sonntag um 15 Uhr und für die Divisionen 3-5 immer Sonntag um 17 Uhr in der jeweiligen Spielwoche und wird auf den Matchseiten entsprechend als offizieller Matchtermin angezeigt.
 
   
   
