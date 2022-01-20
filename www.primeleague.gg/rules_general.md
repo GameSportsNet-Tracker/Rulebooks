@@ -317,7 +317,7 @@ Das genaue Format der einzelnen Playoffs wird auf der Liga-Seite bekannt gegeben
   
   
 
-Playoffs werden lediglich zwischen den Division 3 und 5 ausgespielt.
+Playoffs werden lediglich zwischen den Divisionen 3 und 5 ausgespielt.
 
   
   
