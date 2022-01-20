@@ -4,7 +4,7 @@
 ### Additional Rules
 
   
-1\. [Global Competition Policy](https://www.dropbox.com/sh/lblshtlz5vnsqda/AABIELy6jk2dDK3xPuD_FUeca?preview=VALORANT+Champions+Tour+-+Global+Competition+Policy+v1.4.pdf)  
+1\. [Global Competition Policy](https://www.dropbox.com/sh/lblshtlz5vnsqda/AABIELy6jk2dDK3xPuD_FUeca?dl=0&preview=VALORANT+Champions+Tour+-+Global+Competition+Policy+v2.0Revised.docx.pdf)  
 2\. [Concurrent Ownership Policy](https://www.dropbox.com/s/62zwbfqf4kqiykx/VCT%20Concurrent%20Ownership%20Policy%20%28Dec.%202020%29.pdf?dl=0)  
 3\. [Bug List Patch 3.10](https://drive.google.com/file/d/1U_UeygrrszYIvydf00nepi4wMfl7hrlo/view) **This is not a complete list. If you encounter a bug please reach out to get this clarified.**  
   
