@@ -298,7 +298,7 @@ Aus der Division 8 kann kein Abstieg erfolgen. Die genaue Verteilung wird zum St
   
   
 
-Die Gruppenphase der Starter Division wird in nur einer Gruppe im Swiss-Format mit acht (8) Runden ausgespielt. Hierbei spielt jedes Team pro Runde ein Match im "Two Games"-Format. Abhängig von der Anzahl der erreichten Siege, werden die Teams für die Folgesaison in verschiedene Divisionen, maximal Division 4, oder in die Playoffs der laufenden Saison, maximal Division 3-4 Playoffs, eingestuft.
+Die Gruppenphase der Starter Division wird in nur einer Gruppe im Swiss-Format mit acht (8) Runden ausgespielt. Hierbei spielt jedes Team pro Runde ein Match im "Two Games"-Format. Abhängig von der Anzahl der erreichten Siege, werden die Teams für die Folgesaison in verschiedene Divisionen, maximal Division 5, oder in die Playoffs der laufenden Saison, maximal Division 4-5 Playoffs, eingestuft.
 
   
   
@@ -818,6 +818,7 @@ Aktuell gesperrte Champions
 
   
   
+Zeri  
   
 
   
@@ -936,4 +937,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/statics/rules_general#top)  
   
-Letztes Update: 03.12.2021
+Letztes Update: 21.01.2022
