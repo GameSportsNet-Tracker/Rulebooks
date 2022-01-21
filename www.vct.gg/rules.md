@@ -25,7 +25,7 @@ Usage of several GameSports accounts is prohibited.
 
   
 
-By participating in 2021 VALORANT Challengers, players agree that their Riot account is visible to third parties.
+By participating in 2022 VALORANT Challengers, players agree that their Riot account is visible to third parties.
 
   
 
