@@ -1,4 +1,4 @@
-[**VCT 2022 Rules**](https://drive.google.com/file/d/1Vu97z-yfQySalxQ7mGmjtpa2eGrK2F5n/view) (MUST READ!)  
+[**VCT 2022 Rules**](https://drive.google.com/file/d/1XXZXYcEQsc4BEB0IuvCNJeNIShrAwDnB/view) (MUST READ!)  
   
 
 ### Additional Rules
