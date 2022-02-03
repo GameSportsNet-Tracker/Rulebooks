@@ -818,7 +818,16 @@ Aktuell gesperrte Champions
 
   
   
-Zeri  
+Die folgende Liste ist möglicherweise nicht vollständig:  
+
+Champion
+
+Zeitraum
+
+\-
+
+\-
+
   
 
   
