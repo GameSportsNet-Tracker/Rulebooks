@@ -525,12 +525,12 @@ Zu den Relegationen sind keine Stand-Ins von Beginn eines Matches an zugelassen.
   
   
 
-Die Wechselslot-Regelung tritt für Saison 18 am 08.08.2021 um 18:00 Uhr (mit Ende der Anmeldephase) in Kraft.
+Die Wechselslot-Regelung tritt für die ESL Meisterschaft by 99Damage - Frühling 2022 tritt am 28.01.2022 um 18:00 Uhr (mit Ende der Anmeldephase) in Kraft.
 
   
   
 
-Der Roster-Lock tritt für Saison 18 am 04.10.2021 - 00:00 Uhr in Kraft.
+Der Roster-Lock tritt für ESL Meisterschaft by 99Damage - Frühling 2022 am 28.03.2022 - 00:00 Uhr in Kraft.
 
   
   
