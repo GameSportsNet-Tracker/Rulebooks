@@ -226,7 +226,7 @@ In Ausnahmefällen kann ein Match (auch kurzfristig) ohne Zustimmung des Gegners
     
 *   Flug-Annullierung welche min. 2 Spieler betrifft  
     
-*   Krankheit von min. Spieler des Stamm-Lineups (Attest-Pflicht)  
+*   Krankheit von min. 2 Spieler des Stamm-Lineups (Attest-Pflicht)  
     
 *   Todesfall in der Familie:  
     
