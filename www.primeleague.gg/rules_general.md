@@ -813,8 +813,13 @@ Neu veröffentlichte Champions sind erst ab dem auf die Veröffentlichung folgen
 
   
   
-\[swap="Aktuell gesperrte Champions"\]  
+
+Aktuell gesperrte Champions
+
   
+  
+  
+
   
   
 
