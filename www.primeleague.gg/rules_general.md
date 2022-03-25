@@ -1,7 +1,7 @@
 Das folgende Regelwerk gilt ausschließlich für die Divisionen 3-8, die Starter Division sowie die Playoffs zwischen Division 3 und Division 8.  
 Signifikante Änderungen werden seit dem 17.12.2020 in einem [Changelog](https://www.primeleague.gg/statics/rules_general_changelog) dargestellt.  
   
-[Regelwerk für die Division 1 und 2](https://lec.gg/erl-rulebook)  
+[Regelwerk für die Division 1 und 2](https://www.competitiveops.eu/)  
   
   
 
