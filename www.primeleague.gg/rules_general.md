@@ -293,9 +293,8 @@ Abhängig vom Platz zum Ende der Gruppenphase, können Teams in den Divisionen 3
     
 
   
-Aus der Division 8 kann kein Abstieg erfolgen. Die genaue Verteilung wird zum Start einer Saison bekannt gegeben.
+Aus der Division 8 kann kein Abstieg erfolgen. Die genaue Verteilung wird zum Start einer Saison auf den jeweiligen Gruppenseiten bekannt gegeben.
 
-  
   
 
 Die Gruppenphase der Starter Division wird in nur einer Gruppe im Swiss-Format mit acht (8) Runden ausgespielt. Hierbei spielt jedes Team pro Runde ein Match im "Two Games"-Format. Abhängig von der Anzahl der erreichten Siege, werden die Teams für die Folgesaison in verschiedene Divisionen, maximal Division 5, oder in die Playoffs der laufenden Saison, maximal Division 4-5 Playoffs, eingestuft.
