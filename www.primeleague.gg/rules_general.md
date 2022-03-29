@@ -501,7 +501,7 @@ Stimmberechtigt sind:
   
 *   Spieler, die mindestens sieben (7) Tage oder länger im Team-Account sind  
     
-*   Spieler, weniger als sieben (7) im Team-Account sind und seitdem mindestens ein (1) Match für das Team absolviert haben  
+*   Spieler, die weniger als sieben (7) Tage im Team-Account sind und seitdem mindestens ein (1) Match für das Team absolviert haben  
     
 *   Spieler, die in den letzten sieben (7) Tagen aus dem Team-Account entfernt wurden
 
@@ -935,4 +935,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/statics/rules_general#top)  
   
-Letztes Update: 27.03.2022
+Letztes Update: 29.03.2022
