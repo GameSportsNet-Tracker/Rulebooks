@@ -166,7 +166,7 @@ Unter Game-Accounts ist lediglich der Steamprofil-Link einzutragen, die richtige
   
   
 
-Der Besitz von multiplen Gamesports Network Nuter-Accounts ist untersagt und führt zur sofortigen Disqualifikation des Spielers sowie des Teams, sofern sich beide Accounts in dem selben Team-Account befinden, oder es dem Team nachweislich bewusst war, dass es sich um einen Multi-Account handelte (z.B. gleicher Clan).
+Der Besitz von multiplen Gamesports Network Nutzer-Accounts ist untersagt und führt zur sofortigen Disqualifikation des Spielers sowie des Teams, sofern sich beide Accounts in dem selben Team-Account befinden, oder es dem Team nachweislich bewusst war, dass es sich um einen Multi-Account handelte (z.B. gleicher Clan).
 
   
   
