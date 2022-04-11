@@ -14,6 +14,7 @@ Index
 
   
 2.  [Zusammensetzung Teams](https://liga.99damage.de/statics/league_rules_99liga_2nd/#teams)  
+      
     
 3.  [Spieltag & Spielablauf](https://liga.99damage.de/statics/league_rules_99liga_2nd/#spieltag)  
     
@@ -172,208 +173,29 @@ Spieler können während einer laufenden Saison bis zum 28.03.2022 - 00:00 Uhr b
   
   
 
-Spielplan & Spielablauf[(^)](https://liga.99damage.de/statics/league_rules_99liga_2nd/#top)
--------------------------------------------------------------------------------------------
+### Match-Statements
 
   
   
 
-### Spieltag / Spielzeit
+Zu jedem Spieltag sind Match- und Gegnerbezogene Statements zu verfassen. Diese sind in den Match-Kommentaren des jeweiligen Match bis spätestens 48 Stunden vor dem Match-Termin zu posten.
 
   
   
-Die Matches der Division 2.1 und Division 2.2 sind sonntags um 18.00 Uhr und 20.30 Uhr im wöchentlichen Wechsel der Uhrzeiten abzuhalten.  
-  
-
-### Verschieben
-
-  
-  
-
-In der ESL Meisterschaft by 99Damage gibt es grundsätzlich keine Wildcards.
-
-  
-  
-
-Sowohl das Tauschen von Spielterminen innerhalb der Match-Woche, als auch der Tausch gegen ein Match aus den Folgewochen ist möglich.
-
-  
-  
-
-Ausschließlich das Tauschen mit anderen Matches ist möglich, ein Verschieben ohne ein Tausch-Match ist ausgeschlossen.
-
-  
-  
-
-Matches des Spieltag 10 sind von der Verschiebung ausgeschlossen und müssen am entsprechenden Match-Termin ausgespielt werden.
-
-  
-  
-
-In Ausnahmefällen kann ein Match (auch kurzfristig) ohne Zustimmung des Gegners in eine der Pufferwochen verschoben werden. Ausnahmen sind:  
-
-*   Qualifier zu Events an denen mindestens 1/4 der Divisions-Gruppe teilnehmen wollen (ESL, Dreamhack, BLAST)  
-    
-*   Qualifier zu RMR Tournaments unabhängig ob andere Teams der Divisions-Gruppe teilnehmen wollen  
-    
-*   Die Qualifikation zu einem der vorherig genannten Tuniere  
-    
-*   Die Qualifikation zu einem Turnier vor Bekanntgabe der Match-Termin (Auslosung Gruppe)  
-    
-*   Höhere gewalt wie z.B.  
-    
-*   Internet-Ausfall im Bootcamp (gesamtes Team, keine Einzelspieler)  
-    
-*   Flug-Annullierung welche min. 2 Spieler betrifft  
-    
-*   Krankheit von min. 2 Spieler des Stamm-Lineups (Attest-Pflicht)  
-    
-*   Todesfall in der Familie:  
-    
-*   Lebenspartner  
-    
-*   Eigene Kinder  
-    
-*   Elternteil  
-    
-*   Großeltern
-
-  
-  
-
-### Pünktlichkeit
-
-  
-  
-
-Jedes Team hat vollständig zum festgesetzten Zeitpunkt spielbereit zu sein. Nach Erhalt der Server-IP durch den Admin wird wie folgt gestaffelt:  
-
-*   Nach 10 Minuten Default Loss Map 1  
-    
-*   Nach weiteren 5 Minuten (nach Erhalt der IP für den Server Map 2) Default Loss 2
-
-  
-
-Das Anwenden der Pause und Stand-in Regeln, um den Start weiter hinaus zu zögern, sind unzulässig.
-
-  
-  
-
-### Serveranfrage
-
-  
-  
-
-Die Server für die jeweiligen Maps sind von den Teams nach dem Map-Veto/Map-Ende selbst anzufordern.
-
-  
-  
-
-Sollte zum Standard-Match-Termin auf dem Twitch-Kanal noch ein laufendes Match der anderen Divisions-Gruppe übertragen werden, ist der Server erst nach Abschluss der Übertrag anzufordern.
-
-  
-  
-
-Die Teams haben selbst dafür Sorge zu tragen, das Match nicht zu beginnen, so lange eine lückenlose Übertragung nicht möglich ist.
-
-  
-  
-
-Wurde das Match frühzeitig begonnen, wird es von der Liga-Administration gestoppt und es muss von Beginn an neu ausgespielt werden, unabhängig des aktuellen Zwischenstand.
-
-  
-  
-
-### Coaching
-
-  
-  
-
-Die Teams haben zum Beginn der Saison, zum festgesetzten Zeitpunkt, welcher in der jeweiligen Saison-Übersicht-Email mitgeteilt wird, den Coach für die Saison zu bennen.
-
-  
-  
-
-Spätere Änderungen sind möglich, sind aber spätestens 48 Stunden vor dem nächsten Match-Termin mitzuteilen.
-
-  
-  
-
-Der Coach muss dem Team-Account gejoint sein.
-
-  
-  
-
-Ausschließlich ein (1) Coach pro Team darf dem Server joinen.
-
-  
-  
-
-Folgende zusätzliche Coach-Regelungen sind zu beachten:  
-
-*   Ein Jeder Coach muss das Spiel als auch Ton vom TS per OBS aufnehmen  
-    
-*   Im Anschluss zum Match muss dies per FTP auf einen unserer FTP-Server hochgeladen werden und wird hier mindestens 2 Wochen aufbewahrt  
-    
-*   Ein jedes Team erhält hier einen eigenen FTP-Zugang, zu dem auch nur das Team Zugang hat  
-    
-*   Die Aufnahme ist binnen 48 Stunden auf dem FTP-Account hochgeladen werden.
-
-  
-  
-
-### GOTV/Zuschauen/Streaming
 
-  
-  
-Ausgewählte Spiele der Division 2 werden ausschließlich von 99Damage Castern und/oder Partnern übertragen. Spiele, die nicht durch 99Damage selbst übertragen werden können, haben eine öffentliche GOTV IP und sind für jeden zum casten verfügbar.  
-  
-  
-
-Taktische und Technische Pausen[(^)](https://liga.99damage.de/statics/league_rules_99liga_1st/#top)
----------------------------------------------------------------------------------------------------
-
-  
-
-### Taktische Pausen
-
-  
-Jedem Team stehen pro Map vier (4) taktische Pausen à 45 Sekunden zur Verfügung. Die Pausen sind über die Ingame-Voting-Funktion zu setzen. Nach Ablauf der 45 Sekunden startet automatisch die Freezetime der nächsten Runde. Ein vorzeitiges Beenden der Pause ist nicht möglich.  
-  
-
-### Technische Pause
-
-  
-Sollte ein technisches Problem auftauchen, ist die Pause-Funktion des 99Bots zu nutzen und die Pause über den Server-Chat mit dem Befehl „!tech“ zu setzen. Es gibt keine Begrenzungen an Anzahl und Dauer der technischen Pausen. Das technische Problem ist entweder im Server-Chat oder im Discord-Match-Raum zu benennen.  
-  
-  
-
-Coverage[(^)](https://liga.99damage.de/statics/league_rules_99liga_2nd/#top)
-----------------------------------------------------------------------------
-
-  
-  
-
-### Lineup-Meldung
+Das Statement muss von einem Spieler des Teams verfasst werden. Alternativ stellt der Team-Manager es im Namen eines Spielers ein.
 
   
   
 
-Das Lineup ist auf der entsprechenden Match-Seite 48 Stunden vor dem Match-Termin im Lineup-Tool einzutragen.
+Stellt eines der matchbeteiligten Teams das Statement nicht oder verspätet ein, erhält der Gegner das Recht, beide auszuspielenden Maps zu bestimmen.
 
   
   
 
-Eine nachträgliche Änderung ist möglich, ist der Liga-Administration per [Support-Ticket](https://liga.99damage.de/users/support) mitzuteilen.
+Stellen beide matchbeteiligten Teams das Statement nicht oder verspätet ein, werden die Maps per Zufall ausgelost und den Teams entsprechend zum Match-Termin mitgeteilt.
 
-  
-  
-
-Stellt ein Team des Matches das Lineup nicht fristgerecht ein, wird das Match automatisch vom System geschlossen und das Match als Default-Loss gewertet. Stellen beide Teams das Lineup nicht fristgerecht ein, wird das Match ungespielt mit 0:0 -32/-32 Wertung automatisch geschlossen.
-
-  
-  
-  
+\[/%\]  
   
 
 ### Interviews
