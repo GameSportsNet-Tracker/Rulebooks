@@ -67,6 +67,13 @@ Ein Team ist dann spielberechtigt, wenn mindestens drei (3) von fünf (5) Spiele
   
   
 
+Spieler, die zur gleichen Zeit in einer sogenannten ["European Regional League" (ERL) oder "Professional Esports League"](https://www.competitiveops.eu/) teilnehmen, sind von der Teilnahme an der Prime League ausgeschlossen. Spieler, die nicht mehr Mitglied eines Teams einer ERL oder "Professional Esports League" sind, aber in zumindest 50% des regulären Splits in einer dieser Ligen teilgenommen haben, sind bis zum Abschluss des jeweiligen Splits von der Teilnahme an der Prime League ausgeschlossen.
+
+  
+  
+_Hinweis: Mit ERL sind lediglich die Divisionen 1 und 2 der jeweiligen Ligen gemeint. "Professional Esports League" sind Ligen, über die man sich für die Worlds qualifizieren kann, also beispielsweise die LEC, LCS oder TCL._  
+  
+
 ### Administration
 
   
@@ -464,7 +471,7 @@ In der Kalibrierungsphase sowie in den Playoffs sind keine Stand-Ins zugelassen.
 ### Wechselslots
 
   
-Teams können nach Ende der Signup-Phase bis Ende der Gruppenphase insgesamt vier (4) Spieler zum Lineup hinzufügen. Das Hinzufügen eines Spielers verbraucht einen Wechselslot.  
+Teams können nach Ende der Signup-Phase bis Ende der Gruppenphase insgesamt vier (4) Spieler zum Lineup hinzufügen. Das Hinzufügen eines Spielers verbraucht einen Wechselslot. Mit Beginn der Playoff-Phase ist das Hinzufügen von Spielern nicht mehr gestattet.  
   
 
 ### Spielertransfer
@@ -484,6 +491,8 @@ Ein Spieler kann während einer Saison lediglich einmal das Saison-Lineup wechse
 Ein Spieler kann nach Ende der vierten (4) Spielwoche nur noch dann einem Saison-Lineup beitreten, wenn er vorher kein Mitglied eines anderen Saison-Lineups war.
 
   
+  
+_Hinweis: Das Ende der vierten (4) Spielwoche im Summer Split 2022 ist: ._  
   
 
 ### Teameigentümer
@@ -524,6 +533,8 @@ Team-Accounts dürfen ohne weitere Absprache mit der Administration weitergegebe
 Unternehmen, Vereine, Clans oder Gewerbe können als Organisation eingetragen werden. Hier bedarf es einer Anmeldung des Team-Leaders via [Support-Ticket](https://www.primeleague.gg/users/support) und einer Prüfung der Liga–Administration. Hierbei müssen möglichst viele Informationen über die Organisation sowie der Prime League-Account eines Ansprechpartners bereitgestellt werden.
 
   
+  
+_Hinweis: Die Administration informiert im Falle einer Genehmigung alle Mitglieder des Teams über die Eintragung als Organisation. Die Mitglieder des Teams können diese Entscheidung binnen sieben (7) Tagen gemäß Regel 3.5.2 anfechten._  
   
 
 Die Administration behält sich das Recht vor, Teams eigenständig als Organisation einzutragen. Der Ansprechpartner wird dann von der Administration bestimmt und informiert.
@@ -808,7 +819,7 @@ Im Falle von technischen Problem zum Ende der Champion Selection, wie zum Beispi
   
   
 
-Neu veröffentlichte Champions sind erst ab dem auf die Veröffentlichung folgenden Patch spielbar. Darüberhinaus behält sich die Administration das Recht vor, einzelne Champions, etwa aufgrund von Bugs, temporär oder kurzfristig zu sperren.
+Neu veröffentlichte Champions sind für den Patch, auf dem sie veröffentlicht werden, gesperrt. Darüberhinaus behält sich die Administration das Recht vor, einzelne Champions, etwa aufgrund von Bugs, temporär oder kurzfristig zu sperren.
 
   
   
@@ -818,6 +829,16 @@ Aktuell gesperrte Champions
   
   
   
+
+  
+  
+
+Sollte ein Champion, der nach Regel 6.4.4 von einem Team als Pick ausgewählt werden, so ist die Champion Selection sofort zu unterbrechen und alle Picks und Bans müssen in identischer Reihenfolge wiederholt werden. Sollte die Champion Selection nicht abgebrochen werden und das Spiel nach Regel 6.3.5 als gestartet gewertet sein, werden Proteste bezüglich des Picks nicht angenommen.
+
+  
+  
+
+Sollte die Champion Selection von einem Team abgebrochen werden, so ist dieses Team angehalten das gegnerische Team über den oder die Gründe des Abbruchs unverzüglich zu informieren.
 
   
   
@@ -906,6 +927,14 @@ Betrugsversuche
 Die Benutzung von Software und Hardware, die League of Legends in irgendeiner Weise beeinflussen können, ist untersagt.  
   
 
+Nicht notwendigerweise vollständige Liste an nicht erlaubten Tools
+
+  
+[LeagueTracker](https://leaguetracker.gg/)  
+
+  
+  
+
 ### Bugs
 
   
@@ -935,4 +964,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/statics/rules_general#top)  
   
-Letztes Update: 29.03.2022
+Letztes Update: 04.05.2022
