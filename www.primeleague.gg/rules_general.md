@@ -71,7 +71,7 @@ Spieler, die zur gleichen Zeit in einer sogenannten ["European Regional League" 
 
   
   
-_Hinweis: Mit ERL sind lediglich die Divisionen 1 und 2 der jeweiligen Ligen gemeint. "Professional Esports League" sind Ligen, über die man sich für die Worlds qualifizieren kann, also beispielsweise die LEC, LCS oder TCL._  
+_Hinweis: Mit ERL sind lediglich die Divisionen 1 und 2 der jeweiligen Ligen gemeint. "Professional Esports League" sind Ligen, über die man sich für die Worlds qualifizieren kann, also beispielsweise die LEC, LCS oder TCL. Das Ende eines Splits dieser Ligen orientiert sich an Events wie European Masters, MSI, Worlds._  
   
 
 ### Administration
@@ -927,7 +927,7 @@ Betrugsversuche
 Die Benutzung von Software und Hardware, die League of Legends in irgendeiner Weise beeinflussen können, ist untersagt.  
   
 
-Nicht notwendigerweise vollständige Liste an nicht erlaubten Tools
+Nicht notwendigerweise vollständige Liste an nicht erlaubten Tools:
 
   
 [LeagueTracker](https://leaguetracker.gg/)  
