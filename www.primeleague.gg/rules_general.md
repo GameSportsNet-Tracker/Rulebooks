@@ -833,7 +833,7 @@ Aktuell gesperrte Champions
   
   
 
-Sollte ein Champion, der nach Regel 6.4.4 von einem Team als Pick ausgewählt werden, so ist die Champion Selection sofort zu unterbrechen und alle Picks und Bans müssen in identischer Reihenfolge wiederholt werden. Sollte die Champion Selection nicht abgebrochen werden und das Spiel nach Regel 6.3.5 als gestartet gewertet sein, werden Proteste bezüglich des Picks nicht angenommen.
+Sollte ein Champion nach Regel 6.4.4 von einem Team als Pick ausgewählt werden, so ist die Champion Selection sofort zu unterbrechen und alle Picks und Bans müssen in identischer Reihenfolge wiederholt werden. Sollte die Champion Selection nicht abgebrochen werden und das Spiel nach Regel 6.3.5 als gestartet gewertet sein, werden Proteste bezüglich des Picks nicht angenommen.
 
   
   
