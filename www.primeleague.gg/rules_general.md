@@ -552,7 +552,7 @@ Eine Weitergabe von Slots, sowohl innerhalb einer Organisation als auch an eine 
   
   
 
-Eine Organisation darf maximal ein (1) Team pro Gruppe stellen. Die Starter Division ist von dieser Einschränkung ausgeschlossen. Sollte sich ein zweites Team einer Organisation, das ein Team in der Division 1 stellt, sportlich für die Playoffs zur Division 1 qualifizieren, darf dieses Team an den Playoffs nicht teilnehmen. Die nächst bestplatzierten Teams aus derselben Gruppe rücken entsprechend nach.
+Eine Organisation darf maximal ein (1) Team pro Gruppe stellen. Die Starter Division ist von dieser Einschränkung ausgeschlossen. Sollte sich ein zweites Team einer Organisation, das ein Team in der Division 1 oder 2 stellt, sportlich für die Playoffs zur Division 2 qualifizieren, darf dieses Team an den Playoffs nicht teilnehmen. Die nächst bestplatzierten Teams aus derselben Gruppe rücken entsprechend nach.
 
   
   
@@ -964,4 +964,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/statics/rules_general#top)  
   
-Letztes Update: 04.05.2022
+Letztes Update: 05.06.2022
