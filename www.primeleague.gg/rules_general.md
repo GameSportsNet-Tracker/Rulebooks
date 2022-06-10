@@ -828,6 +828,16 @@ Aktuell gesperrte Champions
 
   
   
+Die folgende Liste ist möglicherweise nicht vollständig:  
+
+Champion
+
+Zeitraum
+
+\- Bel'Veth
+
+\- bis Patch 12.12
+
   
 
   
