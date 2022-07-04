@@ -924,7 +924,7 @@ Betrugsversuche
 ### Cheating
 
   
-Die Benutzung von Software und Hardware, die League of Legends in irgendeiner Weise beeinflussen können, ist untersagt.  
+Die Benutzung von Software und Hardware, die League of Legends in irgendeiner Weise beeinflussen können, ist untersagt. Insbesondere ist die Nutzung von Software, die innerhalb von League of Legends graphische Darstellungen wie Timer für Junglecamps oder Beschwörerzauber anbietet, untersagt.  
   
 
 Nicht notwendigerweise vollständige Liste an nicht erlaubten Tools:
@@ -964,4 +964,4 @@ Ein Regelbruch kann von der Bestrafung eines einzelnen Spielers, bis hin zur Bes
   
 [Zum Anfang](https://www.primeleague.gg/statics/rules_general#top)  
   
-Letztes Update: 05.06.2022
+Letztes Update: 04.07.2022
