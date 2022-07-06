@@ -8,19 +8,17 @@ Jegliche Fragen und Beschwerden zur Liga müssen über ein [Support-Ticket](http
 
   
 
-Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft by 99Damage Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
+Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
 
   
   
 
 Die Liga-Administration ist zu folgenden Zeiten in der laufenden Saison besetzt:  
-  
 
 *   Montag bis Freitag: 19:00 - 22:00 Uhr  
     
 *   Samstag und Sonntag: 13:30 - 22/23:00 Uhr (je nach Spielbetrieb)
 
-  
   
   
 
@@ -74,7 +72,7 @@ Allgemeines [(^)](https://liga.99damage.de/statics/league_rules_99liga/#top)
 
   
   
-Die ESL Meisterschaft by 99Damage ist eine Counter-Strike: Global Offensive Liga und dient der Förderung der Counter-Strike Szene im deutschsprachigen Raum.  
+Die ESL Meisterschaft ist eine Counter-Strike: Global Offensive Liga und dient der Förderung der Counter-Strike Szene im deutschsprachigen Raum.  
   
 
 ### Spieler und Teams
@@ -96,7 +94,7 @@ Ein Team ist spielberechtigt, wenn jegliche Kommunikation, sei es auf der Match-
 
   
   
-Die Anmeldung zu einer Saison in der ESL Meisterschaft by 99Damage ist offen für einen bestimmten Zeitraum - siehe hierzu den Countdown zum jeweiligen Saisonstart. Ausnahmslos alle Teams und Spieler müssen sich für eine neue Saison anmelden. Dies gilt auch für Teams und Spieler, die in der vorherigen Saison gespielt haben. Während einer laufenden Saison können keine neuen Teams beitreten.  
+Die Anmeldung zu einer Saison in der ESL Meisterschaft ist für einen bestimmten Zeitraum offen - siehe hierzu den Countdown zum jeweiligen Saisonstart. Ausnahmslos alle Teams und Spieler müssen sich für eine neue Saison anmelden. Dies gilt auch für Teams und Spieler, die in der vorherigen Saison gespielt haben. Während einer laufenden Saison können keine neuen Teams beitreten.  
   
 
 ### Liga-Administration
@@ -111,7 +109,7 @@ Jede natürliche Person, die von der Freaks 4U Gaming GmbH autorisiert wurde, di
   
   
 
-Mit der Teilnahme an der ESL Meisterschaft by 99Damage erkennen Spieler das Regelwerk ohne Einschränkung an und folgen den Anweisungen der Liga-Administration. Die Auslegung des Regelwerkes liegt allein im Ermessen der Liga-Administration. Entscheidungen können die nachfolgenden Regeln ersetzen, wenn diese dem Erhalt des Wettbewerbsgedankens entsprechen. Alle in diesem Regelwerk nicht aufgeführten Sonderfälle bedürfen einer individuellen Prüfung durch die Liga-Administration. Maßnahmen können von den hier genannten abweichen, werden aber in jedem Fall mit dem Grundsatz der Verhältnismäßigkeit sowie der Konformität mit dem restlichen Regelwerk verhängt. Spieler haben den Anweisungen der Liga-Administration Folge zu leisten.
+Mit der Teilnahme an der ESL Meisterschaft erkennen Spieler das Regelwerk ohne Einschränkung an und folgen den Anweisungen der Liga-Administration. Die Auslegung des Regelwerkes liegt allein im Ermessen der Liga-Administration. Entscheidungen können die nachfolgenden Regeln ersetzen, wenn diese dem Erhalt des Wettbewerbsgedankens entsprechen. Alle in diesem Regelwerk nicht aufgeführten Sonderfälle bedürfen einer individuellen Prüfung durch die Liga-Administration. Maßnahmen können von den hier genannten abweichen, werden aber in jedem Fall mit dem Grundsatz der Verhältnismäßigkeit sowie der Konformität mit dem restlichen Regelwerk verhängt. Spieler haben den Anweisungen der Liga-Administration Folge zu leisten.
 
   
   
@@ -136,7 +134,7 @@ Jeder Spieler muss die aktuellste Version von Counter-Strike: Global Offensive i
   
   
 
-Mit der Teilnahme an der ESL Meisterschaft by 99Damage bestätigt der Spieler das in seinem Land vorschriftliche Alter zum Spielen von Counter-Strike: Global Offensive erreicht zu haben.
+Mit der Teilnahme an der ESL Meisterschaft bestätigt der Spieler das in seinem Land vorschriftliche Alter zum Spielen von Counter-Strike: Global Offensive erreicht zu haben.
 
   
   
@@ -146,12 +144,12 @@ Mit der Teilnahme an der ESL Meisterschaft by 99Damage bestätigt der Spieler da
   
   
 
-Als journalistisches Medium diskutiert und berichtet 99Damage, die Freaks 4U Gaming GmbH und ihre Partner mit allen ihren Kanälen über die ESL Meisterschaft by 99Damage und ist damit nicht verpflichtet vorab Betroffene der Berichterstattung über ihre Betroffenenrechte zu informieren. Des Weiteren wird keine Einwilligung für journalistische Verarbeitung von personenbezogenen Daten benötigt.
+Als journalistisches Medium diskutiert und berichtet 99Damage, die Freaks 4U Gaming GmbH und ihre Partner mit allen ihren Kanälen über die ESL Meisterschaft und ist damit nicht verpflichtet vorab Betroffene der Berichterstattung über ihre Betroffenenrechte zu informieren. Des Weiteren wird keine Einwilligung für journalistische Verarbeitung von personenbezogenen Daten benötigt.
 
   
   
 
-Jeder Spieler, der an einem Spiel in der ESL Meisterschaft by 99Damage teilnimmt, erklärt sich damit einverstanden, dass Spieler- sowie Teamnamen, Teamlogos sowie Ton- und Bildaufnahmen in denen der Spieler wiedergegeben werden für Veröffentlichungen auf Webseiten der Freaks 4U Gaming GmbH deren, Social-Media-Kanälen und im Rahmen der Presse unentgeltlich genutzt werden können. Die Freaks 4U Gaming GmbH ist damit zu einer zeitlich und örtlich uneingeschränkten und unbegrenzten Nutzung, Speicherung und Verwendung des Materials berechtigt.
+Jeder Spieler, der an einem Spiel in der ESL Meisterschaft teilnimmt, erklärt sich damit einverstanden, dass Spieler- sowie Teamnamen, Teamlogos sowie Ton- und Bildaufnahmen in denen der Spieler wiedergegeben werden für Veröffentlichungen auf Webseiten der Freaks 4U Gaming GmbH deren, Social-Media-Kanälen und im Rahmen der Presse unentgeltlich genutzt werden können. Die Freaks 4U Gaming GmbH ist damit zu einer zeitlich und örtlich uneingeschränkten und unbegrenzten Nutzung, Speicherung und Verwendung des Materials berechtigt.
 
   
   
@@ -171,7 +169,7 @@ Der Besitz von multiplen Gamesports Network Nutzer-Accounts ist untersagt und f�
   
   
 
-Mit der Teilnahme an der ESL Meisterschaft by 99Damage erklären sich alle Spieler einverstanden, dass ihre Steam ID sichtbar für Dritte ist.
+Mit der Teilnahme an der ESL Meisterschaft erklären sich alle Spieler einverstanden, dass ihre Steam ID sichtbar für Dritte ist.
 
   
   
@@ -191,7 +189,7 @@ Jedes Team ist für Logos, Teamnamen etc. selbst verantwortlich. Die Liga-Admini
   
   
 
-Die primäre Kommunikationsplattform für die ESL Meisterschaft by 99Damage ist die ESL Meisterschaft by 99Damage Webseite, welche unter liga.99damage.de zu finden ist. Andere Teams können mit Hilfe der unter dem jeweiligen Match befindlichen Kommentarfunktion kontaktiert werden.
+Die primäre Kommunikationsplattform für die ESL Meisterschaft ist die ESL Meisterschaft Webseite, welche unter liga.99damage.de zu finden ist. Andere Teams können mit Hilfe der unter dem jeweiligen Match befindlichen Kommentarfunktion kontaktiert werden.
 
   
   
@@ -206,7 +204,7 @@ Sollten Absprachen zwischen zwei (2) Teams außerhalb der Match-Kommentare (z.B.
   
   
 
-Mit der Teilnahme an der ESL Meisterschaft by 99Damage erklären Teams sich zur aktiven Teilnahme bereit. Um andere Teams nicht unnötig an Spieltagen warten zu lassen, sollte jedes Team stets zu dem ausgemachten Termin bzw. Standard-Zeitpunkt spielbereit sein.
+Mit der Teilnahme an der ESL Meisterschaft erklären Teams sich zur aktiven Teilnahme bereit. Um andere Teams nicht unnötig an Spieltagen warten zu lassen, sollte jedes Team stets zu dem ausgemachten Termin bzw. Standard-Zeitpunkt spielbereit sein.
 
   
   
@@ -216,12 +214,12 @@ Ein Team, das nicht länger aktiv an der Liga teilnehmen kann oder will, sollte 
   
   
 
-Teams, welche an zwei aufeinanderfolgenden Spieltagen nicht zum Match-Termin erscheinen, werden von der Liga-Administration nach Meldung durch eines der Divisions-Gruppen-Teams aus der laufenden Saison der ESL Meisterschaft by 99Damage ausgeschlossen und ihre offenen Matches geschlossen. Bereits ausgespielte Matches in Divisionen, die im Format Round Robin (Divisionen 1, 2 und 3) ausgespielt werden, werden resettet.
+Teams, welche an zwei aufeinanderfolgenden Spieltagen nicht zum Match-Termin erscheinen, werden von der Liga-Administration nach Meldung durch eines der Divisions-Gruppen-Teams aus der laufenden Saison der ESL Meisterschaft ausgeschlossen und ihre offenen Matches geschlossen. Bereits ausgespielte Matches in Divisionen, die im Format Round Robin (Divisionen 1, 2 und 3) ausgespielt werden, werden resettet.
 
   
   
 
-Teams, die aufgrund von Inaktivität aus der laufenden Saison ausgetragen wurden, verlieren ihren Anspruch auf die bereits erlangten Erfolge des Team-Accounts. Das heißt, dass das Team bei Anmeldung zur Folgesaison in die Kalibrierungs-Division eingestuft wird.
+Teams, die aufgrund von Inaktivität aus der laufenden Saison ausgetragen wurden, verlieren ihren Anspruch auf die bereits erlangten Erfolge des Team-Accounts. Das heißt, dass das Team bei Anmeldung zur Folgesaison in die Division 6 eingestuft wird.
 
   
   
@@ -237,7 +235,7 @@ Liga Struktur [(^)](https://liga.99damage.de/statics/league_rules_99liga)
 
   
   
-Eine Saison in der ESL Meisterschaft by 99Damage startet mit dem Zeitpunkt, an dem die Wechselslot-Regelung der jeweiligen Saison gültig wird und erstreckt sich über den Zeitraum von ca. drei Monaten. In dieser Zeit werden alle Spieltage sowie die Playoff-/Relegationsspiele absolviert. Für jede Saison muss sich erneut angemeldet werden. Dies gilt auch für Teams, welche bereits in der vergangenen Saison aktiv waren. Erfolgt keine Anmeldung zur Folge-Saison, gehen die Team-Erfolge verloren und somit auch der Anspruch auf einen Divisions-Slot einer höheren Division.  
+Eine Saison in der ESL Meisterschaft startet mit dem Zeitpunkt, an dem die Wechselslot-Regelung der jeweiligen Saison gültig wird und erstreckt sich über den Zeitraum von ca. drei Monaten. In dieser Zeit werden alle Spieltage sowie die Playoff-/Relegationsspiele absolviert. Für jede Saison muss sich erneut angemeldet werden. Dies gilt auch für Teams, welche bereits in der vergangenen Saison aktiv waren. Erfolgt keine Anmeldung zur Folge-Saison, gehen die Team-Erfolge verloren und somit auch der Anspruch auf einen Divisions-Slot einer höheren Division.  
   
 
 ### Divisionen
@@ -245,7 +243,7 @@ Eine Saison in der ESL Meisterschaft by 99Damage startet mit dem Zeitpunkt, an d
   
   
 
-Die Divisionen klassifizieren den ungefähren Stärkegrad der einzelnen Teams. An der Spitze steht die Division 1, gefolgt von den Divisionen 2, 3, 4, 5 und Kalibrierungs-Division. Über den Aufstieg, beziehungsweise Abstieg, in einer Division wird anhand des Erfolges während der vorherigen Saison entschieden. Die Anzahl an Divisionen kann sich je nach Spielerzahl von Saison zu Saison ändern. Zudem behält sich die Liga-Administration das Recht vor, Teams zu Beginn einer Saison in die Divisionen 2 und 3 einzuladen.
+Die Divisionen klassifizieren den ungefähren Stärkegrad der einzelnen Teams. An der Spitze steht die Division 1, gefolgt von den Divisionen 2, 3, 4, 5 und 6. Über den Aufstieg, beziehungsweise Abstieg, in einer Division wird anhand des Erfolges während der vorherigen Saison entschieden. Die Anzahl an Divisionen kann sich je nach Spielerzahl von Saison zu Saison ändern. Zudem behält sich die Liga-Administration das Recht vor, Teams zu Beginn einer Saison in die Divisionen 2 und 3 einzuladen.
 
   
   
@@ -264,7 +262,7 @@ Von der Bewerbung ausgeschlossen sind Teams, welche in der Vorsaison bereits in 
 
   
   
-Die Division 3 ist in eine Vielzahl von Gruppen aufgeteilt. Eine Gruppe besteht aus maximal zehn Teams. Diese spielen nur gegen Teams aus ihrer jeweiligen Gruppe (Playoffs & Relegation sind davon ausgeschlossen) und nicht übergreifend. Die Anzahl und Größe der Gruppen können sich zwischen zwei Saisons ändern.  
+Die Division 3 ist in mehrere Gruppen aufgeteilt. Eine Gruppe besteht aus maximal zehn Teams. Diese spielen nur gegen Teams aus ihrer jeweiligen Gruppe (Playoffs & Relegation sind davon ausgeschlossen) und nicht übergreifend. Die Anzahl und Größe der Gruppen können sich zwischen zwei Saisons ändern.  
 Die Divisionen 4, 5 und Kalibirierungs-Division bestehen aus einer Gruppe mit allen Teams und werden im Swiss-Format ausgespielt.  
   
   
@@ -279,57 +277,71 @@ Anti Cheat [(^)](https://liga.99damage.de/statics/league_rules_99liga)
 ### Serverseitiges Anti-Cheat
 
   
+  
 
 Nach Abschluss eines jeden Matches werden die GOTV-Demos, welche in 64 Tick aufgezeichnet werden, an den Anti-Cheat-Partner übermittelt.
 
+  
   
 
 Die GOTV-Demos werden maschinell auf Unstimmigkeiten überprüft.
 
   
+  
 
 Werden Unstimmigkeiten festgestellt, so wird entsprechend ein Report an die Liga-Administration weitergeleitet.
 
+  
   
 
 Je nach Art des Reports werden entweder entsprechende Strafen vergeben oder die Demos an das Anti Cheat Team zur weiteren Überprüfung weitergeleitet und entsprechende Sperren erst nach einem einstimmigen Ergebnis der bearbeitenden Anti-Cheat-Admins ausgesprochen.
 
   
+  
 
 ### anybrain Anti-Cheat
 
+  
   
 
 Ein jeder Spieler muss das anybrain Anti-Cheat-Tool herunterladen und auf seinem PC installieren. [Zum Download](https://anybrainpublicstorage.blob.core.windows.net/public/apps/freaks4u/ESLMby99DMG_AC_Setup.exe)
 
   
+  
 
 Hinweise zur Installation und Handhabung findest Du im [Anti-Cheat-Guide](/statics/league_guides_anybrain)
 
+  
   
 
 Vor jedem Match muss das anybrain Anti-Cheat-Tool gestartet werden und es ist über den gesamten Zeitraum des Matches aktiviert zu lassen.
 
   
+  
 
 Wird das Tool nicht gestartet oder während des laufenden Matches deaktiviert, so erfolgt der automatische Kick vom Server.
 
+  
   
 
 Spieler, die auf Grund eines nicht aktivierten Anti-Cheat-Tools vom Server gekickt wurden, dürfen nach Aktivierung des Tools wieder dem Server joinen.
 
   
+  
 
 Das Anti-Cheat-Tool überwacht Maus- und Tastatur-Aktivitäten während des Matches und überprüft hier Unstimmigkeiten.
 
+  
   
 
 Werden Unstimmigkeiten festgestellt, wird entsprechend ein Report an die Liga-Administration weitergeleitet.
 
   
+  
 
 Je nach Art des Report werden entweder entsprechende Strafen vergeben oder die Demos an das Anti-Cheat-Team zur weiteren Überprüfung weitergeleitet und entsprechende Sperren erst nach einem einstimmigen Ergebnis der bearbeitenden Anti-Cheat-Admins ausgesprochen.
 
+  
   
   
 
@@ -344,7 +356,7 @@ Gruppen und Format [(^)](https://liga.99damage.de/statics/league_rules_99liga)
   
   
 
-Alle Gruppenspiele bestehen aus zwei Maps. Die Divisionen 1, 2 und 3 werden in einem Round-Robin-Format, die Kalibrierungs-Division im Swiss-Format ausgespielt. Bei einem Stand von 1:1 nach beiden Maps wird also keine dritte Map gespielt.
+Alle Gruppenspiele bestehen aus zwei Maps. Die Divisionen 1, 2 und 3 werden in einem Round-Robin-Format, die Divisionen 4, 5 und 6 im Swiss-Format ausgespielt. Bei einem Stand von 1:1 nach beiden Maps wird also keine dritte Map gespielt.
 
   
   
@@ -438,12 +450,12 @@ Zusammensetzung der Teams [(^)](https://liga.99damage.de/statics/league_rules_99
   
   
 
-Ein Team muss aus mindestens fünf (5) Spielern bestehen und auch zu fünft an jedem Spieltag antreten. Eine maximale Grenze an Spielern im Team gibt es nicht. Teams, die zum Anmeldeschluss nicht über die Mindestanzahl von fünf (5) zur Saison bestätigten Spielern verfügen, werden aus der Saison entfernt und sind nicht spielberechtigt. Zudem verlieren sie den Anspruch auf Wiedereingliederung in die jeweilige Division und müssen in der nächsten Saison in der Kalibrierungs-Division beginnen. Die Spieler sind für die laufende Saison spielberechtigt und können durch Nutzung eines Wechselslots anderen Teams beitreten. Spieler können während einer laufenden Saison bis zum Ende des Spieltages 7 begrenzt hinzugefügt und entfernt werden. Siehe hierzu die Regeln zu den Wechselslots.
+Ein Team muss aus mindestens fünf (5) Spielern bestehen und auch zu fünft an jedem Spieltag antreten. Eine maximale Grenze an Spielern im Team gibt es nicht. Teams, die zum Anmeldeschluss nicht über die Mindestanzahl von fünf (5) zur Saison bestätigten Spielern verfügen, werden aus der Saison entfernt und sind nicht spielberechtigt. Zudem verlieren sie den Anspruch auf Wiedereingliederung in die jeweilige Division und müssen in der nächsten Saison in der Division 6 beginnen. Die Spieler sind für die laufende Saison spielberechtigt und können durch Nutzung eines Wechselslots anderen Teams beitreten. Spieler können während einer laufenden Saison bis zum Ende des Spieltages 7 begrenzt hinzugefügt und entfernt werden. Siehe hierzu die Regeln zu den Wechselslots.
 
   
   
 
-Teams, die in der laufenden Saison kein spielberechtigtes Lineup mehr stellen können, werden von der Liga-Administration nach Meldung durch eines der Divisions-Gruppen-Teams aus der laufenden Saison ausgetragen. Teams, die aufgrund dessen aus der laufenden Saison ausgetragen wurden, verlieren ihren Anspruch auf die bereits erlangten Erfolge des Team-Accounts. Das heißt, dass das Team bei Anmeldung zur Folgesaison in die Kalibrierungs-Divisions eingestuft wird.
+Teams, die in der laufenden Saison kein spielberechtigtes Lineup mehr stellen können, werden von der Liga-Administration nach Meldung durch eines der Divisions-Gruppen-Teams aus der laufenden Saison ausgetragen. Teams, die aufgrund dessen aus der laufenden Saison ausgetragen wurden, verlieren ihren Anspruch auf die bereits erlangten Erfolge des Team-Accounts. Das heißt, dass das Team bei Anmeldung zur Folgesaison in die Division 6 eingestuft wird.
 
   
   
@@ -465,6 +477,36 @@ Spieler die Ihre Teilnahme an der Season bestätigt haben sind, für das eigene 
   
   
 
+### Aufstieg in die Division 2
+
+  
+  
+
+Teams in der Division 2 müssen ein mehrheitlich aus D-A-CH-Spielern bestehendes Lineup stellen, daher ist der Aufstieg in die Division 2 auch nur mit einem mehrheitlich aus D-A-CH-Spielern bestehenden Linuep möglich.
+
+  
+  
+
+Qualifiziert sich ein Team für die Division 2-3 Playoffs, so ist bereits zu den Playoffs ein mehrheitlich aus D-A-CH-Spielern bestehendes Lineup zu stellen. Teams müssen dies zwischen Spieltag 9 und den Playoffs nachweisen. Informationen über den Verifikations-Prozess werden den Teams zu Beginn der Anmeldephase per Email mitgeteilt.
+
+  
+  
+
+Kann ein Team zu den Division 2-3 Playoffs kein mehrheitlich aus D-A-CH-Spielern bestehendes Lineup stellen, so geht der Playoffs-Slot automatisch an das nächstplatzierte Team in der Gruppe. Auch dieses Team muss dann nachweisen, dass es ein mehrheitlich aus D-A-CH-Spielern bestehendes Lineup stellen kann.
+
+  
+  
+
+Für die Division 3 Round-Robin-Stage sind die übrigen Regeln bezüglich der Lineup-Zusammensetzung, [auch die Sprache betreffend](https://liga.99damage.de/statics/league_rules_99liga/#sprache), weiterhin gültig. Auch die Roster-Lock-Regelungen sind weiterhin gültig. Möchte ein Team bei entsprechender Platzierung an den Playoffs teilnehmen, so muss es also bereits zum Roster-Lock ein mehrheitlich aus D-A-CH-Spielern bestehendes Lineup stellen.
+
+  
+  
+
+Qualifiziert sich ein Team über die Division 2-3 Playoffs für die Division 2, so ist die Division 2 Lizenz an ein Mehrheitslineup gebunden. (Siehe ESL Meisterschaft Regelwerk Division 2 – [Regel 1.5](https://liga.99damage.de/statics/league_rules_99liga_2nd/#teams)) Kann nach den Playoffs ein solches Mehrheitslineup nicht gestellt werden, so kann nicht an der Division 2 teilgenommen werden.
+
+  
+  
+
 ### Stand-ins/Ersatzspieler
 
   
@@ -475,32 +517,7 @@ Als Stand-in bezeichnet man einen Spieler, der nicht im aktiven Saison-Lineup de
   
   
 
-Muss ein Stand-in von Beginn an spielen, ist dieser statt eines aktiven Spielers des Saison-Lineups im Lineup des Matches einzutragen. (Siehe Regel 8.1.2)
-
-  
-  
-
-Springt ein Stand-in, der kein bestätigter Spieler des Saison-Lineups ist, im laufenden Match für einen aktiven Spieler ein, dem es aus technischen Gründen nicht mehr möglich ist, am laufenden Match teilzunehmen, muss dieser in den Match-Kommentaren mit den Angaben "Gamesports Network Spieler-Profil-Link" / "ESL Meisterschaft by 99Damage-Team-Link (sofern in einem aktiven Team der Saison) / "Steam-ID" angekündigt werden.
-
-  
-  
-
-Der ausgetauschte Spieler ist für die entsprechende Map nicht mehr spielberechtigt, darf aber für weitere auszuspielende Maps wieder eingesetzt werden.
-
-  
-  
-
 Es sind maximal zwei (2) Stand-Ins pro Match in einem Team erlaubt.
-
-  
-  
-
-Jedes Team darf insgesamt bis zu dreimal (3) einen Stand-In von Beginn eines Matches an während einer Saison einsetzen.
-
-  
-  
-
-Pro Team darf maximal einmal (1) derselbe Stand-In von Beginn eines Matches an pro Saison aushelfen.
 
   
   
@@ -510,12 +527,36 @@ Ein Spieler darf nur als Stand-In eingesetzt werden, wenn dieser kein bestätigt
   
   
 
-Ab Inkrafttreten des Roster-Locks sind keine Stand-ins von Beginn des Matches an zugelassen.
+Pro Team darf maximal einmal (1) derselbe Stand-In pro Saison aushelfen.
 
   
   
 
-Zu den Relegationen sind keine Stand-Ins von Beginn eines Matches an zugelassen.
+Soll ein Spieler ein zweites (2.) Mal als Stand-In eingesetzt werden, so ist dies nicht möglich. Stattdessen muss der Spieler dem Saison-Lineup beitreten (sofern der Roster-Lock nicht aktiv ist) und dabei einen Wechsel-Slot verbrauchen, um als regulärer Spieler gezählt zu werden und am Spiel teilnehmen zu können.
+
+  
+
+Muss ein Stand-in von Beginn an spielen, ist dieser statt eines aktiven Spielers des Saison-Lineups im Lineup des Matches einzutragen. (Siehe Regel 8.1.2)
+
+  
+  
+
+Jedes Team darf insgesamt bis zu dreimal (3) einen Stand-In von Beginn eines Matches an während einer Saison einsetzen.
+
+  
+  
+
+Ab Inkrafttreten des Roster-Locks sind keine Stand-ins von Beginn des Matches an zugelassen. Hiervon sind auch die Playoffs bzw. die Relegationen betroffen.
+
+  
+  
+
+Springt ein Stand-in, der kein bestätigter Spieler des Saison-Lineups ist, im laufenden Match für einen aktiven Spieler ein, dem es aus technischen Gründen nicht mehr möglich ist, am laufenden Match teilzunehmen, muss dieser in den Match-Kommentaren mit den Angaben "Gamesports Network Spieler-Profil-Link" / "ESL Meisterschaft Team-Link (sofern in einem aktiven Team der Saison) / "Steam-ID" sowie via Support-Ticket angekündigt werden. Das Support-Ticket kann auch bis maximal 45 Minuten nach Ende des Matches nachgereicht werden.
+
+  
+  
+
+Der ausgetauschte Spieler ist für die entsprechende Map nicht mehr spielberechtigt, darf aber für weitere auszuspielende Maps wieder eingesetzt werden.
 
   
   
@@ -525,12 +566,12 @@ Zu den Relegationen sind keine Stand-Ins von Beginn eines Matches an zugelassen.
   
   
 
-Die Wechselslot-Regelung tritt für die ESL Meisterschaft by 99Damage - Frühling 2022 tritt am 28.01.2022 um 18:00 Uhr (mit Ende der Anmeldephase) in Kraft.
+Die Wechselslot-Regelung tritt für die ESL Meisterschaft - Herbst 2022 tritt am 05.08.2022 um 18:00 Uhr (mit Ende der Anmeldephase) in Kraft.
 
   
   
 
-Der Roster-Lock tritt für ESL Meisterschaft by 99Damage - Frühling 2022 am 28.03.2022 - 00:00 Uhr in Kraft.
+Der Roster-Lock tritt für ESL Meisterschaft - Herbst 2022 am 03.10.2022 - 00:00 Uhr in Kraft.
 
   
   
@@ -585,7 +626,7 @@ Ein Wechsel innerhalb der gleichen Divisions-Gruppe ist nach Inkrafttreten der W
   
   
 
-Dies gilt nicht innerhalb der Divisionen 4, 5, Kalibrierung.
+Dies gilt nicht innerhalb der Divisionen 4, 5 und 6.
 
   
   
@@ -612,12 +653,12 @@ b) Spieler, die in den letzten 7 Tagen aus dem Team-Account gekickt wurden
   
   
 
-Die Team-Accounts der Division 3 und darunter (inkl. Kalibrierungs-Division) dürfen ohne weitere Absprache mit der Liga-Administration weitergegeben werden. Hier ist zu beachten, dass dies nur ohne Gegenleistungen erlaubt ist. Ein Verkauf gegen Geld oder Sachleistungen ist komplett ausgeschlossen.
+Die Team-Accounts der Divisionen 3, 4, 5 und 6 dürfen ohne weitere Absprache mit der Liga-Administration weitergegeben werden. Hier ist zu beachten, dass dies nur ohne Gegenleistungen erlaubt ist. Ein Verkauf gegen Geld oder Sachleistungen ist komplett ausgeschlossen.
 
   
   
 
-Sollte der Verkauf gegen Geld, Dienstleistungen oder Sachleistungen bekannt werden, werden alle zum Zeitpunkt des Team-Beitritts des Käufers im Team-Account befindlichen sowie die nachfolgend beitretenden Spieler für die kommende Saison gesperrt. Ausgenommen sind Spieler, die nach Inkrafttreten der Wechselslot-Regelung dem Team-Account beigetreten sind. Der Leader und der Käufer werden für die zwei (2) folgenden Saisons gesperrt. Der Team-Account verliert im Zuge dessen sämtliche Erfolge und wird bei erneuter Anmeldung in die Kalibrierungs-Division eingestuft.
+Sollte der Verkauf gegen Geld, Dienstleistungen oder Sachleistungen bekannt werden, werden alle zum Zeitpunkt des Team-Beitritts des Käufers im Team-Account befindlichen sowie die nachfolgend beitretenden Spieler für die kommende Saison gesperrt. Ausgenommen sind Spieler, die nach Inkrafttreten der Wechselslot-Regelung dem Team-Account beigetreten sind. Der Leader und der Käufer werden für die zwei (2) folgenden Saisons gesperrt. Der Team-Account verliert im Zuge dessen sämtliche Erfolge und wird bei erneuter Anmeldung in die Division 6 eingestuft.
 
   
   
@@ -684,7 +725,7 @@ Die Veröffentlichung von Protest-Inhalten führt zum sofortigen Ausschluss aus 
   
   
 
-Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft by 99Damage-Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
+Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
 
   
   
@@ -739,7 +780,6 @@ Timetables werden nur bearbeitet, wenn folgende Kriterien erfüllt werden:
     
 *   Angaben entsprechen in der Form den Vorgaben, welche im Timetable Guide vorgegeben sind.
 
-  
   
 
 Werden diese Vorgaben nicht erfüllt, wird der Protest auf Grund von Unvollständigkeit abgelehnt.
@@ -987,12 +1027,17 @@ Es gelten 15 Minuten Wartezeit nach Ende von Map Nr. 1. Ist das gegnerische Team
   
   
 
-Die Messerrunde entscheidet welches Team die Startseite wählen darf. In der Messerrunde ist es nicht erlaubt, die Bombe zu legen. Wie die Startseite nach der Messer Runde gewählt werden kann findet man im [Tutorial zum 99Bot.](https://liga.99damage.de/statics/league_guides_99bot)
-
-  
-  
-
 Das erstgenannte Team auf der Match-Seite (links) hat beim Betreten des Servers der CT-Seite zu joinen und das zweitgenannte Team auf der Match-Seite (rechts) hat beim Betreten des Servers der T-Seite zu joinen.
+
+  
+  
+
+Es gibt keine Messer-Runde mehr. Stattdessen muss das Team, welches die Karte gewählt hat, in der Runde, die nach dem Ready-Up beider Teams folgt, den "kill" Befehl in der Konsole ausführen, sodass anschließend das andere Team die Seitenwahl hat.
+
+  
+  
+
+Wie die Startseite gewählt wird kann man im [Tutorial zum 99Bot](https://liga.99damage.de/statics/league_guides_99bot) nachlesen. Wie man die Konsole aktiviert kann man den ersten beiden Schritten unseres [Status-Screenshot-Guides](https://liga.99damage.de/https://liga.99damage.de/statics/league_guides_statusscreen) entnehmen.
 
   
   
@@ -1007,17 +1052,41 @@ Pausen sind nur während einer Freeze Time möglich.
   
   
 
-Eine Map darf ausschließlich über den 99Bot pausiert werden. Wie man die Pause-Funktion nutzt, ist im [Tutorial zum 99Bot.](https://liga.99damage.de/statics/league_guides_99bot) erklärt. Die Pause setzt dann in der aktuellen, beziehungsweise der nächsten kommenden Freeze Time ein.
+Es wird zwischen taktischen Pausen (auch Timeouts genannt) und technischen Pausen unterschieden.
 
   
   
 
-Jedes Team darf insgesamt nur 10 Minuten pro Map pausieren. Teams müssen hierfür eigenständig die Zeit im Auge behalten.
+Für jede Karte stehen jedem Team vier (4) taktische Pausen von je 45 Sekunden zur Verfügung. Diese sind entweder über den 99Bot mit dem Befehl "!tac" im Ingame-Chat oder über die Ingame-Voting-Funktion zu ziehen.
 
   
   
 
-Sollte die Gesamt-Pause-Zeit von 10 Minuten überschritten werden, so hat das andere Team das Recht weiterzuspielen. Dieser Forderung muss stattgegeben werden.
+Für jede Karte stehen jedem Team zusätzlich bis zu zwei (2) Pausen mit insgesamt maximal zehn (10) Minuten Länge auf Grund von technischen Problemen zu. Diese kann nur über 99Bot mit dem Befehl "!pause" im Ingame-Chat gezogen werden.
+
+  
+  
+
+Wird die gesamte Pausenzeit innerhalb von einer technischen Pause benötigt, so entfällt die Möglichkeit, ein zweites Mal die technische Pause zu nutzen.
+
+  
+  
+
+Werden zwei technische Pausen genutzt, die Gesamt-Pausenzeit von zehn Minuten aber nicht vollständig ausgenutzt, so verfällt die restliche Pausenzeit.
+
+  
+
+Wie man die Pausen-Funktionen nutzt, ist im [Tutorial zum 99Bot](https://liga.99damage.de/statics/league_guides_99bot) erklärt. Die Pause setzt dann in der aktuellen, beziehungsweise der nächsten kommenden Freeze Time ein.
+
+  
+  
+
+Jedes Team darf insgesamt nur 10 Minuten pro Karte auf Grund von technischen Problemen pausieren. Teams müssen hierfür eigenständig die Zeit im Auge behalten.
+
+  
+  
+
+Sollte die Gesamt-Zeit für Pausen auf Grund von technischen Problemen von 10 Minuten überschritten werden, so hat das andere Team das Recht weiterzuspielen. Dieser Forderung muss stattgegeben werden.
 
   
   
@@ -1027,7 +1096,7 @@ Eine Beschwerde gegen den Verstoß dieser Regeln kann nach Ende des Matches eing
   
   
 
-Wird der klaren Aufforderung, das Match wegen Überschreitung der Pausen-Zeit fortzuführen, nicht nachgekommen, wird die jeweilige Map als Default-Win für das wartende Team gewertet.
+Wird der klaren Aufforderung, das Match wegen Überschreitung der Gesamt-Zeit für Pausen auf Grund von technischen Problemen fortzuführen, nicht nachgekommen, wird die jeweilige Map als Default-Win für das wartende Team gewertet.
 
   
   
@@ -1059,12 +1128,12 @@ Spiele der Division 1 und ausgewählte Spiele der Division 2 werden ausschließl
   
   
 
-Stream Overlays mit Sponsoren-Branding, die in direkter Konkurrenz zu den ESL Meisterschaft by 99Damage Partnern stehen, sind nicht erlaubt.
+Stream Overlays mit Sponsoren-Branding, die in direkter Konkurrenz zu den ESL Meisterschaft Partnern stehen, sind nicht erlaubt.
 
   
   
 
-Jeder Stream, sei es Caster oder InEye, muss "ESL Meisterschaft by 99Damage" im Stream-Titel enthalten.
+Jeder Stream, sei es Caster oder InEye, muss "ESL Meisterschaft" im Stream-Titel enthalten.
 
   
   
@@ -1122,18 +1191,18 @@ Cheating[(^)](https://liga.99damage.de/statics/league_rules_99liga)
 
   
   
-Nur Spieler, die über eine eingetragene Steam ID ohne VAC Ban verfügen, sind in der ESL Meisterschaft by 99Damage spielberechtigt. Ist ein VAC gebannter Game-Account eingetragen, oder erhält der eingetragene Game-Account einen VAC Ban, ist der Spieler nicht mehr spielberechtigt. Es ist unerheblich, in welchem Spiel der Ban vergeben wurde oder wie lange dieser bereits besteht.  
+Nur Spieler, die über eine eingetragene Steam ID ohne VAC Ban verfügen, sind in der ESL Meisterschaft spielberechtigt. Ist ein VAC gebannter Game-Account eingetragen, oder erhält der eingetragene Game-Account einen VAC Ban, ist der Spieler nicht mehr spielberechtigt. Es ist unerheblich, in welchem Spiel der Ban vergeben wurde oder wie lange dieser bereits besteht.  
   
 
 ### Fremdligen-Bans
 
   
 
-Spieler welche einen Cheating-Ban in einer Fremd-Liga wie z.B. ESL, ESEA, FACEIT, Esportal haben und der Liga-Administration durch Protest gemeldet werden, werden für die Dauer von 2 Jahren (730 Tage) vom Spielbetrieb der ESL Meisterschaft by 99Damage ausgeschlossen, unabhängig davon wie lange der Cheating-Ban in der Fremd-Liga bereits besteht.
+Spieler welche einen Cheating-Ban in einer Fremd-Liga wie z.B. ESL, ESEA, FACEIT, Esportal haben und der Liga-Administration durch Protest gemeldet werden, werden für die Dauer von 2 Jahren (730 Tage) vom Spielbetrieb der ESL Meisterschaft ausgeschlossen, unabhängig davon wie lange der Cheating-Ban in der Fremd-Liga bereits besteht.
 
   
 
-Ausschließlich Cheating-Sperren führen zu einem Entzug der Spielberechtigung in der ESL Meisterschaft by 99Damage.
+Ausschließlich Cheating-Sperren führen zu einem Entzug der Spielberechtigung in der ESL Meisterschaft.
 
   
 
@@ -1156,7 +1225,7 @@ Erhält ein Spieler einen Cheating-Bann innerhalb des Gamesports-Netzwerkes, erh
   
   
 
-Wird ein Spieler in der laufenden Saison aufgrund eines Cheating-Banns ausgeschlossen, wird das Team aus dieser Saison ausgeschlossen. Alle bestätigten Spieler des Saison-Lineups erhalten zusätzlich eine Sperre für die laufende als auch nachfolgende Saison. Der Team-Account verliert alle gesammelten Erfolge und wird, bei erneuter Anmeldung in die Kalibrierungs-Division eingestuft.
+Wird ein Spieler in der laufenden Saison aufgrund eines Cheating-Banns ausgeschlossen, wird das Team aus dieser Saison ausgeschlossen. Alle bestätigten Spieler des Saison-Lineups erhalten zusätzlich eine Sperre für die laufende als auch nachfolgende Saison. Der Team-Account verliert alle gesammelten Erfolge und wird, bei erneuter Anmeldung in die Division 6 eingestuft.
 
   
   
@@ -1203,7 +1272,7 @@ Die Nutzung folgender (bekannter) Bugs ist nicht erlaubt:
 **Flash-Bug**: Eine Flash durch das Spieler-Model eines Teamkameraden und durch geschlossene Türen/durch Wände schmeißen.  
 Bei einmaliger Nutzung des Bugs auf einer Map, wird die entsprechende Map als Default-Loss für das ausführende Team gewertet.  
   
-Bei mehrmaliger Nutzung wird die Map ebenfalls als Default-Loss für das ausführende Team gewertet, zusätzlich werden alle Spieler, die bei der Nutzung des Bugs beteiligt waren, für 18 Spieltage (Relegationen und Playoffs gelten nicht als Spieltag) gesperrt und aus dem Team-Account entfernt. Kann das Team kein spielberechtigtes Lineup mehr stellen, wird es aus der laufenden Saison ausgetragen, verliert infolgedessen sämtliche Erfolge und wird bei erneuter Anmeldung zu einer der Folge-Saisons in die Kalibrierungs-Division eingestuft.  
+Bei mehrmaliger Nutzung wird die Map ebenfalls als Default-Loss für das ausführende Team gewertet, zusätzlich werden alle Spieler, die bei der Nutzung des Bugs beteiligt waren, für 18 Spieltage (Relegationen und Playoffs gelten nicht als Spieltag) gesperrt und aus dem Team-Account entfernt. Kann das Team kein spielberechtigtes Lineup mehr stellen, wird es aus der laufenden Saison ausgetragen, verliert infolgedessen sämtliche Erfolge und wird bei erneuter Anmeldung zu einer der Folge-Saisons in die Division 6 eingestuft.  
   
 **Zeus-Bug**: Jegliches Werfen von Waffen und Gegenständen durch Wände zum Zwecke der Erlangung eines spielerischen Vorteils ist verboten. Auch der Versuch ist strafbar, selbst wenn die Waffe bzw. der Gegenstand die Wand/Fläche nicht penetriert und hat die Sperre des ausführenden Spielers für 18 Spieltage (Relegationen und Playoffs gelten nicht als Spieltag) zur Folge.
 
@@ -1220,7 +1289,7 @@ Das Benutzen von Programmen, Software und Hardware jeder Art zur Manipulation de
   
   
 
-Die Benutzung von "Simple radar" ist grundsätzlich erlaubt, jedoch auf eigene Gefahr. Jeder Benutzer ist selbst dafür verantwortlich, sich über Updates von Seiten von Valve aktuell zu halten. Im Falle eines Bans gelten die ESL Meisterschaft by 99Damage Cheating Regeln.
+Die Benutzung von "Simple radar" ist grundsätzlich erlaubt, jedoch auf eigene Gefahr. Jeder Benutzer ist selbst dafür verantwortlich, sich über Updates von Seiten von Valve aktuell zu halten. Im Falle eines Bans gelten die ESL Meisterschaft Cheating Regeln.
 
   
   
