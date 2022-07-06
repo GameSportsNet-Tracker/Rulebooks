@@ -266,7 +266,6 @@ Die Division 3 ist in mehrere Gruppen aufgeteilt. Eine Gruppe besteht aus maxima
 Die Divisionen 4, 5 und Kalibirierungs-Division bestehen aus einer Gruppe mit allen Teams und werden im Swiss-Format ausgespielt.  
   
   
-  
 
 Anti Cheat [(^)](https://liga.99damage.de/statics/league_rules_99liga)
 ----------------------------------------------------------------------
@@ -551,7 +550,7 @@ Ab Inkrafttreten des Roster-Locks sind keine Stand-ins von Beginn des Matches an
   
   
 
-Springt ein Stand-in, der kein bestätigter Spieler des Saison-Lineups ist, im laufenden Match für einen aktiven Spieler ein, dem es aus technischen Gründen nicht mehr möglich ist, am laufenden Match teilzunehmen, muss dieser in den Match-Kommentaren mit den Angaben "Gamesports Network Spieler-Profil-Link" / "ESL Meisterschaft Team-Link (sofern in einem aktiven Team der Saison) / "Steam-ID" sowie via Support-Ticket angekündigt werden. Das Support-Ticket kann auch bis maximal 45 Minuten nach Ende des Matches nachgereicht werden.
+Springt ein Stand-in, der kein bestätigter Spieler des Saison-Lineups ist, im laufenden Match für einen aktiven Spieler ein, dem es aus technischen Gründen nicht mehr möglich ist, am laufenden Match teilzunehmen, muss dieser in den Match-Kommentaren mit den Angaben "Gamesports Network Spieler-Profil-Link" / "ESL Meisterschaft Team-Link (sofern in einem aktiven Team der Saison) / "Steam-ID" sowie via Support-Ticket angekündigt werden. Das [Support-Ticket](https://liga.99damage.de/users/support) kann auch bis maximal 45 Minuten nach Ende des Matches nachgereicht werden.
 
   
   
