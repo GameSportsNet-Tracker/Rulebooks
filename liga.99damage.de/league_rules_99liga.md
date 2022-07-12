@@ -1,4 +1,4 @@
-![](https://cdn0.gamesports.net/storage/180000/180163.jpg)
+![](https://cdn0.gamesports.net/storage/185000/185854.jpg)
 
   
 [Zurück zur Regelwerke-Übersicht](https://liga.99damage.de/statics/rules)  
