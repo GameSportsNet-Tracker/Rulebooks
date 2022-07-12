@@ -8,7 +8,7 @@ Jegliche Fragen und Beschwerden zur Liga müssen über ein [Support-Ticket](http
 
   
 
-Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
+Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft Discord-Server](https://liga.esl-meisterschaft.de/redirect/5296) zur Verfügung.
 
   
   
@@ -28,42 +28,42 @@ Index
   
 
   
-2.  [Allgemeines](https://liga.99damage.de/statics/league_rules_99liga/#allgemeines)  
+2.  [Allgemeines](https://liga.99damage.de/statics/league_rules_general/#allgemeines)  
       
     
-3.  [Liga Struktur](https://liga.99damage.de/statics/league_rules_99liga/#struktur)  
+3.  [Liga Struktur](https://liga.99damage.de/statics/league_rules_general/#struktur)  
       
     
-4.  [Anti Cheat](https://liga.99damage.de/statics/league_rules_99liga/#anticheat)  
+4.  [Anti Cheat](https://liga.99damage.de/statics/league_rules_general/#anticheat)  
       
     
-5.  [Gruppen und Format](https://liga.99damage.de/statics/league_rules_99liga/#gruppen)  
+5.  [Gruppen und Format](https://liga.99damage.de/statics/league_rules_general/#gruppen)  
       
     
-6.  [Zusammensetzung Teams](https://liga.99damage.de/statics/league_rules_99liga/#teams)  
+6.  [Zusammensetzung Teams](https://liga.99damage.de/statics/league_rules_general/#teams)  
       
     
-7.  [Proteste und Fragen](https://liga.99damage.de/statics/league_rules_99liga/#protest)  
+7.  [Proteste und Fragen](https://liga.99damage.de/statics/league_rules_general/#protest)  
       
     
-8.  [Spieltag und Spielablauf](https://liga.99damage.de/statics/league_rules_99liga/#spieltag)  
+8.  [Spieltag und Spielablauf](https://liga.99damage.de/statics/league_rules_general/#spieltag)  
       
     
-9.  [Vor dem Match](https://liga.99damage.de/statics/league_rules_99liga/#vor)  
+9.  [Vor dem Match](https://liga.99damage.de/statics/league_rules_general/#vor)  
       
     
-10.  [Während des Matches](https://liga.99damage.de/statics/league_rules_99liga/#match)  
+10.  [Während des Matches](https://liga.99damage.de/statics/league_rules_general/#match)  
       
     
-11.  [Cheating](https://liga.99damage.de/statics/league_rules_99liga/#cheating)  
+11.  [Cheating](https://liga.99damage.de/statics/league_rules_general/#cheating)  
     
 
   
   
   
 
-Allgemeines [(^)](https://liga.99damage.de/statics/league_rules_99liga/#top)
-----------------------------------------------------------------------------
+Allgemeines [(^)](https://liga.99damage.de/statics/league_rules_general/#top)
+-----------------------------------------------------------------------------
 
   
   
@@ -189,12 +189,12 @@ Jedes Team ist für Logos, Teamnamen etc. selbst verantwortlich. Die Liga-Admini
   
   
 
-Die primäre Kommunikationsplattform für die ESL Meisterschaft ist die ESL Meisterschaft Webseite, welche unter liga.99damage.de zu finden ist. Andere Teams können mit Hilfe der unter dem jeweiligen Match befindlichen Kommentarfunktion kontaktiert werden.
+Die primäre Kommunikationsplattform für die ESL Meisterschaft ist die ESL Meisterschaft Webseite, welche unter https://liga.esl-meisterschaft.de zu finden ist. Andere Teams können mit Hilfe der unter dem jeweiligen Match befindlichen Kommentarfunktion kontaktiert werden.
 
   
   
 
-Sollten Absprachen zwischen zwei (2) Teams außerhalb der Match-Kommentare (z.B. Steam Chat oder auch 99Damage Forum und Privaten Nachrichten) vorgenommen werden, müssen diese von beiden Teams in den Match-Kommentaren vermerkt/bestätigt werden, damit die Liga-Administration diese nachvollziehen kann. Screenshots von Unterhaltungen außerhalb der Match-Kommentare sind als Beweis nicht zugelassen.
+Sollten Absprachen zwischen zwei (2) Teams außerhalb der Match-Kommentare (z.B. Steam Chat oder in Privaten Nachrichten) vorgenommen werden, müssen diese von beiden Teams in den Match-Kommentaren vermerkt/bestätigt werden, damit die Liga-Administration diese nachvollziehen kann. Screenshots von Unterhaltungen außerhalb der Match-Kommentare sind als Beweis nicht zugelassen.
 
   
   
@@ -225,8 +225,8 @@ Teams, die aufgrund von Inaktivität aus der laufenden Saison ausgetragen wurden
   
   
 
-Liga Struktur [(^)](https://liga.99damage.de/statics/league_rules_99liga)
--------------------------------------------------------------------------
+Liga Struktur [(^)](https://liga.99damage.de/statics/league_rules_general)
+--------------------------------------------------------------------------
 
   
   
@@ -267,8 +267,8 @@ Die Divisionen 4, 5 und Kalibirierungs-Division bestehen aus einer Gruppe mit al
   
   
 
-Anti Cheat [(^)](https://liga.99damage.de/statics/league_rules_99liga)
-----------------------------------------------------------------------
+Anti Cheat [(^)](https://liga.99damage.de/statics/league_rules_general)
+-----------------------------------------------------------------------
 
   
   
@@ -344,8 +344,8 @@ Je nach Art des Report werden entweder entsprechende Strafen vergeben oder die D
   
   
 
-Gruppen und Format [(^)](https://liga.99damage.de/statics/league_rules_99liga)
-------------------------------------------------------------------------------
+Gruppen und Format [(^)](https://liga.99damage.de/statics/league_rules_general)
+-------------------------------------------------------------------------------
 
   
   
@@ -438,8 +438,8 @@ Abhängig von der Platzierung nach Ende einer Saison steigen Teams auf, ab oder 
   
   
 
-Zusammensetzung der Teams [(^)](https://liga.99damage.de/statics/league_rules_99liga)
--------------------------------------------------------------------------------------
+Zusammensetzung der Teams [(^)](https://liga.99damage.de/statics/league_rules_general)
+--------------------------------------------------------------------------------------
 
   
   
@@ -496,12 +496,12 @@ Kann ein Team zu den Division 2-3 Playoffs kein mehrheitlich aus D-A-CH-Spielern
   
   
 
-Für die Division 3 Round-Robin-Stage sind die übrigen Regeln bezüglich der Lineup-Zusammensetzung, [auch die Sprache betreffend](https://liga.99damage.de/statics/league_rules_99liga/#sprache), weiterhin gültig. Auch die Roster-Lock-Regelungen sind weiterhin gültig. Möchte ein Team bei entsprechender Platzierung an den Playoffs teilnehmen, so muss es also bereits zum Roster-Lock ein mehrheitlich aus D-A-CH-Spielern bestehendes Lineup stellen.
+Für die Division 3 Round-Robin-Stage sind die übrigen Regeln bezüglich der Lineup-Zusammensetzung, [auch die Sprache betreffend](https://liga.99damage.de/statics/league_rules_general/#sprache), weiterhin gültig. Auch die Roster-Lock-Regelungen sind weiterhin gültig. Möchte ein Team bei entsprechender Platzierung an den Playoffs teilnehmen, so muss es also bereits zum Roster-Lock ein mehrheitlich aus D-A-CH-Spielern bestehendes Lineup stellen.
 
   
   
 
-Qualifiziert sich ein Team über die Division 2-3 Playoffs für die Division 2, so ist die Division 2 Lizenz an ein Mehrheitslineup gebunden. (Siehe ESL Meisterschaft Regelwerk Division 2 – [Regel 1.5](https://liga.99damage.de/statics/league_rules_99liga_2nd/#teams)) Kann nach den Playoffs ein solches Mehrheitslineup nicht gestellt werden, so kann nicht an der Division 2 teilgenommen werden.
+Qualifiziert sich ein Team über die Division 2-3 Playoffs für die Division 2, so ist die Division 2 Lizenz an ein Mehrheitslineup gebunden. (Siehe ESL Meisterschaft Regelwerk Division 2 – [Regel 1.5](https://liga.esl-meisterschaft.de/statics/league_rules_div2/#teams)) Kann nach den Playoffs ein solches Mehrheitslineup nicht gestellt werden, so kann nicht an der Division 2 teilgenommen werden.
 
   
   
@@ -663,8 +663,8 @@ Sollte der Verkauf gegen Geld, Dienstleistungen oder Sachleistungen bekannt werd
   
   
 
-Proteste & Fragen [(^)](https://liga.99damage.de/statics/league_rules_99liga)
------------------------------------------------------------------------------
+Proteste & Fragen [(^)](https://liga.99damage.de/statics/league_rules_general)
+------------------------------------------------------------------------------
 
   
   
@@ -724,7 +724,7 @@ Die Veröffentlichung von Protest-Inhalten führt zum sofortigen Ausschluss aus 
   
   
 
-Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft Discord-Server](https://liga.99damage.de/de/redirect/5296) zur Verfügung.
+Bei akuten Problemen mit dem Gameserver oder dem 99Bot, steht euch außerdem der direkte Kontakt über unseren [ESL Meisterschaft Discord-Server](https://liga.esl-meisterschaft.de/redirect/5296) zur Verfügung.
 
   
   
@@ -787,8 +787,8 @@ Werden diese Vorgaben nicht erfüllt, wird der Protest auf Grund von Unvollstän
   
   
 
-Spieltag & Spielablauf [(^)](https://liga.99damage.de/statics/league_rules_99liga)
-----------------------------------------------------------------------------------
+Spieltag & Spielablauf [(^)](https://liga.99damage.de/statics/league_rules_general)
+-----------------------------------------------------------------------------------
 
   
   
@@ -859,8 +859,8 @@ Der Termin für eine Verschiebung gemäß Regel 7.2.3 muss über die Kommentare 
   
   
 
-Vor dem Match [(^)](https://liga.99damage.de/statics/league_rules_99liga)
--------------------------------------------------------------------------
+Vor dem Match [(^)](https://liga.99damage.de/statics/league_rules_general)
+--------------------------------------------------------------------------
 
   
   
@@ -985,8 +985,8 @@ Der Mappool besteht aus folgenden sieben Maps:
   
   
 
-Während des Matches[(^)](https://liga.99damage.de/statics/league_rules_99liga)
-------------------------------------------------------------------------------
+Während des Matches[(^)](https://liga.99damage.de/statics/league_rules_general)
+-------------------------------------------------------------------------------
 
   
   
@@ -1036,7 +1036,7 @@ Es gibt keine Messer-Runde mehr. Stattdessen muss das Team, welches die Karte ge
   
   
 
-Wie die Startseite gewählt wird kann man im [Tutorial zum 99Bot](https://liga.99damage.de/statics/league_guides_99bot) nachlesen. Wie man die Konsole aktiviert kann man den ersten beiden Schritten unseres [Status-Screenshot-Guides](https://liga.99damage.de/https://liga.99damage.de/statics/league_guides_statusscreen) entnehmen.
+Wie die Startseite gewählt wird kann man im [Tutorial zum 99Bot](https://liga.99damage.de/statics/league_guides_99bot) nachlesen. Wie man die Konsole aktiviert kann man den ersten beiden Schritten unseres [Status-Screenshot-Guides](https://liga.99damage.de/statics/league_guides_statusscreen) entnehmen.
 
   
   
@@ -1180,8 +1180,8 @@ Ein Team, das vollzählig vor Ende einer Map den Server absichtlich verlässt, v
   
   
 
-Cheating[(^)](https://liga.99damage.de/statics/league_rules_99liga)
--------------------------------------------------------------------
+Cheating[(^)](https://liga.99damage.de/statics/league_rules_general)
+--------------------------------------------------------------------
 
   
   
