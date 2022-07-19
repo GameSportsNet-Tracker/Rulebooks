@@ -941,6 +941,8 @@ Nicht notwendigerweise vollständige Liste an nicht erlaubten Tools:
 
   
 [LeagueTracker](https://leaguetracker.gg/)  
+[Blitz](https://blitz.gg/)  
+[Porofessor](https://porofessor.gg/de/)  
 
   
   
